@@ -2,6 +2,2527 @@ University,Programme,Branch,Semester,SubjectCode,SubjectName
 SRM KTR,B.Tech,CSE,1,21LEH102T,Chinese
 SRM KTR,B.Tech,CSE,1,21LEH103T,French
 SRM KTR,B.Tech,CSE,1,21LEH104T,German
+SRM KTR,B.Tech,CSE,1,21LEH105T,Japanese
+SRM KTR,B.Tech,CSE,1,21LEH106T,Korean
+SRM KTR,B.Tech,CSE,1,21LEH107T,Spanish
+SRM KTR,B.Tech,CSE,1,21LEH108T,Russian
+SRM KTR,B.Tech,CSE,1,21GNH101J,Philosophy of En
+SRM KTR,B.Tech,CSE,1,21MAB101T,Calculus and Lin
+SRM KTR,B.Tech,CSE,1,21CYB101J,Chemistry
+SRM KTR,B.Tech,CSE,1,21BTB102T,Introduction to C
+SRM KTR,B.Tech,CSE,1,21CSS101J,Programming for
+SRM KTR,B.Tech,CSE,1,21MES101L,Basic Civil and M
+SRM KTR,B.Tech,CSE,1,21PDM101L,Professional Skil
+SRM KTR,B.Tech,CSE,1,21GNM101L,Physical and Me
+SRM KTR,B.Tech,CSE,1,21GNM102L,National Service
+SRM KTR,B.Tech,CSE,1,21GNM103L,National Cadet C
+SRM KTR,B.Tech,CSE,1,21GNM104L,National Sports
+SRM KTR,B.Tech,CSE,2,21LEH101T,Communicative
+SRM KTR,B.Tech,CSE,2,21MAB102T,Advanced Calcul
+SRM KTR,B.Tech,CSE,2,21PYB102J,Semiconductor P
+SRM KTR,B.Tech,CSE,2,21MES102L,Engineering Gra
+SRM KTR,B.Tech,CSE,2,21EES101T,Electrical and Ele
+SRM KTR,B.Tech,CSE,2,21CSC101T,Object Oriented
+SRM KTR,B.Tech,CSE,2,21CYM101T,Environmental S
+SRM KTR,B.Tech,CSE,2,21PDM102L,General Aptitude
+SRM KTR,B.Tech,CSE,2,21LEM101T,Constitution of In
+SRM KTR,B.Tech,CSE,3,21MAB201T,Transforms and
+SRM KTR,B.Tech,CSE,3,21DCS201P,Design Thinking
+SRM KTR,B.Tech,CSE,3,21CSS201T,Computer Organ
+SRM KTR,B.Tech,CSE,3,21CSC201J,Data Structures
+SRM KTR,B.Tech,CSE,3,21CSC202J,Operating Syste
+SRM KTR,B.Tech,CSE,3,21CSC203P,Advanced Progra
+SRM KTR,B.Tech,CSE,3,21LEM201T,Professional Ethi
+SRM KTR,B.Tech,CSE,3,21PDM201L,Verbal Reasonin
+SRM KTR,B.Tech,CSE,4,21MAB204T,Probability and Q
+SRM KTR,B.Tech,CSE,4,21CSC204J,Design and Anal
+SRM KTR,B.Tech,CSE,4,21CSC205P,Database Manag
+SRM KTR,B.Tech,CSE,4,21CSC206T,Artificial Intellige
+SRM KTR,B.Tech,CSE,4,21PDH209T,Social Engineeri
+SRM KTR,B.Tech,CSE,4,21PDM202L,Critical and Crea
+SRM KTR,B.Tech,CSE,4,21LEM202T,Universal Human
+SRM KTR,B.Tech,CSE,5,21MAB302T,Discrete Mathem
+SRM KTR,B.Tech,CSE,5,21CSC301T,Formal Languag
+SRM KTR,B.Tech,CSE,5,21CSC302J,Computer Netwo
+SRM KTR,B.Tech,CSE,5,21CSC305P,Machine Learnin
+SRM KTR,B.Tech,CSE,5,21GNP301L,Community Conn
+SRM KTR,B.Tech,CSE,5,21PDM301L,Analytical and Lo
+SRM KTR,B.Tech,CSE,5,21LEM301T,Indian Art Form
+SRM KTR,B.Tech,CSE,6,21CSS303T,Data Science
+SRM KTR,B.Tech,CSE,6,21CSC303J,Software Engine
+SRM KTR,B.Tech,CSE,6,21CSC304J,Compiler Design
+SRM KTR,B.Tech,CSE,6,21CSP302L,Project
+SRM KTR,B.Tech,CSE,6,21CSP303T,MOOC
+SRM KTR,B.Tech,CSE,6,21PDM302L,Employability Ski
+SRM KTR,B.Tech,CSE,6,21LEM302T,Indian Traditiona
+SRM KTR,B.Tech,CSE,7,21GNH401TA,Behavioral Psych
+SRM KTR,B.Tech,CSE,8,21CSP401L,Major Project
+SRM KTR,B.Tech,CSE,8,21CSP402L,Major Project
+SRM KTR,B.Tech,CSE,8,21CSP403L,Internship
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE251T,Digital Image Pro
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE252T,Biometrics
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE253T,Internet of Thing
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE254T,Bio Inspired Com
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE255T,Computer Graph
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE306P,Applied Generati
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE311J,Cloud Based Re
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE315P,Data Orchestrati
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE351T,Computational L
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE352T,Neuro Fuzzy and
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE353T,"Augmented, Virtu"
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE354T,Full Stack Web D
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE355T,Data Mining and
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE356T,Natural Languag
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE357T,Distributed Comp
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE358T,Network Security
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE359T,Information Stora
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE360TA,Parallel Computi
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE361T,Database Securi
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE362T,Cloud Computing
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE399T,Advanced Mobile
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE402P,Intelligent Syste
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE451T,Pattern Recognit
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE452T,Semantic Web
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE453T,Speech Recogni
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE454T,Computer Vision
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE455T,Social Network A
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE456T,Software Defined
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE457T,Service Oriented
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE458T,Wireless and Mo
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE459T,Wireless Sensor
+SRM KTR,B.Tech,CSE,Elective pool Sem 4-7,21CSE460T,Network Protoco
+SRM KTR,B.Tech,CSE,Elective pool Sem 5-7,21CSO351T,Web Programmi
+SRM KTR,B.Tech,CSE,Elective pool Sem 5-7,21CSO352T,Python Program
+SRM KTR,B.Tech,CSE,Elective pool Sem 5-7,21CSO353T,Mobile Applicatio
+SRM KTR,B.Tech,CSE,Elective pool Sem 5-7,21CSO354T,Data Analytics
+SRM KTR,B.Tech,CSE-Cloud Com,1,21LEH102T,Chinese
+SRM KTR,B.Tech,CSE-Cloud Com,1,21LEH103T,French
+SRM KTR,B.Tech,CSE-Cloud Com,1,21LEH104T,German
+SRM KTR,B.Tech,CSE-Cloud Com,1,21LEH105T,Japanese
+SRM KTR,B.Tech,CSE-Cloud Com,1,21LEH106T,Korean
+SRM KTR,B.Tech,CSE-Cloud Com,1,21LEH107T,Spanish
+SRM KTR,B.Tech,CSE-Cloud Com,1,21GNH101J,Philosophy of En
+SRM KTR,B.Tech,CSE-Cloud Com,1,21MAB101T,Calculus and Lin
+SRM KTR,B.Tech,CSE-Cloud Com,1,21CYB101J,Chemistry
+SRM KTR,B.Tech,CSE-Cloud Com,1,21BTB102T,Introduction to C
+SRM KTR,B.Tech,CSE-Cloud Com,1,21CSS101J,Programming for
+SRM KTR,B.Tech,CSE-Cloud Com,1,21MES101L,Basic Civil and M
+SRM KTR,B.Tech,CSE-Cloud Com,1,21PDM101L,Professional Skil
+SRM KTR,B.Tech,CSE-Cloud Com,1,21GNM101L,Physical and Me
+SRM KTR,B.Tech,CSE-Cloud Com,1,21GNM102L,National Service
+SRM KTR,B.Tech,CSE-Cloud Com,1,21GNM103L,National Cadet C
+SRM KTR,B.Tech,CSE-Cloud Com,1,21GNM104L,National Sports
+SRM KTR,B.Tech,CSE-Cloud Com,2,21LEH101T,Communicative
+SRM KTR,B.Tech,CSE-Cloud Com,2,21MAB102T,Advanced Calcul
+SRM KTR,B.Tech,CSE-Cloud Com,2,21PYB102J,Semiconductor P
+SRM KTR,B.Tech,CSE-Cloud Com,2,21MES102L,Engineering Gra
+SRM KTR,B.Tech,CSE-Cloud Com,2,21EES101T,Electrical and Ele
+SRM KTR,B.Tech,CSE-Cloud Com,2,21CSC101T,Object Oriented
+SRM KTR,B.Tech,CSE-Cloud Com,2,21CYM101T,Environmental S
+SRM KTR,B.Tech,CSE-Cloud Com,2,21PDM102L,General Aptitude
+SRM KTR,B.Tech,CSE-Cloud Com,2,21LEM101T,Constitution of In
+SRM KTR,B.Tech,CSE-Cloud Com,3,21MAB206T,Numerical Metho
+SRM KTR,B.Tech,CSE-Cloud Com,3,21DCS201P,Design Thinking
+SRM KTR,B.Tech,CSE-Cloud Com,3,21CSS201T,Computer Organ
+SRM KTR,B.Tech,CSE-Cloud Com,3,21CSC201J,Data Structures
+SRM KTR,B.Tech,CSE-Cloud Com,3,21CSC202J,Operating Syste
+SRM KTR,B.Tech,CSE-Cloud Com,3,21CSC203P,Advanced Progra
+SRM KTR,B.Tech,CSE-Cloud Com,3,21LEM201T,Professional Ethi
+SRM KTR,B.Tech,CSE-Cloud Com,3,21PDM201L,Verbal Reasonin
+SRM KTR,B.Tech,CSE-Cloud Com,4,21MAB204T,Probability and Q
+SRM KTR,B.Tech,CSE-Cloud Com,4,21CSC204J,Design and Anal
+SRM KTR,B.Tech,CSE-Cloud Com,4,21CSC205P,Database Manag
+SRM KTR,B.Tech,CSE-Cloud Com,4,21CSC206T,Artificial Intellige
+SRM KTR,B.Tech,CSE-Cloud Com,4,21PDH201T,Social Engineeri
+SRM KTR,B.Tech,CSE-Cloud Com,4,21PDM202L,Critical and Crea
+SRM KTR,B.Tech,CSE-Cloud Com,4,21LEM202T,Universal Human
+SRM KTR,B.Tech,CSE-Cloud Com,5,21MAB302T,Discrete Mathem
+SRM KTR,B.Tech,CSE-Cloud Com,5,21CSC301T,Formal Languag
+SRM KTR,B.Tech,CSE-Cloud Com,5,21CSC302J,Computer Netwo
+SRM KTR,B.Tech,CSE-Cloud Com,5,21CSC314P,Big Data Essenti
+SRM KTR,B.Tech,CSE-Cloud Com,5,21GNP301L,Community Conn
+SRM KTR,B.Tech,CSE-Cloud Com,5,21PDM301L,Analytical and Lo
+SRM KTR,B.Tech,CSE-Cloud Com,5,21LEM301T,Indian Art Form
+SRM KTR,B.Tech,CSE-Cloud Com,6,21CSS303T,Data Science
+SRM KTR,B.Tech,CSE-Cloud Com,6,21CSC303J,Software Engine
+SRM KTR,B.Tech,CSE-Cloud Com,6,21CSC316J,Cloud Architectur
+SRM KTR,B.Tech,CSE-Cloud Com,6,21CSP302L,Project
+SRM KTR,B.Tech,CSE-Cloud Com,6,21CSP303T,MOOC
+SRM KTR,B.Tech,CSE-Cloud Com,6,21PDM302L,Employability Ski
+SRM KTR,B.Tech,CSE-Cloud Com,6,21LEM302T,Indian Traditiona
+SRM KTR,B.Tech,CSE-Cloud Com,7,21GNH401T,Behavioral Psych
+SRM KTR,B.Tech,CSE-Cloud Com,8,21CSP401L,Major Project
+SRM KTR,B.Tech,CSE-Cloud Com,8,21CSP403L,Major Project
+SRM KTR,B.Tech,CSE-Cloud Com,8,21CSP404L,Internship
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21MGH101T,Fundamentals of
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21MGH102T,Fundamentals of
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21MGH103T,Basics of Accoun
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21BTB103T,Biology
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21BTB104T,Biology: Human
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21BTB105T,Cell Biology
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21MAB301T,Probability and S
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21PYB101J,Physics: Electro
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21PYB104J,Physics: Mechan
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21MES101T,Engineering Mec
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21ASS101T,Applied Engineer
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21AUS101L,Artifact Dissectio
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21AIS101J,Foundation of Da
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21BTC101T,Biochemistry
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21BMC101J,Biomedical Sens
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21CEC101T,Building Material
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21CHC101J,Physical and Ana
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21EEC101J,Electric Circuits
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21ECC101J,Electronic Syste
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21ECC112J,Systems Progra
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21EIC101J,Sensors and Act
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21MHC101P,Elements of Mec
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21NTC101T,Nanoscience and
+SRM KTR,B.Tech / M.Tech,Other programm,Not assigned in source (Sem TBD),21NTC111T,Physics of Mater
+SRM KTR,B.Tech,CSE specialisati,Not assigned in source (Sem TBD),21CSE312P,Software Engine
+SRM KTR,B.Tech,CSE specialisati,Not assigned in source (Sem TBD),21CSE313P,Accelerated Data
+SRM KTR,B.Tech,CSE specialisati,Not assigned in source (Sem TBD),21CSE371T,Advanced Algorit
+SRM KTR,B.Tech,CSE specialisati,Not assigned in source (Sem TBD),21CSE275T,Requirements En
+SRM KTR,B.Tech,CSE specialisati,Not assigned in source (Sem TBD),21CSE397T,Philosophy of Co
+SRM KTR,B.Tech,Maths (other pro,Not assigned in source (Sem TBD),21MAB202T,Numerical Metho
+SRM KTR,B.Tech,Maths (other pro,Not assigned in source (Sem TBD),21MAB203T,Probability and S
+SRM KTR,B.Tech,CSE,1,18LEH101J,English
+SRM KTR,B.Tech,CSE,1,18MAB101T,Calculus and Linear Algebra
+SRM KTR,B.Tech,CSE,1,18PYB103J,Physics: Semiconductor Physics
+SRM KTR,B.Tech,CSE,1,18MES101L,Engineering Graphics and Design
+SRM KTR,B.Tech,CSE,1,18EES101J,Basic Electrical and Electronics En
+SRM KTR,B.Tech,CSE,2,18CSS101J,Programming for Problem Solving
+SRM KTR,B.Tech,CSE,2,18MES103L,Civil and Mechanical Engineering
+SRM KTR,B.Tech,CSE,3,18CSC201J,Data Structures and Algorithms
+SRM KTR,B.Tech,CSE,3,18CSC203J,Computer Organization and Architecture
+SRM KTR,B.Tech,CSE,4,18CSS202J,Computer Communications
+SRM KTR,B.Tech,CSE,4,18CSC204J,Design and Analysis of Algorithms
+SRM KTR,B.Tech,CSE,4,18CSC206J,Software Engineering and Project Management
+SRM KTR,B.Tech,CSE,4,18PDH103T,Social Engineering
+SRM KTR,B.Tech,CSE,4,18CYM101T,Environmental Science
+SRM KTR,B.Tech,CSE,5,18MAB302T,Discrete Mathematics for Engineers
+SRM KTR,B.Tech,CSE,5,18CSC302J,Computer Networks
+SRM KTR,B.Tech,CSE,6,18CSC207L,Competitive Professional Skills-III
+SRM KTR,B.Tech,CSE,8,18CSP110L,Semester Internship
+SRM KTR,B.Tech,AERO,1,26PYB1002J,"Electromagnetism, Quantum Physics and Optics for Engineers"
+SRM KTR,B.Tech,AERO,1,26MAB1001T,Calculus and Linear Algebra
+SRM KTR,B.Tech,AERO,1,26CSE1001T,Data Science and Artificial Intelligence
+SRM KTR,B.Tech,AERO,1,26EEE1001T,Electrical and Electronics Engineering
+SRM KTR,B.Tech,AERO,1,26MEE1002L,Engineering Graphics
+SRM KTR,B.Tech,AERO,1,26LCA1001J,Professional English for Engineers
+SRM KTR,B.Tech,AERO,1,26GNN1001T,Universal Human Values – Understanding Harmony and Ethical Human Conduct
+SRM KTR,B.Tech,AERO,2,26BTB1002T,Biology
+SRM KTR,B.Tech,AERO,2,26CYB1001J,Chemistry
+SRM KTR,B.Tech,AERO,2,26MAB2001T,Transforms and Boundary Value Problems
+SRM KTR,B.Tech,AERO,2,26CSE1002J,Programming for Problem Solving
+SRM KTR,B.Tech,AERO,2,26MEE1001L,Workshop Practice
+SRM KTR,B.Tech,AERO,2,26ASC1001T,Fundamentals of Aerospace Engineering
+SRM KTR,B.Tech,AERO,2,26LCA1002J,Chinese
+SRM KTR,B.Tech,AERO,2,26LCA1003J,French
+SRM KTR,B.Tech,AERO,2,26LCA1004J,German
+SRM KTR,B.Tech,AERO,2,26LCA1005J,Japanese
+SRM KTR,B.Tech,AERO,2,26LCA1006J,Korean
+SRM KTR,B.Tech,AERO,2,26LCA1007J,Spanish
+SRM KTR,B.Tech,AERO,2,26LCA1008J,Russian
+SRM KTR,B.Tech,AERO,2,26GNN1004L,National Service Scheme
+SRM KTR,B.Tech,AERO,2,26GNN1005L,National Cadet Corps
+SRM KTR,B.Tech,AERO,2,26GNN1006L,National Sports Organization
+SRM KTR,B.Tech,AERO,2,26GNN1007J,Physical and Mental Health using Yoga
+SRM KTR,B.Tech,AERO,3,26MAB2007J,Numerical Methods and Computing
+SRM KTR,B.Tech,AERO,3,26DCE1001T,Design Thinking and Methodology
+SRM KTR,B.Tech,AERO,3,26MEE1003J,Engineering Mechanics
+SRM KTR,B.Tech,AERO,3,26ASC2001T,Aero Fluid Mechanics
+SRM KTR,B.Tech,AERO,3,26ASC2002T,Aerothermodynamics
+SRM KTR,B.Tech,AERO,3,26ASC2003T,Aircraft Systems and Instruments
+SRM KTR,B.Tech,AERO,3,26ASC2007L,Aero Fluid Mechanics Laboratory
+SRM KTR,B.Tech,AERO,3,26ASC2008L,Aircraft Component Drawing Laboratory
+SRM KTR,B.Tech,AERO,3,26LCN1001T,"Indian Art, Culture and Constitution"
+SRM KTR,B.Tech,AERO,3,26LCN1002T,Indian Traditional Knowledge
+SRM KTR,B.Tech,AERO,4,26MEC2002T,Mechanics of Solids
+SRM KTR,B.Tech,AERO,4,26ASC2004T,Incompressible Aerodynamics
+SRM KTR,B.Tech,AERO,4,26ASC2005T,Air Breathing Propulsion
+SRM KTR,B.Tech,AERO,4,26ASC2006T,Aircraft Performance
+SRM KTR,B.Tech,AERO,4,26ASC2009L,Aero Solid Mechanics Laboratory
+SRM KTR,B.Tech,AERO,4,26ASC2010L,Aerospace Propulsion Laboratory
+SRM KTR,B.Tech,AERO,4,26GNN1003J,Behavioural Psychology
+SRM KTR,B.Tech,AERO,4,26LCN1003T,Professional Ethics and Values
+SRM KTR,B.Tech,AERO,5,26ASC3001T,Compressible Aerodynamics
+SRM KTR,B.Tech,AERO,5,26ASC3002T,Aerospace Structures
+SRM KTR,B.Tech,AERO,5,26ASC3003T,Aerospace Propulsion
+SRM KTR,B.Tech,AERO,5,26ASC3004T,Aircraft Stability and Control
+SRM KTR,B.Tech,AERO,5,26ASC3007L,Aerodynamics Laboratory
+SRM KTR,B.Tech,AERO,5,26ASC3008L,Aerospace Structures Laboratory
+SRM KTR,B.Tech,AERO,5,26CYN1001J,Environmental Science with AI
+SRM KTR,B.Tech,AERO,5,26GNN1002L,Community Connect
+SRM KTR,B.Tech,AERO,6,26ASC3005T,Space Vehicle Dynamics and Control
+SRM KTR,B.Tech,AERO,6,26ASC3006T,Computational Fluid Dynamics for Aerospace Applications
+SRM KTR,B.Tech,AERO,6,26ASC3009L,Aircraft Design Project
+SRM KTR,B.Tech,AERO,6,26ASC3010L,Computational Analysis Laboratory
+SRM KTR,B.Tech,AERO,6,26ASC3011J,Finite Element Modelling and Analysis
+SRM KTR,B.Tech,AERO,6,26CEN1001T,Disaster Mitigation and Management
+SRM KTR,B.Tech,AERO,6,26CSN1001J,Cyber Hygiene
+SRM KTR,B.Tech,AERO,7,26ASP3001L,Summer Internship
+SRM KTR,B.Tech,AERO,8,26ASP4001L,Major Project
+SRM KTR,B.Tech,AERO,8,26ASP4002L,Major Project
+SRM KTR,B.Tech,AERO,8,26ASP4003L,Professional Internship
+SRM KTR,B.Tech,AUTO,1,26PYB1002J,"Electromagnetism, Quantum Physics and Optics for Engineers"
+SRM KTR,B.Tech,AUTO,1,26MAB1001T,Calculus and Linear Algebra
+SRM KTR,B.Tech,AUTO,1,26CSE1001T,Data Science and Artificial Intelligence
+SRM KTR,B.Tech,AUTO,1,26EEE1001T,Electrical and Electronics Engineering
+SRM KTR,B.Tech,AUTO,1,26MEE1002L,Engineering Graphics
+SRM KTR,B.Tech,AUTO,1,26LCA1001J,Professional English for Engineers
+SRM KTR,B.Tech,AUTO,1,26GNN1001T,Universal Human Values – Understanding Harmony and Ethical Human Conduct
+SRM KTR,B.Tech,AUTO,2,26CYB1001J,Chemistry
+SRM KTR,B.Tech,AUTO,2,26BTB1002T,Biology
+SRM KTR,B.Tech,AUTO,2,26MAB1002T,Advanced Calculus and Complex Analysis
+SRM KTR,B.Tech,AUTO,2,26CSE1002J,Programming for Problem Solving
+SRM KTR,B.Tech,AUTO,2,26MEE1001L,Workshop Practice
+SRM KTR,B.Tech,AUTO,2,26MEE1003J,Engineering Mechanics
+SRM KTR,B.Tech,AUTO,2,26AUC1001L,Artifact Dissection Laboratory
+SRM KTR,B.Tech,AUTO,2,26LCA1002J,Chinese
+SRM KTR,B.Tech,AUTO,2,26LCA1003J,French
+SRM KTR,B.Tech,AUTO,2,26LCA1004J,German
+SRM KTR,B.Tech,AUTO,2,26LCA1005J,Japanese
+SRM KTR,B.Tech,AUTO,2,26LCA1006J,Korean
+SRM KTR,B.Tech,AUTO,2,26LCA1007J,Spanish
+SRM KTR,B.Tech,AUTO,2,26LCA1008J,Russian
+SRM KTR,B.Tech,AUTO,2,26GNN1004L,National Service Scheme
+SRM KTR,B.Tech,AUTO,2,26GNN1005L,National Cadet Corps
+SRM KTR,B.Tech,AUTO,2,26GNN1006L,National Sports Organization
+SRM KTR,B.Tech,AUTO,2,26GNN1007J,Physical and Mental Health using Yoga
+SRM KTR,B.Tech,AUTO,3,26MAB2011T,Transforms and Numerical Methods
+SRM KTR,B.Tech,AUTO,3,26DCE1001T,Design Thinking and Methodology
+SRM KTR,B.Tech,AUTO,3,26MEC2001T,Materials Engineering
+SRM KTR,B.Tech,AUTO,3,26MEC2002T,Mechanics of Solids
+SRM KTR,B.Tech,AUTO,3,26MEC2009L,Mechanics of Solids Laboratory
+SRM KTR,B.Tech,AUTO,3,26MEC2011L,Materials Engineering Laboratory
+SRM KTR,B.Tech,AUTO,3,26AUC2001J,Manufacturing Technology for Automotive Engineers
+SRM KTR,B.Tech,AUTO,3,26AUC2002T,Applied Thermal Engineering
+SRM KTR,B.Tech,AUTO,3,26LCN1001T,"Indian Art, Culture and Constitution"
+SRM KTR,B.Tech,AUTO,3,26LCN1002T,Indian Traditional Knowledge
+SRM KTR,B.Tech,AUTO,4,26MAB2003J,Probability and Statistics
+SRM KTR,B.Tech,AUTO,4,26MEC2006T,Kinematics and Dynamics of Machines
+SRM KTR,B.Tech,AUTO,4,26MEC2007T,Fluid Mechanics and Machinery
+SRM KTR,B.Tech,AUTO,4,26MEC2014L,Fluid Mechanics and Machinery Laboratory
+SRM KTR,B.Tech,AUTO,4,26AUC2003J,Automotive Engines
+SRM KTR,B.Tech,AUTO,4,26GNN1003J,Behavioural Psychology
+SRM KTR,B.Tech,AUTO,4,26LCN1003T,Professional Ethics and Values
+SRM KTR,B.Tech,AUTO,5,26AUC3001T,Vehicular Structures and Driveline Systems
+SRM KTR,B.Tech,AUTO,5,26AUC3002J,Automotive Electrical and Electronic Systems
+SRM KTR,B.Tech,AUTO,5,26AUC3003T,Design of Automotive Components
+SRM KTR,B.Tech,AUTO,5,26AUC3004J,Computer Aided Design for Automotive Engineers
+SRM KTR,B.Tech,AUTO,5,26AUC3007L,Automotive Chassis Components Laboratory
+SRM KTR,B.Tech,AUTO,5,26CYN1001J,Environmental Science with AI
+SRM KTR,B.Tech,AUTO,5,26GNN1002L,Community Connect
+SRM KTR,B.Tech,AUTO,6,26AUC3005T,Vehicle Diagnostics and Service
+SRM KTR,B.Tech,AUTO,6,26AUC3006J,Vehicle Dynamics
+SRM KTR,B.Tech,AUTO,6,26AUC3008L,Vehicle Testing Laboratory
+SRM KTR,B.Tech,AUTO,6,26AUC3009L,Finite Element and CFD Analysis Laboratory
+SRM KTR,B.Tech,AUTO,6,26CEN1001T,Disaster Mitigation and Management
+SRM KTR,B.Tech,AUTO,6,26CSN1001J,Cyber Hygiene
+SRM KTR,B.Tech,AUTO,7,26AUP3001L,Summer Internship
+SRM KTR,B.Tech,AUTO,8,26AUP4001L,Major Project
+SRM KTR,B.Tech,AUTO,8,26AUP4002L,Major Project
+SRM KTR,B.Tech,AUTO,8,26AUP4003L,Professional Internship
+SRM KTR,B.Tech,BIOTECH,1,26PYB1002J,"Electromagnetism, Quantum Physics and Optics for Engineers"
+SRM KTR,B.Tech,BIOTECH,1,26MAB1001T,Calculus and Linear Algebra
+SRM KTR,B.Tech,BIOTECH,1,26CSE1001T,Data Science and Artificial Intelligence
+SRM KTR,B.Tech,BIOTECH,1,26EEE1001T,Electrical and Electronics Engineering
+SRM KTR,B.Tech,BIOTECH,1,26MEE1002L,Engineering Graphics
+SRM KTR,B.Tech,BIOTECH,1,26LCA1001J,Professional English for Engineers
+SRM KTR,B.Tech,BIOTECH,1,26GNN1001T,Universal Human Values – Understanding Harmony and Ethical Human Conduct
+SRM KTR,B.Tech,BIOTECH,2,26CYB1001J,Chemistry
+SRM KTR,B.Tech,BIOTECH,2,26BTB1003T,Cell Biology
+SRM KTR,B.Tech,BIOTECH,2,26MAB1002T,Advanced Calculus and Complex Analysis
+SRM KTR,B.Tech,BIOTECH,2,26CSE1002J,Programming for Problem Solving
+SRM KTR,B.Tech,BIOTECH,2,26MEE1001L,Workshop Practice
+SRM KTR,B.Tech,BIOTECH,2,26BTC1001J,Microbiology
+SRM KTR,B.Tech,BIOTECH,2,26LCA1002J,Chinese
+SRM KTR,B.Tech,BIOTECH,2,26LCA1003J,French
+SRM KTR,B.Tech,BIOTECH,2,26LCA1004J,German
+SRM KTR,B.Tech,BIOTECH,2,26LCA1005J,Japanese
+SRM KTR,B.Tech,BIOTECH,2,26LCA1006J,Korean
+SRM KTR,B.Tech,BIOTECH,2,26LCA1007J,Spanish
+SRM KTR,B.Tech,BIOTECH,2,26LCA1008J,Russian
+SRM KTR,B.Tech,BIOTECH,2,26GNN1004L,National Service Scheme
+SRM KTR,B.Tech,BIOTECH,2,26GNN1005L,National Cadet Corps
+SRM KTR,B.Tech,BIOTECH,2,26GNN1006L,National Sports Organization
+SRM KTR,B.Tech,BIOTECH,2,26GNN1007J,Physical and Mental Health using Yoga
+SRM KTR,B.Tech,BIOTECH,3,26MAB2006J,Statistical Methods
+SRM KTR,B.Tech,BIOTECH,3,26DCE1001T,Design Thinking and Methodology
+SRM KTR,B.Tech,BIOTECH,3,26CHE2051T,Fundamentals of Chemical Engineering
+SRM KTR,B.Tech,BIOTECH,3,26BTC2001J,Biochemistry
+SRM KTR,B.Tech,BIOTECH,3,26BTC2002T,Genetics and Cytogenetics
+SRM KTR,B.Tech,BIOTECH,3,26BTC2003J,Bioprocess Principles
+SRM KTR,B.Tech,BIOTECH,3,26LCN1001T,"Indian Art, Culture and Constitution"
+SRM KTR,B.Tech,BIOTECH,3,26LCN1002T,Indian Traditional Knowledge
+SRM KTR,B.Tech,BIOTECH,4,26CHE2052J,Chemical Engineering Applications for Biotechnology
+SRM KTR,B.Tech,BIOTECH,4,26BTC2004J,Molecular Biology
+SRM KTR,B.Tech,BIOTECH,4,26BTC2005J,Immunology
+SRM KTR,B.Tech,BIOTECH,4,26BTC2006J,Animal Biotechnology
+SRM KTR,B.Tech,BIOTECH,4,26GNN1003J,Behavioural Psychology
+SRM KTR,B.Tech,BIOTECH,4,26LCN1003T,Professional Ethics and Values
+SRM KTR,B.Tech,BIOTECH,5,26BTC3001J,Bioprocess Engineering
+SRM KTR,B.Tech,BIOTECH,5,26BTC3002J,Gene Manipulation and Genomics
+SRM KTR,B.Tech,BIOTECH,5,26BTC3003J,Plant Biotechnology
+SRM KTR,B.Tech,BIOTECH,5,26BTC3004J,Environmental Biotechnology
+SRM KTR,B.Tech,BIOTECH,5,26CYN1001J,Environmental Science with AI
+SRM KTR,B.Tech,BIOTECH,5,26GNN1002L,Community Connect
+SRM KTR,B.Tech,BIOTECH,6,26BTC3005J,Protein Engineering
+SRM KTR,B.Tech,BIOTECH,6,26BTC3006J,Bioseparation Technology
+SRM KTR,B.Tech,BIOTECH,6,26CEN1001T,Disaster Mitigation and Management
+SRM KTR,B.Tech,BIOTECH,6,26CSN1001J,Cyber Hygiene
+SRM KTR,B.Tech,BIOTECH,7,26BTP3001L,Summer Internship
+SRM KTR,B.Tech,BIOTECH,8,26BTP4001L,Major Project
+SRM KTR,B.Tech,BIOTECH,8,26BTP4002L,Major Project
+SRM KTR,B.Tech,BIOTECH,8,26BTP4003L,Professional Internship
+SRM KTR,B.Tech,BIOTECH-GE,1,26PYB1002J,"Electromagnetism, Quantum Physics and Optics for Engineers"
+SRM KTR,B.Tech,BIOTECH-GE,1,26MAB1001T,Calculus and Linear Algebra
+SRM KTR,B.Tech,BIOTECH-GE,1,26CSE1001T,Data Science and Artificial Intelligence
+SRM KTR,B.Tech,BIOTECH-GE,1,26EEE1001T,Electrical and Electronics Engineering
+SRM KTR,B.Tech,BIOTECH-GE,1,26MEE1002L,Engineering Graphics
+SRM KTR,B.Tech,BIOTECH-GE,1,26LCA1001J,Professional English for Engineers
+SRM KTR,B.Tech,BIOTECH-GE,1,26GNN1001T,Universal Human Values – Understanding Harmony and Ethical Human Conduct
+SRM KTR,B.Tech,BIOTECH-GE,2,26CYB1001J,Chemistry
+SRM KTR,B.Tech,BIOTECH-GE,2,26BTB1003T,Cell Biology
+SRM KTR,B.Tech,BIOTECH-GE,2,26MAB1002T,Advanced Calculus and Complex Analysis
+SRM KTR,B.Tech,BIOTECH-GE,2,26CSE1002J,Programming for Problem Solving
+SRM KTR,B.Tech,BIOTECH-GE,2,26MEE1001L,Workshop Practice
+SRM KTR,B.Tech,BIOTECH-GE,2,26BTC1001J,Microbiology
+SRM KTR,B.Tech,BIOTECH-GE,2,26LCA1002J,Chinese
+SRM KTR,B.Tech,BIOTECH-GE,2,26LCA1003J,French
+SRM KTR,B.Tech,BIOTECH-GE,2,26LCA1004J,German
+SRM KTR,B.Tech,BIOTECH-GE,2,26LCA1005J,Japanese
+SRM KTR,B.Tech,BIOTECH-GE,2,26LCA1006J,Korean
+SRM KTR,B.Tech,BIOTECH-GE,2,26LCA1007J,Spanish
+SRM KTR,B.Tech,BIOTECH-GE,2,26LCA1008J,Russian
+SRM KTR,B.Tech,BIOTECH-GE,2,26GNN1004L,National Service Scheme
+SRM KTR,B.Tech,BIOTECH-GE,2,26GNN1005L,National Cadet Corps
+SRM KTR,B.Tech,BIOTECH-GE,2,26GNN1006L,National Sports Organization
+SRM KTR,B.Tech,BIOTECH-GE,2,26GNN1007J,Physical and Mental Health using Yoga
+SRM KTR,B.Tech,BIOTECH-GE,3,26MAB2006J,Statistical Methods
+SRM KTR,B.Tech,BIOTECH-GE,3,26DCE1001T,Design Thinking and Methodology
+SRM KTR,B.Tech,BIOTECH-GE,3,26CHE2051T,Fundamentals of Chemical Engineering
+SRM KTR,B.Tech,BIOTECH-GE,3,26BTC2001J,Biochemistry
+SRM KTR,B.Tech,BIOTECH-GE,3,26BTC2002T,Genetics and Cytogenetics
+SRM KTR,B.Tech,BIOTECH-GE,3,26BTC2003J,Bioprocess Principles
+SRM KTR,B.Tech,BIOTECH-GE,3,26LCN1001T,"Indian Art, Culture and Constitution"
+SRM KTR,B.Tech,BIOTECH-GE,3,26LCN1002T,Indian Traditional Knowledge
+SRM KTR,B.Tech,BIOTECH-GE,4,26CHE2052J,Chemical Engineering Applications for Biotechnology
+SRM KTR,B.Tech,BIOTECH-GE,4,26BTC2004J,Molecular Biology
+SRM KTR,B.Tech,BIOTECH-GE,4,26BTC2005J,Immunology
+SRM KTR,B.Tech,BIOTECH-GE,4,26BTC2006J,Animal Biotechnology
+SRM KTR,B.Tech,BIOTECH-GE,4,26GNN1003J,Behavioural Psychology
+SRM KTR,B.Tech,BIOTECH-GE,4,26LCN1003T,Professional Ethics and Values
+SRM KTR,B.Tech,BIOTECH-GE,5,26BTC3001J,Bioprocess Engineering
+SRM KTR,B.Tech,BIOTECH-GE,5,26BTC3002J,Gene Manipulation and Genomics
+SRM KTR,B.Tech,BIOTECH-GE,5,26BTC3003J,Plant Biotechnology
+SRM KTR,B.Tech,BIOTECH-GE,5,26BTC3004J,Environmental Biotechnology
+SRM KTR,B.Tech,BIOTECH-GE,5,26CYN1001J,Environmental Science with AI
+SRM KTR,B.Tech,BIOTECH-GE,5,26GNN1002L,Community Connect
+SRM KTR,B.Tech,BIOTECH-GE,6,26BTC3006J,Bioseparation Technology
+SRM KTR,B.Tech,BIOTECH-GE,6,26BTC3009J,Advanced Molecular Tools in Genetic Engineering
+SRM KTR,B.Tech,BIOTECH-GE,6,26CEN1001T,Disaster Mitigation and Management
+SRM KTR,B.Tech,BIOTECH-GE,6,26CSN1001J,Cyber Hygiene
+SRM KTR,B.Tech,BIOTECH-GE,7,26BTP3001L,Summer Internship
+SRM KTR,B.Tech,BIOTECH-GE,8,26BTP4001L,Major Project
+SRM KTR,B.Tech,BIOTECH-GE,8,26BTP4002L,Major Project
+SRM KTR,B.Tech,BIOTECH-GE,8,26BTP4003L,Professional Internship
+SRM KTR,B.Tech,CIVIL,1,26PYB1003J,Physics: Mechanics
+SRM KTR,B.Tech,CIVIL,1,26MAB1001T,Calculus and Linear Algebra
+SRM KTR,B.Tech,CIVIL,1,26CSE1001T,Data Science and Artificial Intelligence
+SRM KTR,B.Tech,CIVIL,1,26EEE1001T,Electrical and Electronics Engineering
+SRM KTR,B.Tech,CIVIL,1,26MEE1002L,Engineering Graphics
+SRM KTR,B.Tech,CIVIL,1,26LCA1001J,Professional English for Engineers
+SRM KTR,B.Tech,CIVIL,1,26GNN1001T,Universal Human Values – Understanding Harmony and Ethical Human Conduct
+SRM KTR,B.Tech,CIVIL,2,26CYB1001J,Chemistry
+SRM KTR,B.Tech,CIVIL,2,26BTB1002T,Biology
+SRM KTR,B.Tech,CIVIL,2,26MAB1002T,Advanced Calculus and Complex Analysis
+SRM KTR,B.Tech,CIVIL,2,26CSE1002J,Programming for Problem Solving
+SRM KTR,B.Tech,CIVIL,2,26MEE1001L,Workshop Practice
+SRM KTR,B.Tech,CIVIL,2,26CEC1001T,Sustainable Construction Materials
+SRM KTR,B.Tech,CIVIL,2,26LCA1002J,Chinese
+SRM KTR,B.Tech,CIVIL,2,26LCA1003J,French
+SRM KTR,B.Tech,CIVIL,2,26LCA1004J,German
+SRM KTR,B.Tech,CIVIL,2,26LCA1005J,Japanese
+SRM KTR,B.Tech,CIVIL,2,26LCA1006J,Korean
+SRM KTR,B.Tech,CIVIL,2,26LCA1007J,Spanish
+SRM KTR,B.Tech,CIVIL,2,26LCA1008J,Russian
+SRM KTR,B.Tech,CIVIL,2,26GNN1004L,National Service Scheme
+SRM KTR,B.Tech,CIVIL,2,26GNN1005L,National Cadet Corps
+SRM KTR,B.Tech,CIVIL,2,26GNN1006L,National Sports Organization
+SRM KTR,B.Tech,CIVIL,2,26GNN1007J,Physical and Mental Health using Yoga
+SRM KTR,B.Tech,CIVIL,3,26CEB2001J,Applied Geology
+SRM KTR,B.Tech,CIVIL,3,26MAB2002T,Transforms and Partial Differential Equations
+SRM KTR,B.Tech,CIVIL,3,26DCE1001T,Design Thinking and Methodology
+SRM KTR,B.Tech,CIVIL,3,26CEE2001T,Structural Mechanics
+SRM KTR,B.Tech,CIVIL,3,26CEC2002T,Applied Hydraulic Engineering
+SRM KTR,B.Tech,CIVIL,3,26CEC2003T,Advanced Geomatics and Intelligent Surveying Systems
+SRM KTR,B.Tech,CIVIL,3,26CEC2001L,Hydraulics Laboratory
+SRM KTR,B.Tech,CIVIL,3,26CEC2002L,Geospatial Sensing and Advanced Surveying Techniques Lab
+SRM KTR,B.Tech,CIVIL,3,26LCN1001T,"Indian Art, Culture and Constitution"
+SRM KTR,B.Tech,CIVIL,3,26LCN1002T,Indian Traditional Knowledge
+SRM KTR,B.Tech,CIVIL,4,26MAB2010T,Numerical Methods in Civil Engineering
+SRM KTR,B.Tech,CIVIL,4,26CEC2004T,Hydrology and Water Resources Engineering
+SRM KTR,B.Tech,CIVIL,4,26CEC2005T,Concrete Technology and Its Applications
+SRM KTR,B.Tech,CIVIL,4,26CEC2006T,Structural Design: Reinforced Concrete
+SRM KTR,B.Tech,CIVIL,4,26CEC2007T,Geomechanics
+SRM KTR,B.Tech,CIVIL,4,26CEC2003L,Strength of Materials and Concrete Technology Lab
+SRM KTR,B.Tech,CIVIL,4,26CEC2004L,Geomechanics Laboratory
+SRM KTR,B.Tech,CIVIL,4,26GNN1003J,Behavioural Psychology
+SRM KTR,B.Tech,CIVIL,4,26LCN1003T,Professional Ethics and Values
+SRM KTR,B.Tech,CIVIL,5,26MAB2003J,Probability and Statistics
+SRM KTR,B.Tech,CIVIL,5,26CEC3001T,Construction Management Concepts
+SRM KTR,B.Tech,CIVIL,5,26CEC3002T,Water and Wastewater Engineering
+SRM KTR,B.Tech,CIVIL,5,26CEC3003T,Computational Analysis of Structures
+SRM KTR,B.Tech,CIVIL,5,26CEC3004T,Structural Design – Steel Structures
+SRM KTR,B.Tech,CIVIL,5,26CEC3001L,Environmental Engineering Laboratory
+SRM KTR,B.Tech,CIVIL,5,26CEC3002L,Computer-Aided Civil Engineering Laboratory
+SRM KTR,B.Tech,CIVIL,5,26CYN1001J,Environmental Science with AI
+SRM KTR,B.Tech,CIVIL,5,26GNN1002L,Community Connect
+SRM KTR,B.Tech,CIVIL,6,26CEC3005T,Transportation Engineering
+SRM KTR,B.Tech,CIVIL,6,26CEC3006T,Geosynthetic Behaviour and Characterisation
+SRM KTR,B.Tech,CIVIL,6,26CEC3003L,Transportation Engineering Laboratory
+SRM KTR,B.Tech,CIVIL,6,26CEC3004L,Geotextile Characteristics Laboratory
+SRM KTR,B.Tech,CIVIL,6,26CEC3005L,Eco Smart Materials Laboratory
+SRM KTR,B.Tech,CIVIL,6,26CEN1001T,Disaster Mitigation and Management
+SRM KTR,B.Tech,CIVIL,6,26CSN1001J,Cyber Hygiene
+SRM KTR,B.Tech,CIVIL,7,26CEP3001L,Summer Internship
+SRM KTR,B.Tech,CIVIL,8,26CEP4001L,Major Project
+SRM KTR,B.Tech,CIVIL,8,26CEP4002L,Major Project
+SRM KTR,B.Tech,CIVIL,8,26CEP4003L,Professional Internship
+SRM KTR,B.Tech,CSBS,1,26PYB1004J,Physics for Computing Science
+SRM KTR,B.Tech,CSBS,1,26MAB1001T,Calculus and Linear Algebra
+SRM KTR,B.Tech,CSBS,1,26CSE1002J,Programming for Problem Solving
+SRM KTR,B.Tech,CSBS,1,26EEE1002J,Principles of Electrical Engineering
+SRM KTR,B.Tech,CSBS,1,26LCA1002J,Chinese
+SRM KTR,B.Tech,CSBS,1,26LCA1003J,French
+SRM KTR,B.Tech,CSBS,1,26LCA1004J,German
+SRM KTR,B.Tech,CSBS,1,26LCA1005J,Japanese
+SRM KTR,B.Tech,CSBS,1,26LCA1006J,Korean
+SRM KTR,B.Tech,CSBS,1,26LCA1007J,Spanish
+SRM KTR,B.Tech,CSBS,1,26LCA1008J,Russian
+SRM KTR,B.Tech,CSBS,1,26GNN1004L,National Service Scheme
+SRM KTR,B.Tech,CSBS,1,26GNN1005L,National Cadet Corps
+SRM KTR,B.Tech,CSBS,1,26GNN1006L,National Sports Organization
+SRM KTR,B.Tech,CSBS,1,26GNN1007J,Physical and Mental Health using Yoga
+SRM KTR,B.Tech,CSBS,2,26MAB1002T,Advanced Calculus and Complex Analysis
+SRM KTR,B.Tech,CSBS,2,26CSE1001T,Data Science and Artificial Intelligence
+SRM KTR,B.Tech,CSBS,2,26EEE1003J,Principles of Electronics Engineering
+SRM KTR,B.Tech,CSBS,2,26CSC1001J,Object Oriented Design and Programming
+SRM KTR,B.Tech,CSBS,2,26LCA1001J,Professional English for Engineers
+SRM KTR,B.Tech,CSBS,2,26GNN1001T,Universal Human Values – Understanding Harmony and Ethical Human Conduct
+SRM KTR,B.Tech,CSBS,3,26MAB2003J,Probability and Statistics
+SRM KTR,B.Tech,CSBS,3,26DCE1001T,Design Thinking and Methodology
+SRM KTR,B.Tech,CSBS,3,26CSC2002J,Data Structures and Algorithms
+SRM KTR,B.Tech,CSBS,3,26CSC2003J,Software Engineering and Project Management
+SRM KTR,B.Tech,CSBS,3,26CSC2005J,Advanced Object Oriented Programming
+SRM KTR,B.Tech,CSBS,3,26LCN1001T,"Indian Art, Culture and Constitution"
+SRM KTR,B.Tech,CSBS,3,26LCN1002T,Indian Traditional Knowledge
+SRM KTR,B.Tech,CSBS,4,26MAB1003T,Discrete Mathematics
+SRM KTR,B.Tech,CSBS,4,26CSC2004J,Design and Analysis of Algorithms
+SRM KTR,B.Tech,CSBS,4,26CSC2008T,Computer Organization and Architecture
+SRM KTR,B.Tech,CSBS,4,26CSC2011J,Operating Systems
+SRM KTR,B.Tech,CSBS,4,26GNN1003J,Behavioural Psychology
+SRM KTR,B.Tech,CSBS,4,26LCN1003T,Professional Ethics and Values
+SRM KTR,B.Tech,CSBS,5,26MAB3001T,Operations Research
+SRM KTR,B.Tech,CSBS,5,26CSC2007J,Computer Networks
+SRM KTR,B.Tech,CSBS,5,26CSC3001J,Database Management Systems
+SRM KTR,B.Tech,CSBS,5,26CSC2014J,Machine Learning
+SRM KTR,B.Tech,CSBS,5,26CSC3039T,Theory of Computation
+SRM KTR,B.Tech,CSBS,5,26CYN1001J,Environmental Science with AI
+SRM KTR,B.Tech,CSBS,5,26GNN1002L,Community Connect
+SRM KTR,B.Tech,CSBS,6,26CSC3003J,Compiler Design
+SRM KTR,B.Tech,CSBS,6,26CEN1001T,Disaster Mitigation and Management
+SRM KTR,B.Tech,CSBS,6,26CSN1001J,Cyber Hygiene
+SRM KTR,B.Tech,CSBS,7,26CSP3001L,Summer Internship
+SRM KTR,B.Tech,CSBS,8,26CSP4001L,Major Project
+SRM KTR,B.Tech,CSBS,8,26CSP4002L,Major Project
+SRM KTR,B.Tech,CSBS,8,26CSP4003L,Professional Internship
+SRM KTR,B.Tech,CSE-BDA,1,26CYB1002J,Chemistry for Computer Science
+SRM KTR,B.Tech,CSE-BDA,1,26BTB1001T,Introduction to Computational Biology
+SRM KTR,B.Tech,CSE-BDA,1,26MAB1001T,Calculus and Linear Algebra
+SRM KTR,B.Tech,CSE-BDA,1,26CSE1002J,Programming for Problem Solving
+SRM KTR,B.Tech,CSE-BDA,1,26MEE1001L,Workshop Practice
+SRM KTR,B.Tech,CSE-BDA,1,26LCA1002J,Chinese
+SRM KTR,B.Tech,CSE-BDA,1,26LCA1003J,French
+SRM KTR,B.Tech,CSE-BDA,1,26LCA1004J,German
+SRM KTR,B.Tech,CSE-BDA,1,26LCA1005J,Japanese
+SRM KTR,B.Tech,CSE-BDA,1,26LCA1006J,Korean
+SRM KTR,B.Tech,CSE-BDA,1,26LCA1007J,Spanish
+SRM KTR,B.Tech,CSE-BDA,1,26LCA1008J,Russian
+SRM KTR,B.Tech,CSE-BDA,1,26GNN1004L,National Service Scheme
+SRM KTR,B.Tech,CSE-BDA,1,26GNN1005L,National Cadet Corps
+SRM KTR,B.Tech,CSE-BDA,1,26GNN1006L,National Sports Organization
+SRM KTR,B.Tech,CSE-BDA,1,26GNN1007J,Physical and Mental Health using Yoga
+SRM KTR,B.Tech,CSE-BDA,2,26PYB1001J,Statistical and Quantum Physics for Computational Intelligence
+SRM KTR,B.Tech,CSE-BDA,2,26MAB1002T,Advanced Calculus and Complex Analysis
+SRM KTR,B.Tech,CSE-BDA,2,26CSE1001T,Data Science and Artificial Intelligence
+SRM KTR,B.Tech,CSE-BDA,2,26EEE1001T,Electrical and Electronics Engineering
+SRM KTR,B.Tech,CSE-BDA,2,26MEE1002L,Engineering Graphics
+SRM KTR,B.Tech,CSE-BDA,2,26CSC1001J,Object Oriented Design and Programming
+SRM KTR,B.Tech,CSE-BDA,2,26LCA1001J,Professional English for Engineers
+SRM KTR,B.Tech,CSE-BDA,2,26GNN1001T,Universal Human Values – Understanding Harmony and Ethical Human Conduct
+SRM KTR,B.Tech,CSE-BDA,3,26MAB1003T,Discrete Mathematics
+SRM KTR,B.Tech,CSE-BDA,3,26DCE1001T,Design Thinking and Methodology
+SRM KTR,B.Tech,CSE-BDA,3,26CSE2003T,Digital Logic and Circuit Design
+SRM KTR,B.Tech,CSE-BDA,3,26CSC2002J,Data Structures and Algorithms
+SRM KTR,B.Tech,CSE-BDA,3,26CSC2005J,Advanced Object Oriented Programming
+SRM KTR,B.Tech,CSE-BDA,3,26CSC2008T,Computer Organization and Architecture
+SRM KTR,B.Tech,CSE-BDA,3,26LCN1001T,"Indian Art, Culture and Constitution"
+SRM KTR,B.Tech,CSE-BDA,3,26LCN1002T,Indian Traditional Knowledge
+SRM KTR,B.Tech,CSE-BDA,4,26MAB2003J,Probability and Statistics
+SRM KTR,B.Tech,CSE-BDA,4,26CSC2004J,Design and Analysis of Algorithms
+SRM KTR,B.Tech,CSE-BDA,4,26CSC2011J,Operating Systems
+SRM KTR,B.Tech,CSE-BDA,4,26CSC2012J,Programming for Data Analytics
+SRM KTR,B.Tech,CSE-BDA,4,26CSC3001J,Database Management Systems
+SRM KTR,B.Tech,CSE-BDA,4,26GNN1003J,Behavioural Psychology
+SRM KTR,B.Tech,CSE-BDA,4,26LCN1003T,Professional Ethics and Values
+SRM KTR,B.Tech,CSE-BDA,5,26CSC2007J,Computer Networks
+SRM KTR,B.Tech,CSE-BDA,5,26CSC3029J,Big Data Tools and Techniques
+SRM KTR,B.Tech,CSE-BDA,5,26CSC3039T,Theory of Computation
+SRM KTR,B.Tech,CSE-BDA,5,26CYN1001J,Environmental Science with AI
+SRM KTR,B.Tech,CSE-BDA,5,26GNN1002L,Community Connect
+SRM KTR,B.Tech,CSE-BDA,6,26CSC2003J,Software Engineering and Project Management
+SRM KTR,B.Tech,CSE-BDA,6,26CSC3003J,Compiler Design
+SRM KTR,B.Tech,CSE-BDA,6,26CSC3041J,Cloud Data Engineering
+SRM KTR,B.Tech,CSE-BDA,6,26CEN1001T,Disaster Mitigation and Management
+SRM KTR,B.Tech,CSE-BDA,6,26CSN1001J,Cyber Hygiene
+SRM KTR,B.Tech,CSE-BDA,7,26CSP3001L,Summer Internship
+SRM KTR,B.Tech,CSE-BDA,8,26CSP4001L,Major Project
+SRM KTR,B.Tech,CSE-BDA,8,26CSP4002L,Major Project
+SRM KTR,B.Tech,CSE-BDA,8,26CSP4003L,Professional Internship
+SRM KTR,B.Tech,CSE-BC,1,26BTB1001T,Introduction to Computational Biology
+SRM KTR,B.Tech,CSE-BC,1,26CYB1002J,Chemistry for Computer Science
+SRM KTR,B.Tech,CSE-BC,1,26MAB1001T,Calculus and Linear Algebra
+SRM KTR,B.Tech,CSE-BC,1,26CSE1002J,Programming for Problem Solving
+SRM KTR,B.Tech,CSE-BC,1,26MEE1001L,Workshop Practice
+SRM KTR,B.Tech,CSE-BC,1,26LCA1002J,Chinese
+SRM KTR,B.Tech,CSE-BC,1,26LCA1003J,French
+SRM KTR,B.Tech,CSE-BC,1,26LCA1004J,German
+SRM KTR,B.Tech,CSE-BC,1,26LCA1005J,Japanese
+SRM KTR,B.Tech,CSE-BC,1,26LCA1006J,Korean
+SRM KTR,B.Tech,CSE-BC,1,26LCA1007J,Spanish
+SRM KTR,B.Tech,CSE-BC,1,26LCA1008J,Russian
+SRM KTR,B.Tech,CSE-BC,1,26GNN1004L,National Service Scheme
+SRM KTR,B.Tech,CSE-BC,1,26GNN1005L,National Cadet Corps
+SRM KTR,B.Tech,CSE-BC,1,26GNN1006L,National Sports Organization
+SRM KTR,B.Tech,CSE-BC,1,26GNN1007J,Physical and Mental Health using Yoga
+SRM KTR,B.Tech,CSE-BC,2,26PYB1001J,Statistical and Quantum Physics for Computational Intelligence
+SRM KTR,B.Tech,CSE-BC,2,26MAB1002T,Advanced Calculus and Complex Analysis
+SRM KTR,B.Tech,CSE-BC,2,26CSE1001T,Data Science and Artificial Intelligence
+SRM KTR,B.Tech,CSE-BC,2,26EEE1001T,Electrical and Electronics Engineering
+SRM KTR,B.Tech,CSE-BC,2,26MEE1002L,Engineering Graphics
+SRM KTR,B.Tech,CSE-BC,2,26CSC1001J,Object Oriented Design and Programming
+SRM KTR,B.Tech,CSE-BC,2,26LCA1001J,Professional English for Engineers
+SRM KTR,B.Tech,CSE-BC,2,26GNN1001T,Universal Human Values – Understanding Harmony and Ethical Human Conduct
+SRM KTR,B.Tech,CSE-BC,3,26MAB1003T,Discrete Mathematics
+SRM KTR,B.Tech,CSE-BC,3,26DCE1001T,Design Thinking and Methodology
+SRM KTR,B.Tech,CSE-BC,3,26CSE2003T,Digital Logic and Circuit Design
+SRM KTR,B.Tech,CSE-BC,3,26CSC2002J,Data Structures and Algorithms
+SRM KTR,B.Tech,CSE-BC,3,26CSC2005J,Advanced Object Oriented Programming
+SRM KTR,B.Tech,CSE-BC,3,26CSC2008T,Computer Organization and Architecture
+SRM KTR,B.Tech,CSE-BC,3,26LCN1001T,"Indian Art, Culture and Constitution"
+SRM KTR,B.Tech,CSE-BC,3,26LCN1002T,Indian Traditional Knowledge
+SRM KTR,B.Tech,CSE-BC,4,26MAB2003J,Probability and Statistics
+SRM KTR,B.Tech,CSE-BC,4,26CSC2004J,Design and Analysis of Algorithms
+SRM KTR,B.Tech,CSE-BC,4,26CSC2011J,Operating Systems
+SRM KTR,B.Tech,CSE-BC,4,26CSC3008J,Blockchain Technology with Hyperledger
+SRM KTR,B.Tech,CSE-BC,4,26CSC3001J,Database Management Systems
+SRM KTR,B.Tech,CSE-BC,4,26GNN1003J,Behavioural Psychology
+SRM KTR,B.Tech,CSE-BC,4,26LCN1003T,Professional Ethics and Values
+SRM KTR,B.Tech,CSE-BC,5,26CSC2007J,Computer Networks
+SRM KTR,B.Tech,CSE-BC,5,26CSC3018J,Bitcoin Essentials and Use Cases
+SRM KTR,B.Tech,CSE-BC,5,26CSC3039T,Theory of Computation
+SRM KTR,B.Tech,CSE-BC,5,26CYN1001J,Environmental Science with AI
+SRM KTR,B.Tech,CSE-BC,5,26GNN1002L,Community Connect
+SRM KTR,B.Tech,CSE-BC,6,26CSC2003J,Software Engineering and Project Management
+SRM KTR,B.Tech,CSE-BC,6,26CSC3003J,Compiler Design
+SRM KTR,B.Tech,CSE-BC,6,26CSC3030J,Smart Contracts and Application Development
+SRM KTR,B.Tech,CSE-BC,6,26CEN1001T,Disaster Mitigation and Management
+SRM KTR,B.Tech,CSE-BC,6,26CSN1001J,Cyber Hygiene
+SRM KTR,B.Tech,CSE-BC,7,26CSP3001L,Summer Internship
+SRM KTR,B.Tech,CSE-BC,8,26CSP4001L,Major Project
+SRM KTR,B.Tech,CSE-BC,8,26CSP4002L,Major Project
+SRM KTR,B.Tech,CSE-BC,8,26CSP4003L,Professional Internship
+SRM KTR,B.Tech,CSE-DS,1,26BTB1001T,Introduction to Computational Biology
+SRM KTR,B.Tech,CSE-DS,1,26CYB1002J,Chemistry for Computer Science
+SRM KTR,B.Tech,CSE-DS,1,26MAB1001T,Calculus and Linear Algebra
+SRM KTR,B.Tech,CSE-DS,1,26CSE1002J,Programming for Problem Solving
+SRM KTR,B.Tech,CSE-DS,1,26MEE1001L,Workshop Practice
+SRM KTR,B.Tech,CSE-DS,1,26LCA1002J,Chinese
+SRM KTR,B.Tech,CSE-DS,1,26LCA1003J,French
+SRM KTR,B.Tech,CSE-DS,1,26LCA1004J,German
+SRM KTR,B.Tech,CSE-DS,1,26LCA1005J,Japanese
+SRM KTR,B.Tech,CSE-DS,1,26LCA1006J,Korean
+SRM KTR,B.Tech,CSE-DS,1,26LCA1007J,Spanish
+SRM KTR,B.Tech,CSE-DS,1,26LCA1008J,Russian
+SRM KTR,B.Tech,CSE-DS,1,26GNN1004L,National Service Scheme
+SRM KTR,B.Tech,CSE-DS,1,26GNN1005L,National Cadet Corps
+SRM KTR,B.Tech,CSE-DS,1,26GNN1006L,National Sports Organization
+SRM KTR,B.Tech,CSE-DS,1,26GNN1007J,Physical and Mental Health using Yoga
+SRM KTR,B.Tech,CSE-DS,2,26PYB1001J,Statistical and Quantum Physics for Computational Intelligence
+SRM KTR,B.Tech,CSE-DS,2,26MAB1002T,Advanced Calculus and Complex Analysis
+SRM KTR,B.Tech,CSE-DS,2,26CSE1001T,Data Science and Artificial Intelligence
+SRM KTR,B.Tech,CSE-DS,2,26MEE1002L,Engineering Graphics
+SRM KTR,B.Tech,CSE-DS,2,26EEE1001T,Electrical and Electronics Engineering
+SRM KTR,B.Tech,CSE-DS,2,26CSC1001J,Object Oriented Design and Programming
+SRM KTR,B.Tech,CSE-DS,2,26LCA1001J,Professional English for Engineers
+SRM KTR,B.Tech,CSE-DS,2,26GNN1001T,Universal Human Values – Understanding Harmony and Ethical Human Conduct
+SRM KTR,B.Tech,CSE-DS,3,26MAB1003T,Discrete Mathematics
+SRM KTR,B.Tech,CSE-DS,3,26DCE1001T,Design Thinking and Methodology
+SRM KTR,B.Tech,CSE-DS,3,26CSE2003T,Digital Logic and Circuit Design
+SRM KTR,B.Tech,CSE-DS,3,26CSC2002J,Data Structures and Algorithms
+SRM KTR,B.Tech,CSE-DS,3,26CSC2005J,Advanced Object Oriented Programming
+SRM KTR,B.Tech,CSE-DS,3,26CSC2008T,Computer Organization and Architecture
+SRM KTR,B.Tech,CSE-DS,3,26LCN1001T,"Indian Art, Culture and Constitution"
+SRM KTR,B.Tech,CSE-DS,3,26LCN1002T,Indian Traditional Knowledge
+SRM KTR,B.Tech,CSE-DS,4,26MAB2003J,Probability and Statistics
+SRM KTR,B.Tech,CSE-DS,4,26CSC2004J,Design and Analysis of Algorithms
+SRM KTR,B.Tech,CSE-DS,4,26CSC2011J,Operating Systems
+SRM KTR,B.Tech,CSE-DS,4,26CSC2012J,Programming for Data Analytics
+SRM KTR,B.Tech,CSE-DS,4,26CSC3001J,Database Management Systems
+SRM KTR,B.Tech,CSE-DS,4,26GNN1003J,Behavioural Psychology
+SRM KTR,B.Tech,CSE-DS,4,26LCN1003T,Professional Ethics and Values
+SRM KTR,B.Tech,CSE-DS,5,26CSC2007J,Computer Networks
+SRM KTR,B.Tech,CSE-DS,5,26CSC2014J,Machine Learning
+SRM KTR,B.Tech,CSE-DS,5,26CSC3039T,Theory of Computation
+SRM KTR,B.Tech,CSE-DS,5,26CYN1001J,Environmental Science with AI
+SRM KTR,B.Tech,CSE-DS,5,26GNN1002L,Community Connect
+SRM KTR,B.Tech,CSE-DS,6,26CSC2003J,Software Engineering and Project Management
+SRM KTR,B.Tech,CSE-DS,6,26CSC3003J,Compiler Design
+SRM KTR,B.Tech,CSE-DS,6,26CSC3026J,Deep Learning
+SRM KTR,B.Tech,CSE-DS,6,26CEN1001T,Disaster Mitigation and Management
+SRM KTR,B.Tech,CSE-DS,6,26CSN1001J,Cyber Hygiene
+SRM KTR,B.Tech,CSE-DS,7,26CSP3001L,Summer Internship
+SRM KTR,B.Tech,CSE-DS,8,26CSP4001L,Major Project
+SRM KTR,B.Tech,CSE-DS,8,26CSP4002L,Major Project
+SRM KTR,B.Tech,CSE-DS,8,26CSP4003L,Professional Internship
+SRM KTR,B.Tech,EEE,1,26PYB1002J,"Electromagnetism, Quantum Physics and Optics for Engineers"
+SRM KTR,B.Tech,EEE,1,26MAB1001T,Calculus and Linear Algebra
+SRM KTR,B.Tech,EEE,1,26CSE1001T,Data Science and Artificial Intelligence
+SRM KTR,B.Tech,EEE,1,26EEE1001T,Electrical and Electronics Engineering
+SRM KTR,B.Tech,EEE,1,26MEE1002L,Engineering Graphics
+SRM KTR,B.Tech,EEE,1,26LCA1001J,Professional English for Engineers
+SRM KTR,B.Tech,EEE,1,26GNN1001T,Universal Human Values – Understanding Harmony and Ethical Human Conduct
+SRM KTR,B.Tech,EEE,2,26CYB1001J,Chemistry
+SRM KTR,B.Tech,EEE,2,26BTB1002T,Biology
+SRM KTR,B.Tech,EEE,2,26MAB1002T,Advanced Calculus and Complex Analysis
+SRM KTR,B.Tech,EEE,2,26CSE1002J,Programming for Problem Solving
+SRM KTR,B.Tech,EEE,2,26MEE1001L,Workshop Practice
+SRM KTR,B.Tech,EEE,2,26EEC1001J,Electric Circuit Analysis
+SRM KTR,B.Tech,EEE,2,26LCA1002J,Chinese
+SRM KTR,B.Tech,EEE,2,26LCA1003J,French
+SRM KTR,B.Tech,EEE,2,26LCA1004J,German
+SRM KTR,B.Tech,EEE,2,26LCA1005J,Japanese
+SRM KTR,B.Tech,EEE,2,26LCA1006J,Korean
+SRM KTR,B.Tech,EEE,2,26LCA1007J,Spanish
+SRM KTR,B.Tech,EEE,2,26LCA1008J,Russian
+SRM KTR,B.Tech,EEE,2,26GNN1004L,National Service Scheme
+SRM KTR,B.Tech,EEE,2,26GNN1005L,National Cadet Corps
+SRM KTR,B.Tech,EEE,2,26GNN1006L,National Sports Organization
+SRM KTR,B.Tech,EEE,2,26GNN1007J,Physical and Mental Health using Yoga
+SRM KTR,B.Tech,EEE,3,26MAB2001T,Transforms and Boundary Value Problems
+SRM KTR,B.Tech,EEE,3,26DCE1001T,Design Thinking and Methodology
+SRM KTR,B.Tech,EEE,3,26EEC2001J,Electromagnetic Engineering Principles
+SRM KTR,B.Tech,EEE,3,26EEC2002J,Electrical Machines
+SRM KTR,B.Tech,EEE,3,26EEC2003J,Analog Circuit Design
+SRM KTR,B.Tech,EEE,3,26EEC2004J,Control Systems Engineering
+SRM KTR,B.Tech,EEE,3,26LCN1001T,"Indian Art, Culture and Constitution"
+SRM KTR,B.Tech,EEE,3,26LCN1002T,Indian Traditional Knowledge
+SRM KTR,B.Tech,EEE,4,26MAB2003J,Probability and Statistics
+SRM KTR,B.Tech,EEE,4,26EEC2005J,Digital System Design
+SRM KTR,B.Tech,EEE,4,26EEC2006J,Power System Engineering
+SRM KTR,B.Tech,EEE,4,26EEC2007J,Measurements and Sensor Systems
+SRM KTR,B.Tech,EEE,4,26EEC2008T,Digital Signal Processing
+SRM KTR,B.Tech,EEE,4,26EEC2009L,Makerspace Lab
+SRM KTR,B.Tech,EEE,4,26GNN1003J,Behavioural Psychology
+SRM KTR,B.Tech,EEE,4,26LCN1003T,Professional Ethics and Values
+SRM KTR,B.Tech,EEE,5,26MAB1003T,Discrete Mathematics
+SRM KTR,B.Tech,EEE,5,26EEC3001J,Power Electronics
+SRM KTR,B.Tech,EEE,5,26EEC3002P,Microcontroller Programming and Applications
+SRM KTR,B.Tech,EEE,5,26EEC3003J,Power System Protection and Control
+SRM KTR,B.Tech,EEE,5,26CYN1001J,Environmental Science with AI
+SRM KTR,B.Tech,EEE,5,26GNN1002L,Community Connect
+SRM KTR,B.Tech,EEE,6,26EEC3004P,Electric Drives and Control
+SRM KTR,B.Tech,EEE,6,26CEN1001T,Disaster Mitigation and Management
+SRM KTR,B.Tech,EEE,6,26CSN1001J,Cyber Hygiene
+SRM KTR,B.Tech,EEE,7,26EEP3001L,Summer Internship
+SRM KTR,B.Tech,EEE,8,26EEP4001L,Major Project
+SRM KTR,B.Tech,EEE,8,26EEP4002L,Major Project
+SRM KTR,B.Tech,EEE,8,26EEP4003L,Professional Internship
+SRM KTR,B.Tech,ECE,1,26PYB1002J,"Electromagnetism, Quantum Physics and Optics for Engineers"
+SRM KTR,B.Tech,ECE,1,26MAB1001T,Calculus and Linear Algebra
+SRM KTR,B.Tech,ECE,1,26CSE1001T,Data Science and Artificial Intelligence
+SRM KTR,B.Tech,ECE,1,26EEE1001T,Electrical and Electronics Engineering
+SRM KTR,B.Tech,ECE,1,26MEE1002L,Engineering Graphics
+SRM KTR,B.Tech,ECE,1,26LCA1001J,Professional English for Engineers
+SRM KTR,B.Tech,ECE,1,26GNN1001T,Universal Human Values – Understanding Harmony and Ethical Human Conduct
+SRM KTR,B.Tech,ECE,2,26CYB1001J,Chemistry
+SRM KTR,B.Tech,ECE,2,26BTB1002T,Biology
+SRM KTR,B.Tech,ECE,2,26MAB1002T,Advanced Calculus and Complex Analysis
+SRM KTR,B.Tech,ECE,2,26CSE1002J,Programming for Problem Solving
+SRM KTR,B.Tech,ECE,2,26MEE1001L,Workshop Practice
+SRM KTR,B.Tech,ECE,2,26ECC1001J,Solid State Devices
+SRM KTR,B.Tech,ECE,2,26LCA1002J,Chinese
+SRM KTR,B.Tech,ECE,2,26LCA1003J,French
+SRM KTR,B.Tech,ECE,2,26LCA1004J,German
+SRM KTR,B.Tech,ECE,2,26LCA1005J,Japanese
+SRM KTR,B.Tech,ECE,2,26LCA1006J,Korean
+SRM KTR,B.Tech,ECE,2,26LCA1007J,Spanish
+SRM KTR,B.Tech,ECE,2,26LCA1008J,Russian
+SRM KTR,B.Tech,ECE,2,26GNN1004L,National Service Scheme
+SRM KTR,B.Tech,ECE,2,26GNN1005L,National Cadet Corps
+SRM KTR,B.Tech,ECE,2,26GNN1006L,National Sports Organization
+SRM KTR,B.Tech,ECE,2,26GNN1007J,Physical and Mental Health using Yoga
+SRM KTR,B.Tech,ECE,3,26MAB2001T,Transforms and Boundary Value Problems
+SRM KTR,B.Tech,ECE,3,26DCE1001T,Design Thinking and Methodology
+SRM KTR,B.Tech,ECE,3,26ECC2001J,Engineering Electromagnetics and Its Application
+SRM KTR,B.Tech,ECE,3,26ECC2002J,Digital Logic Design
+SRM KTR,B.Tech,ECE,3,26ECC2003J,Analog Electronic Circuit Design
+SRM KTR,B.Tech,ECE,3,26LCN1001T,"Indian Art, Culture and Constitution"
+SRM KTR,B.Tech,ECE,3,26LCN1002T,Indian Traditional Knowledge
+SRM KTR,B.Tech,ECE,4,26MAB2003J,Probability and Statistics
+SRM KTR,B.Tech,ECE,4,26ECC2004J,Signal Processing
+SRM KTR,B.Tech,ECE,4,26ECC2005J,Communication Systems
+SRM KTR,B.Tech,ECE,4,26ECC2006J,Processor Architecture and Interfaces
+SRM KTR,B.Tech,ECE,4,26GNN1003J,Behavioural Psychology
+SRM KTR,B.Tech,ECE,4,26LCN1003T,Professional Ethics and Values
+SRM KTR,B.Tech,ECE,5,26MAB1003T,Discrete Mathematics
+SRM KTR,B.Tech,ECE,5,26ECC3001T,Microwave and Wireless Communication
+SRM KTR,B.Tech,ECE,5,26ECC3002J,Optical Communication Systems
+SRM KTR,B.Tech,ECE,5,26ECC3003L,Microwave and Wireless Comunication Lab
+SRM KTR,B.Tech,ECE,5,26CYN1001J,Environmental Science with AI
+SRM KTR,B.Tech,ECE,5,26GNN1002L,Community Connect
+SRM KTR,B.Tech,ECE,6,26ECC3004J,VLSI Design
+SRM KTR,B.Tech,ECE,6,26ECC3005T,Computer Communication Networks
+SRM KTR,B.Tech,ECE,6,26CEN1001T,Disaster Mitigation and Management
+SRM KTR,B.Tech,ECE,6,26CSN1001J,Cyber Hygiene
+SRM KTR,B.Tech,ECE,7,26ECP3001L,Summer Internship
+SRM KTR,B.Tech,ECE,8,26ECP4001L,Major Project
+SRM KTR,B.Tech,ECE,8,26ECP4002L,Major Project
+SRM KTR,B.Tech,ECE,8,26ECP4003L,Professional Internship
+SRM KTR,B.Tech,ECE-CPS,1,26PYB1002J,"Electromagnetism, Quantum Physics and Optics for Engineers"
+SRM KTR,B.Tech,ECE-CPS,1,26MAB1001T,Calculus and Linear Algebra
+SRM KTR,B.Tech,ECE-CPS,1,26CSE1001T,Data Science and Artificial Intelligence
+SRM KTR,B.Tech,ECE-CPS,1,26EEE1001T,Electrical and Electronics Engineering
+SRM KTR,B.Tech,ECE-CPS,1,26MEE1002L,Engineering Graphics
+SRM KTR,B.Tech,ECE-CPS,1,26LCA1001J,Professional English for Engineers
+SRM KTR,B.Tech,ECE-CPS,1,26GNN1001T,Universal Human Values – Understanding Harmony and Ethical Human Conduct
+SRM KTR,B.Tech,ECE-CPS,2,26CYB1001J,Chemistry
+SRM KTR,B.Tech,ECE-CPS,2,26BTB1002T,Biology
+SRM KTR,B.Tech,ECE-CPS,2,26MAB1002T,Advanced Calculus and Complex Analysis
+SRM KTR,B.Tech,ECE-CPS,2,26CSE1002J,Programming for Problem Solving
+SRM KTR,B.Tech,ECE-CPS,2,26MEE1001L,Workshop Practice
+SRM KTR,B.Tech,ECE-CPS,2,26ECC1001J,Solid State Devices
+SRM KTR,B.Tech,ECE-CPS,2,26LCA1002J,Chinese
+SRM KTR,B.Tech,ECE-CPS,2,26LCA1003J,French
+SRM KTR,B.Tech,ECE-CPS,2,26LCA1004J,German
+SRM KTR,B.Tech,ECE-CPS,2,26LCA1005J,Japanese
+SRM KTR,B.Tech,ECE-CPS,2,26LCA1006J,Korean
+SRM KTR,B.Tech,ECE-CPS,2,26LCA1007J,Spanish
+SRM KTR,B.Tech,ECE-CPS,2,26LCA1008J,Russian
+SRM KTR,B.Tech,ECE-CPS,2,26GNN1004L,National Service Scheme
+SRM KTR,B.Tech,ECE-CPS,2,26GNN1005L,National Cadet Corps
+SRM KTR,B.Tech,ECE-CPS,2,26GNN1006L,National Sports Organization
+SRM KTR,B.Tech,ECE-CPS,2,26GNN1007J,Physical and Mental Health using Yoga
+SRM KTR,B.Tech,ECE-CPS,3,26MAB2001T,Transforms and Boundary Value Problems
+SRM KTR,B.Tech,ECE-CPS,3,26DCE1001T,Design Thinking and Methodology
+SRM KTR,B.Tech,ECE-CPS,3,26ECC2001J,Engineering Electromagnetics and Its Application
+SRM KTR,B.Tech,ECE-CPS,3,26ECC2002J,Digital Logic Design
+SRM KTR,B.Tech,ECE-CPS,3,26ECC2003J,Analog Electronic Circuit Design
+SRM KTR,B.Tech,ECE-CPS,3,26LCN1001T,"Indian Art, Culture and Constitution"
+SRM KTR,B.Tech,ECE-CPS,3,26LCN1002T,Indian Traditional Knowledge
+SRM KTR,B.Tech,ECE-CPS,4,26MAB2003J,Probability and Statistics
+SRM KTR,B.Tech,ECE-CPS,4,26ECC2004J,Signal Processing
+SRM KTR,B.Tech,ECE-CPS,4,26ECC2005J,Communication Systems
+SRM KTR,B.Tech,ECE-CPS,4,26ECC2006J,Processor Architecture and Interfaces
+SRM KTR,B.Tech,ECE-CPS,4,26GNN1003J,Behavioural Psychology
+SRM KTR,B.Tech,ECE-CPS,4,26LCN1003T,Professional Ethics and Values
+SRM KTR,B.Tech,ECE-CPS,5,26MAB1003T,Discrete Mathematics
+SRM KTR,B.Tech,ECE-CPS,5,26ECC3001T,Microwave and Wireless Communication
+SRM KTR,B.Tech,ECE-CPS,5,26ECC3002J,Optical Communication Systems
+SRM KTR,B.Tech,ECE-CPS,5,26ECC3003L,Microwave and Wireless Comunication Lab
+SRM KTR,B.Tech,ECE-CPS,5,26CYN1001J,Environmental Science with AI
+SRM KTR,B.Tech,ECE-CPS,5,26GNN1002L,Community Connect
+SRM KTR,B.Tech,ECE-CPS,6,26ECC3004J,VLSI Design
+SRM KTR,B.Tech,ECE-CPS,6,26ECC3005T,Computer Communication Networks
+SRM KTR,B.Tech,ECE-CPS,6,26CEN1001T,Disaster Mitigation and Management
+SRM KTR,B.Tech,ECE-CPS,6,26CSN1001J,Cyber Hygiene
+SRM KTR,B.Tech,ECE-CPS,7,26ECP3001L,Summer Internship
+SRM KTR,B.Tech,ECE-CPS,8,26ECP4001L,Major Project
+SRM KTR,B.Tech,ECE-CPS,8,26ECP4002L,Major Project
+SRM KTR,B.Tech,ECE-CPS,8,26ECP4003L,Professional Internship
+SRM KTR,B.Tech,ECE-DS,1,26PYB1002J,"Electromagnetism, Quantum Physics and Optics for Engineers"
+SRM KTR,B.Tech,ECE-DS,1,26MAB1001T,Calculus and Linear Algebra
+SRM KTR,B.Tech,ECE-DS,1,26CSE1001T,Data Science and Artificial Intelligence
+SRM KTR,B.Tech,ECE-DS,1,26EEE1001T,Electrical and Electronics Engineering
+SRM KTR,B.Tech,ECE-DS,1,26MEE1002L,Engineering Graphics
+SRM KTR,B.Tech,ECE-DS,1,26LCA1001J,Professional English for Engineers
+SRM KTR,B.Tech,ECE-DS,1,26GNN1001T,Universal Human Values – Understanding Harmony and Ethical Human Conduct
+SRM KTR,B.Tech,ECE-DS,2,26CYB1001J,Chemistry
+SRM KTR,B.Tech,ECE-DS,2,26BTB1002T,Biology
+SRM KTR,B.Tech,ECE-DS,2,26MAB1002T,Advanced Calculus and Complex Analysis
+SRM KTR,B.Tech,ECE-DS,2,26CSE1002J,Programming for Problem Solving
+SRM KTR,B.Tech,ECE-DS,2,26MEE1001L,Workshop Practice
+SRM KTR,B.Tech,ECE-DS,2,26ECC1001J,Solid State Devices
+SRM KTR,B.Tech,ECE-DS,2,26LCA1002J,Chinese
+SRM KTR,B.Tech,ECE-DS,2,26LCA1003J,French
+SRM KTR,B.Tech,ECE-DS,2,26LCA1004J,German
+SRM KTR,B.Tech,ECE-DS,2,26LCA1005J,Japanese
+SRM KTR,B.Tech,ECE-DS,2,26LCA1006J,Korean
+SRM KTR,B.Tech,ECE-DS,2,26LCA1007J,Spanish
+SRM KTR,B.Tech,ECE-DS,2,26LCA1008J,Russian
+SRM KTR,B.Tech,ECE-DS,2,26GNN1004L,National Service Scheme
+SRM KTR,B.Tech,ECE-DS,2,26GNN1005L,National Cadet Corps
+SRM KTR,B.Tech,ECE-DS,2,26GNN1006L,National Sports Organization
+SRM KTR,B.Tech,ECE-DS,2,26GNN1007J,Physical and Mental Health using Yoga
+SRM KTR,B.Tech,ECE-DS,3,26MAB2001T,Transforms and Boundary Value Problems
+SRM KTR,B.Tech,ECE-DS,3,26DCE1001T,Design Thinking and Methodology
+SRM KTR,B.Tech,ECE-DS,3,26ECC2001J,Engineering Electromagnetics and Its Application
+SRM KTR,B.Tech,ECE-DS,3,26ECC2002J,Digital Logic Design
+SRM KTR,B.Tech,ECE-DS,3,26ECC2003J,Analog Electronic Circuit Design
+SRM KTR,B.Tech,ECE-DS,3,26LCN1001T,"Indian Art, Culture and Constitution"
+SRM KTR,B.Tech,ECE-DS,3,26LCN1002T,Indian Traditional Knowledge
+SRM KTR,B.Tech,ECE-DS,4,26MAB2003J,Probability and Statistics
+SRM KTR,B.Tech,ECE-DS,4,26ECC2004J,Signal Processing
+SRM KTR,B.Tech,ECE-DS,4,26ECC2005J,Communication Systems
+SRM KTR,B.Tech,ECE-DS,4,26ECC2006J,Processor Architecture and Interfaces
+SRM KTR,B.Tech,ECE-DS,4,26GNN1003J,Behavioural Psychology
+SRM KTR,B.Tech,ECE-DS,4,26LCN1003T,Professional Ethics and Values
+SRM KTR,B.Tech,ECE-DS,5,26MAB1003T,Discrete Mathematics
+SRM KTR,B.Tech,ECE-DS,5,26ECC3001T,Microwave and Wireless Communication
+SRM KTR,B.Tech,ECE-DS,5,26ECC3002J,Optical Communication Systems
+SRM KTR,B.Tech,ECE-DS,5,26ECC3003L,Microwave and Wireless Comunication Lab
+SRM KTR,B.Tech,ECE-DS,5,26CYN1001J,Environmental Science with AI
+SRM KTR,B.Tech,ECE-DS,5,26GNN1002L,Community Connect
+SRM KTR,B.Tech,ECE-DS,6,26ECC3004J,VLSI Design
+SRM KTR,B.Tech,ECE-DS,6,26ECC3005T,Computer Communication Networks
+SRM KTR,B.Tech,ECE-DS,6,26CEN1001T,Disaster Mitigation and Management
+SRM KTR,B.Tech,ECE-DS,6,26CSN1001J,Cyber Hygiene
+SRM KTR,B.Tech,ECE-DS,7,26ECP3001L,Summer Internship
+SRM KTR,B.Tech,ECE-DS,8,26ECP4001L,Major Project
+SRM KTR,B.Tech,ECE-DS,8,26ECP4002L,Major Project
+SRM KTR,B.Tech,ECE-DS,8,26ECP4003L,Professional Internship
+SRM KTR,B.Tech,BIOTECH-GE,1,21LEH101T,Communicative English
+SRM KTR,B.Tech,BIOTECH-GE,2,21LEH102T,Chinese
+SRM KTR,B.Tech,BIOTECH-GE,1,21MAB101T,Calculus and Linear Algebra
+SRM KTR,B.Tech,BIOTECH-GE,2,21LEH103T,French
+SRM KTR,B.Tech,BIOTECH-GE,2,21LEH104T,German
+SRM KTR,B.Tech,BIOTECH-GE,1,21PYB101J,"Quantum Mechanics, Waves and"
+SRM KTR,B.Tech,BIOTECH-GE,2,21LEH105T,Japanese
+SRM KTR,B.Tech,BIOTECH-GE,1,21MES102L,21LEH106T Korean
+SRM KTR,B.Tech,BIOTECH-GE,2,21LEH106T,Korean
+SRM KTR,B.Tech,BIOTECH-GE,2,21LEH107T,Spanish
+SRM KTR,B.Tech,BIOTECH-GE,1,21EES101T,Electrical and Electronics Engineering
+SRM KTR,B.Tech,BIOTECH-GE,2,21LEH108T,Russian
+SRM KTR,B.Tech,BIOTECH-GE,1,21CYM101T,1 Environmental Science
+SRM KTR,B.Tech,BIOTECH-GE,2,21GNH101J,Philosophy of Engineering
+SRM KTR,B.Tech,BIOTECH-GE,1,21PDM101L,1 Professional Skills and Practices
+SRM KTR,B.Tech,BIOTECH-GE,2,21MAB102T,Advanced Calculus and Complex Analysis
+SRM KTR,B.Tech,BIOTECH-GE,1,21LEM101T,1 Constitution of India
+SRM KTR,B.Tech,BIOTECH-GE,2,21CYB101J,Chemistry
+SRM KTR,B.Tech,BIOTECH-GE,2,21BTB105T,Cell Biology
+SRM KTR,B.Tech,BIOTECH-GE,2,21CSS101J,Programming for Problem Solving
+SRM KTR,B.Tech,BIOTECH-GE,2,21BTC101T,Biochemistry
+SRM KTR,B.Tech,BIOTECH-GE,2,21MES101L,1 Basic Civil and Mechanical Workshop
+SRM KTR,B.Tech,BIOTECH-GE,2,21PDM102L,1 General Aptitude
+SRM KTR,B.Tech,BIOTECH-GE,3,21CHS251T,Basic Chemical Engineering
+SRM KTR,B.Tech,BIOTECH-GE,2,21GNM101L,1 Physical and Mental health using Yoga
+SRM KTR,B.Tech,BIOTECH-GE,3,21PDH209T,1 Social Engineering
+SRM KTR,B.Tech,BIOTECH-GE,2,21GNM102L,1 National Service Scheme
+SRM KTR,B.Tech,BIOTECH-GE,3,21BTC201L,Biochemistry Laboratory
+SRM KTR,B.Tech,BIOTECH-GE,2,21GNM103L,1 National Cadet Corps
+SRM KTR,B.Tech,BIOTECH-GE,3,21BTC202T,Microbiology
+SRM KTR,B.Tech,BIOTECH-GE,2,21GNM104L,1 National Sports Organization Course Course Week
+SRM KTR,B.Tech,BIOTECH-GE,3,21BTC203L,Cell and Microbiology Laboratory -
+SRM KTR,B.Tech,BIOTECH-GE,3,21BTC204T,Bioprocess Principles
+SRM KTR,B.Tech,BIOTECH-GE,3,21BTC205L,Bioprocess Principles Laboratory
+SRM KTR,B.Tech,BIOTECH-GE,3,21BTC206T,Genetics and Cytogenetics
+SRM KTR,B.Tech,BIOTECH-GE,3,21LEM201T,1 Professional Ethics
+SRM KTR,B.Tech,BIOTECH-GE,3,21PDM201L,1 Verbal Reasoning
+SRM KTR,B.Tech,BIOTECH-GE,4,21CHS252J,Chemical Engineering Principles
+SRM KTR,B.Tech,BIOTECH-GE,3,21LEM202T,1 Understanding Harmony and Ethical
+SRM KTR,B.Tech,BIOTECH-GE,4,21CSC206T,Artificial Intelligence
+SRM KTR,B.Tech,BIOTECH-GE,4,21BTC207T,Molecular Biology
+SRM KTR,B.Tech,BIOTECH-GE,4,21BTC208L,Molecular Biology Laboratory
+SRM KTR,B.Tech,BIOTECH-GE,4,21BTC209T,Bioprocess Engineering
+SRM KTR,B.Tech,BIOTECH-GE,4,21BTC210L,Bioprocess Engineering Laboratory
+SRM KTR,B.Tech,BIOTECH-GE,4,21DCS201P,1 Design Thinking and Methodology
+SRM KTR,B.Tech,BIOTECH-GE,5,21MAB303T,Biostatistics for Biotechnologists
+SRM KTR,B.Tech,BIOTECH-GE,4,21PDM202L,1 Critical and Creative Thinking Skills
+SRM KTR,B.Tech,BIOTECH-GE,5,21BTC301J,Gene Manipulation and Genomics
+SRM KTR,B.Tech,BIOTECH-GE,5,21BTC302J,Immunology
+SRM KTR,B.Tech,BIOTECH-GE,5,21BTC303T,Protein Engineering
+SRM KTR,B.Tech,BIOTECH-GE,5,21GNP301L,Community Connect
+SRM KTR,B.Tech,BIOTECH-GE,5,21PDM301L,1 Analytical and logical Thinking Skills
+SRM KTR,B.Tech,BIOTECH-GE,6,21CSS303T,Data Science
+SRM KTR,B.Tech,BIOTECH-GE,5,21LEM301T,1 Indian Art Form
+SRM KTR,B.Tech,BIOTECH-GE,6,21BTC304T,Animal Biotechnology
+SRM KTR,B.Tech,BIOTECH-GE,6,21BTC305L,Animal Biotechnology Laboratory -
+SRM KTR,B.Tech,BIOTECH-GE,6,21BTC306T,Plant Biotechnology
+SRM KTR,B.Tech,BIOTECH-GE,6,21BTP302L,1 Project
+SRM KTR,B.Tech,BIOTECH-GE,7,21BTC401L,Plant Biotechnology Laboratory
+SRM KTR,B.Tech,BIOTECH-GE,6,21BTP303T,MOOC
+SRM KTR,B.Tech,BIOTECH-GE,7,21BTC402J,Bio Separation Technology
+SRM KTR,B.Tech,BIOTECH-GE,6,21LEM302T,1 Indian Traditional knowledge
+SRM KTR,B.Tech,BIOTECH-GE,6,21PDM302L,1 Employability Skill and Practices
+SRM KTR,B.Tech,BIOTECH-GE,7,21GNH401TA,Behavioral Psychology
+SRM KTR,B.Tech,BIOTECH-GE,7,21BTM191T,1 Bioethics and IPR
+SRM KTR,B.Tech,BIOTECH-GE,8,21BTP401L,Major Project
+SRM KTR,B.Tech,BIOTECH-GE,8,21BTP402L,Major Project
+SRM KTR,B.Tech,BIOTECH-GE,8,21BTP403L,Internship#
+SRM KTR,B.Tech,BIOTECH-GE,7,21BTP401L,Major Project
+SRM KTR,B.Tech,BIOTECH-GE,7,21BTP402L,Major Project
+SRM KTR,B.Tech,EEE,1,21LEH101T,Communicative English
+SRM KTR,B.Tech,EEE,2,21LEH102T,Chinese
+SRM KTR,B.Tech,EEE,1,21MAB101T,Calculus and Linear Algebra
+SRM KTR,B.Tech,EEE,2,21LEH103T,French
+SRM KTR,B.Tech,EEE,2,21LEH104T,German
+SRM KTR,B.Tech,EEE,1,21PYB101J,"Quantum Mechanics, Waves and"
+SRM KTR,B.Tech,EEE,2,21LEH105T,Japanese
+SRM KTR,B.Tech,EEE,1,21MES102L,1 Engineering Graphics and Design
+SRM KTR,B.Tech,EEE,2,21LEH106T,Korean
+SRM KTR,B.Tech,EEE,1,21EES101T,Electrical and Electronics Engineering
+SRM KTR,B.Tech,EEE,2,21LEH107T,Spanish
+SRM KTR,B.Tech,EEE,1,21CYM101T,1 Environmental Science
+SRM KTR,B.Tech,EEE,2,21LEH108T,Russian
+SRM KTR,B.Tech,EEE,1,21PDM101L,1 Professional Skills and Practices
+SRM KTR,B.Tech,EEE,2,21GNH101J,Philosophy of Engineering
+SRM KTR,B.Tech,EEE,1,21LEM101T,1 Constitution of India
+SRM KTR,B.Tech,EEE,2,21MAB102T,Advanced Calculus and Complex Analysis
+SRM KTR,B.Tech,EEE,2,21CYB101J,Chemistry
+SRM KTR,B.Tech,EEE,2,21EEC101J,Electric Circuits
+SRM KTR,B.Tech,EEE,2,21CSS101J,Programming for Problem Solving
+SRM KTR,B.Tech,EEE,2,21BTB103T,Biology
+SRM KTR,B.Tech,EEE,2,21MES101L,1 Basic Civil and Mechanical Workshop
+SRM KTR,B.Tech,EEE,3,21MAB209T,Transforms and Computational Techniques
+SRM KTR,B.Tech,EEE,2,21PDM102L,1 General Aptitude
+SRM KTR,B.Tech,EEE,2,21GNM101L,1 Physical and Mental health using Yoga
+SRM KTR,B.Tech,EEE,3,21PDH209T,1 Social Engineering
+SRM KTR,B.Tech,EEE,2,21GNM102L,1 National Service Scheme
+SRM KTR,B.Tech,EEE,3,21ASS101T,Applied Engineering Mechanics
+SRM KTR,B.Tech,EEE,2,21GNM103L,1 National Cadet Corps
+SRM KTR,B.Tech,EEE,3,21EEC201J,Analog Electronics
+SRM KTR,B.Tech,EEE,2,21GNM104L,1 National Sports Organization Course Course Week
+SRM KTR,B.Tech,EEE,3,21EEC202T,Electromagnetic Theory
+SRM KTR,B.Tech,EEE,3,21EEC203J,Electrical Machines - I
+SRM KTR,B.Tech,EEE,3,21LEM201T,1 Professional Ethics
+SRM KTR,B.Tech,EEE,3,21PDM201L,1 Verbal Reasoning
+SRM KTR,B.Tech,EEE,3,21LEM202T,1 Understanding Harmony and Ethical
+SRM KTR,B.Tech,EEE,4,21MAB301T,Probability and Statistics
+SRM KTR,B.Tech,EEE,4,21EEC204J,Digital System Design
+SRM KTR,B.Tech,EEE,4,21EEC205J,Electrical Machines - II
+SRM KTR,B.Tech,EEE,4,21CSC206T,Artificial Intelligence
+SRM KTR,B.Tech,EEE,4,21EEC206J,Control Systems
+SRM KTR,B.Tech,EEE,4,21EEC207J,Sensors and Instruments
+SRM KTR,B.Tech,EEE,5,21MAB302T,Discrete Mathematics
+SRM KTR,B.Tech,EEE,4,21DCS201P,1 Design Thinking and Methodology
+SRM KTR,B.Tech,EEE,5,21EEC301J,Power Electronics
+SRM KTR,B.Tech,EEE,4,21PDM202L,1 Critical and Creative Thinking Skills
+SRM KTR,B.Tech,EEE,5,21EEC302T,Digital Signal Processing
+SRM KTR,B.Tech,EEE,5,21EEC303T,Power System - I
+SRM KTR,B.Tech,EEE,5,21GNP301L,Community Connect
+SRM KTR,B.Tech,EEE,5,21PDM301L,1 Analytical and logical Thinking Skills
+SRM KTR,B.Tech,EEE,6,21CSS303T,Data Science
+SRM KTR,B.Tech,EEE,5,21LEM301T,1 Indian Art Form
+SRM KTR,B.Tech,EEE,6,21EEC304J,Power System - II
+SRM KTR,B.Tech,EEE,6,21EEC305P,Microcontroller
+SRM KTR,B.Tech,EEE,6,21EEP302L,Project
+SRM KTR,B.Tech,EEE,7,21GNH401T,Behavioral Psychology
+SRM KTR,B.Tech,EEE,6,21EEP303T,MOOC
+SRM KTR,B.Tech,EEE,6,21PDM302L,1 Employability Skill and Practices
+SRM KTR,B.Tech,EEE,6,21LEM302T,1 Indian Traditional knowledge
+SRM KTR,B.Tech,EEE,8,21EEP401L,Major Project
+SRM KTR,B.Tech,EEE,8,21EEP402L,Major Project
+SRM KTR,B.Tech,EEE,8,21EEP403L,Internship#
+SRM KTR,B.Tech,EEE,7,21EEP401L,Major Project
+SRM KTR,B.Tech,EEE,7,21EEP402L,Major Project
+SRM KTR,B.Tech,ECE-CPS,1,21LEH101T,Communicative English
+SRM KTR,B.Tech,ECE-CPS,2,21LEH102T,Chinese
+SRM KTR,B.Tech,ECE-CPS,1,21MAB101T,Calculus and Linear Algebra
+SRM KTR,B.Tech,ECE-CPS,2,21LEH103T,French
+SRM KTR,B.Tech,ECE-CPS,2,21LEH104T,German
+SRM KTR,B.Tech,ECE-CPS,1,21PYB101J,"Quantum Mechanics, Waves and"
+SRM KTR,B.Tech,ECE-CPS,2,21LEH105T,Japanese
+SRM KTR,B.Tech,ECE-CPS,1,21MES102L,1 Engineering Graphics and Design
+SRM KTR,B.Tech,ECE-CPS,2,21LEH106T,Korean
+SRM KTR,B.Tech,ECE-CPS,1,21EES101T,Electrical and Electronics Engineering
+SRM KTR,B.Tech,ECE-CPS,2,21LEH107T,Spanish
+SRM KTR,B.Tech,ECE-CPS,1,21CYM101T,1 Environmental Science
+SRM KTR,B.Tech,ECE-CPS,2,21LEH108T,Russian
+SRM KTR,B.Tech,ECE-CPS,1,21PDM101L,1 Professional Skills and Practices
+SRM KTR,B.Tech,ECE-CPS,2,21GNH101J,Philosophy of Engineering
+SRM KTR,B.Tech,ECE-CPS,1,21LEM101T,1 Constitution of India
+SRM KTR,B.Tech,ECE-CPS,2,21MAB102T,Advanced Calculus and Complex Analysis
+SRM KTR,B.Tech,ECE-CPS,2,21CYB101J,Chemistry
+SRM KTR,B.Tech,ECE-CPS,2,21ECC101J,Electronic System and PCB Design
+SRM KTR,B.Tech,ECE-CPS,2,21CSS101J,Programming for Problem Solving
+SRM KTR,B.Tech,ECE-CPS,2,21BTB103T,Biology
+SRM KTR,B.Tech,ECE-CPS,2,21MES101L,1 Basic Civil and Mechanical Workshop
+SRM KTR,B.Tech,ECE-CPS,3,21MAB201T,Problems
+SRM KTR,B.Tech,ECE-CPS,2,21PDM102L,1 General Aptitude
+SRM KTR,B.Tech,ECE-CPS,2,21GNM101L,1 Physical and Mental health using Yoga
+SRM KTR,B.Tech,ECE-CPS,3,21PDH209T,1 Social Engineering
+SRM KTR,B.Tech,ECE-CPS,3,21CSS201T,Computer Organization and Architecture
+SRM KTR,B.Tech,ECE-CPS,2,21GNM102L,1 National Service Scheme
+SRM KTR,B.Tech,ECE-CPS,3,21ECC201T,Solid State Devices
+SRM KTR,B.Tech,ECE-CPS,2,21GNM103L,1 National Cadet Corps
+SRM KTR,B.Tech,ECE-CPS,3,21ECC203T,Digital Logic Design
+SRM KTR,B.Tech,ECE-CPS,2,21GNM104L,1 National Sports Organization Course Course Week
+SRM KTR,B.Tech,ECE-CPS,3,21ECC205T,Electromagnetic Theory and Interference
+SRM KTR,B.Tech,ECE-CPS,3,21ECC211L,Devices and Digital IC Laboratory
+SRM KTR,B.Tech,ECE-CPS,3,21LEM201T,1 Professional Ethics
+SRM KTR,B.Tech,ECE-CPS,3,21PDM201L,1 Verbal Reasoning
+SRM KTR,B.Tech,ECE-CPS,3,21LEM202T,1 Understanding Harmony and Ethical
+SRM KTR,B.Tech,ECE-CPS,4,21MAB203T,Probability and Stochastic Processes
+SRM KTR,B.Tech,ECE-CPS,4,21ECC202T,Analog and Linear Electronic Circuits
+SRM KTR,B.Tech,ECE-CPS,4,21ECC204T,2 Signal Processing
+SRM KTR,B.Tech,ECE-CPS,4,21ECC222L,Analog and Linear Electronic Circuits Laboratory
+SRM KTR,B.Tech,ECE-CPS,4,21CSC206T,Artificial Intelligence
+SRM KTR,B.Tech,ECE-CPS,5,21MAB302T,Discrete Mathematics
+SRM KTR,B.Tech,ECE-CPS,4,21DCS201P,1 Design Thinking and Methodology
+SRM KTR,B.Tech,ECE-CPS,4,21PDM202L,Critical and Creative Thinking Skills
+SRM KTR,B.Tech,ECE-CPS,5,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques"
+SRM KTR,B.Tech,ECE-CPS,5,21ECC303T,2 VLSI Design and Technology
+SRM KTR,B.Tech,ECE-CPS,5,21ECC311L,VLSI Design Laboratory
+SRM KTR,B.Tech,ECE-CPS,5,21GNP301L,Community Connect
+SRM KTR,B.Tech,ECE-CPS,6,21CSS303T,Data Science
+SRM KTR,B.Tech,ECE-CPS,5,21PDM301L,1 Analytical and logical Thinking Skills
+SRM KTR,B.Tech,ECE-CPS,6,21ECC302T,Analog and Digital Communication
+SRM KTR,B.Tech,ECE-CPS,5,21LEM301T,1 Indian Art Form
+SRM KTR,B.Tech,ECE-CPS,6,21ECC304T,Microwave and Optical Communication
+SRM KTR,B.Tech,ECE-CPS,6,21ECC322L,Communication Laboratory
+SRM KTR,B.Tech,ECE-CPS,6,21ECP302L,Project
+SRM KTR,B.Tech,ECE-CPS,6,21ECP303T,1 MOOC
+SRM KTR,B.Tech,ECE-CPS,7,21GNH401T,Behavioral Psychology
+SRM KTR,B.Tech,ECE-CPS,6,21PDM302L,1 Employability Skill and Practices
+SRM KTR,B.Tech,ECE-CPS,6,21LEM302T,1 Indian Traditional knowledge
+SRM KTR,B.Tech,ECE-CPS,7,21ECC401T,Computer Communication and Network Systems
+SRM KTR,B.Tech,ECE-CPS,7,21ECC402P,1 Computer Communication and Network
+SRM KTR,B.Tech,ECE-CPS,8,21ECP401L,Major Project
+SRM KTR,B.Tech,ECE-CPS,8,21ECP402L,Major Project
+SRM KTR,B.Tech,ECE-CPS,8,21ECP403L,Internship#
+SRM KTR,B.Tech,ECE-CPS,7,21ECP401L,Major Project
+SRM KTR,B.Tech,ECE-CPS,7,21ECP402L,Major Project
+SRM KTR,B.Tech,ECE-DS,1,21LEH101T,Communicative English
+SRM KTR,B.Tech,ECE-DS,2,21LEH102T,Chinese
+SRM KTR,B.Tech,ECE-DS,1,21MAB101T,Calculus and Linear Algebra
+SRM KTR,B.Tech,ECE-DS,2,21LEH103T,French
+SRM KTR,B.Tech,ECE-DS,2,21LEH104T,German
+SRM KTR,B.Tech,ECE-DS,1,21PYB101J,"Quantum Mechanics, Waves and"
+SRM KTR,B.Tech,ECE-DS,2,21LEH105T,Japanese
+SRM KTR,B.Tech,ECE-DS,2,21LEH106T,Korean
+SRM KTR,B.Tech,ECE-DS,1,21MES102L,1 Engineering Graphics and Design
+SRM KTR,B.Tech,ECE-DS,2,21LEH107T,Spanish
+SRM KTR,B.Tech,ECE-DS,1,21EES101T,Electrical and Electronics Engineering
+SRM KTR,B.Tech,ECE-DS,2,21LEH108T,Russian
+SRM KTR,B.Tech,ECE-DS,1,21CYM101T,1 Environmental Science
+SRM KTR,B.Tech,ECE-DS,2,21GNH101J,Philosophy of Engineering
+SRM KTR,B.Tech,ECE-DS,1,21PDM101L,1 Professional Skills and Practices
+SRM KTR,B.Tech,ECE-DS,2,21MAB102T,Advanced Calculus and Complex Analysis
+SRM KTR,B.Tech,ECE-DS,1,21LEM101T,1 Constitution of India
+SRM KTR,B.Tech,ECE-DS,2,21CYB101J,Chemistry
+SRM KTR,B.Tech,ECE-DS,2,21ECC101J,Electronic System and PCB Design
+SRM KTR,B.Tech,ECE-DS,2,21CSS101J,Programming for Problem Solving
+SRM KTR,B.Tech,ECE-DS,2,21BTB103T,Biology
+SRM KTR,B.Tech,ECE-DS,2,21MES101L,1 Basic Civil and Mechanical Workshop
+SRM KTR,B.Tech,ECE-DS,2,21PDM102L,1 General Aptitude
+SRM KTR,B.Tech,ECE-DS,3,21MAB201T,Problems
+SRM KTR,B.Tech,ECE-DS,2,21GNM101L,1 Physical and Mental health using Yoga
+SRM KTR,B.Tech,ECE-DS,3,21PDH209T,1 Social Engineering
+SRM KTR,B.Tech,ECE-DS,2,21GNM102L,1 National Service Scheme
+SRM KTR,B.Tech,ECE-DS,3,21CSS201T,Computer Organization and Architecture
+SRM KTR,B.Tech,ECE-DS,2,21GNM103L,1 National Cadet Corps
+SRM KTR,B.Tech,ECE-DS,3,21ECC201T,Solid State Devices
+SRM KTR,B.Tech,ECE-DS,2,21GNM104L,1 National Sports Organization Course Course Week
+SRM KTR,B.Tech,ECE-DS,3,21ECC203T,Digital Logic Design
+SRM KTR,B.Tech,ECE-DS,3,21ECC205T,Electromagnetic Theory and Interference
+SRM KTR,B.Tech,ECE-DS,3,21ECC211L,Devices and Digital IC Laboratory
+SRM KTR,B.Tech,ECE-DS,3,21LEM201T,1 Professional Ethics
+SRM KTR,B.Tech,ECE-DS,3,21PDM201L,1 Verbal Reasoning
+SRM KTR,B.Tech,ECE-DS,4,21MAB203T,Probability and Stochastic Processes
+SRM KTR,B.Tech,ECE-DS,3,21LEM202T,1 Understanding Harmony and Ethical
+SRM KTR,B.Tech,ECE-DS,4,21ECC202T,Analog and Linear Electronic Circuits
+SRM KTR,B.Tech,ECE-DS,4,21ECC204T,2 Signal Processing
+SRM KTR,B.Tech,ECE-DS,4,21ECC222L,Analog and Linear Electronic Circuits Laboratory
+SRM KTR,B.Tech,ECE-DS,4,21CSC206T,Artificial Intelligence
+SRM KTR,B.Tech,ECE-DS,4,21DCS201P,1 Design Thinking and Methodology
+SRM KTR,B.Tech,ECE-DS,5,21MAB302T,Discrete Mathematics
+SRM KTR,B.Tech,ECE-DS,4,21PDM202L,1 Critical and Creative Thinking Skills
+SRM KTR,B.Tech,ECE-DS,5,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques"
+SRM KTR,B.Tech,ECE-DS,5,21ECC303T,2 VLSI Design and Technology
+SRM KTR,B.Tech,ECE-DS,5,21ECC311L,VLSI Design Laboratory
+SRM KTR,B.Tech,ECE-DS,6,21CSS303T,Data Science
+SRM KTR,B.Tech,ECE-DS,5,21GNP301L,Community Connect
+SRM KTR,B.Tech,ECE-DS,6,21ECC302T,Analog and Digital Communication
+SRM KTR,B.Tech,ECE-DS,5,21PDM301L,1 Analytical and logical Thinking Skills
+SRM KTR,B.Tech,ECE-DS,6,21ECC304T,Microwave and Optical Communication
+SRM KTR,B.Tech,ECE-DS,5,21LEM301T,1 Indian Art Form
+SRM KTR,B.Tech,ECE-DS,6,21ECC322L,Communication Laboratory
+SRM KTR,B.Tech,ECE-DS,6,21ECP302L,Project
+SRM KTR,B.Tech,ECE-DS,6,21ECP303T,1 MOOC
+SRM KTR,B.Tech,ECE-DS,6,21PDM302L,1 Employability Skill and Practices
+SRM KTR,B.Tech,ECE-DS,7,21GNH401T,Behavioral Psychology
+SRM KTR,B.Tech,ECE-DS,6,21LEM302T,1 Indian Traditional knowledge
+SRM KTR,B.Tech,ECE-DS,7,21ECC401T,Computer Communication and Network Systems
+SRM KTR,B.Tech,ECE-DS,7,21ECC402P,1 Computer Communication and Network
+SRM KTR,B.Tech,ECE-DS,8,21ECP401L,Major Project
+SRM KTR,B.Tech,ECE-DS,8,21ECP402L,Major Project
+SRM KTR,B.Tech,ECE-DS,7,21ECP401L,Major Project
+SRM KTR,B.Tech,ECE-DS,7,21ECP402L,Major Project
+SRM KTR,B.Tech,ECE-DS,8,21ECP403L,Internship#
+SRM KTR,B.Tech,ECE-DS,7,21ECP403L,Internship
+SRM KTR,B.Tech,ECE,1,21LEH101T,Communicative English
+SRM KTR,B.Tech,ECE,2,21LEH102T,Chinese
+SRM KTR,B.Tech,ECE,1,21MAB101T,Calculus and Linear Algebra
+SRM KTR,B.Tech,ECE,2,21LEH103T,French
+SRM KTR,B.Tech,ECE,2,21LEH104T,German
+SRM KTR,B.Tech,ECE,1,21PYB101J,"Quantum Mechanics, Waves and"
+SRM KTR,B.Tech,ECE,2,21LEH105T,Japanese
+SRM KTR,B.Tech,ECE,1,21MES102L,1 Engineering Graphics and Design
+SRM KTR,B.Tech,ECE,2,21LEH106T,Korean
+SRM KTR,B.Tech,ECE,1,21EES101T,Electrical and Electronics Engineering
+SRM KTR,B.Tech,ECE,2,21LEH107T,Spanish
+SRM KTR,B.Tech,ECE,1,21CYM101T,1 Environmental Science
+SRM KTR,B.Tech,ECE,2,21LEH108T,Russian
+SRM KTR,B.Tech,ECE,1,21PDM101L,1 Professional Skills and Practices
+SRM KTR,B.Tech,ECE,2,21GNH101J,Philosophy of Engineering
+SRM KTR,B.Tech,ECE,1,21LEM101T,1 Constitution of India
+SRM KTR,B.Tech,ECE,2,21MAB102T,Advanced Calculus and Complex Analysis
+SRM KTR,B.Tech,ECE,2,21CYB101J,Chemistry
+SRM KTR,B.Tech,ECE,2,21ECC101J,Electronic System and PCB Design
+SRM KTR,B.Tech,ECE,2,21CSS101J,Programming for Problem Solving
+SRM KTR,B.Tech,ECE,2,21BTB103T,Biology
+SRM KTR,B.Tech,ECE,2,21MES101L,1 Basic Civil and Mechanical Workshop
+SRM KTR,B.Tech,ECE,3,21MAB201T,Transforms and Boundary Value Problems
+SRM KTR,B.Tech,ECE,2,21PDM102L,1 General Aptitude
+SRM KTR,B.Tech,ECE,3,21PDH209T,1 Social Engineering
+SRM KTR,B.Tech,ECE,2,21GNM101L,1 Physical and Mental health using Yoga
+SRM KTR,B.Tech,ECE,3,21CSS201T,Computer Organization and Architecture
+SRM KTR,B.Tech,ECE,2,21GNM102L,1 National Service Scheme
+SRM KTR,B.Tech,ECE,3,21ECC201T,Solid State Devices
+SRM KTR,B.Tech,ECE,2,21GNM103L,1 National Cadet Corps
+SRM KTR,B.Tech,ECE,3,21ECC203T,Digital Logic Design
+SRM KTR,B.Tech,ECE,2,21GNM104L,1 National Sports Organization Course Course Week
+SRM KTR,B.Tech,ECE,3,21ECC205T,Electromagnetic Theory and Interference
+SRM KTR,B.Tech,ECE,3,21ECC211L,Devices and Digital IC Laboratory
+SRM KTR,B.Tech,ECE,3,21LEM201T,1 Professional Ethics
+SRM KTR,B.Tech,ECE,3,21PDM201L,1 Verbal Reasoning
+SRM KTR,B.Tech,ECE,3,21LEM202T,1 Understanding Harmony and Ethical
+SRM KTR,B.Tech,ECE,4,21MAB203T,Probability and Stochastic Processes
+SRM KTR,B.Tech,ECE,4,21ECC202T,Analog and Linear Electronic Circuits
+SRM KTR,B.Tech,ECE,4,21ECC204T,2 Signal Processing
+SRM KTR,B.Tech,ECE,4,21ECC222L,Analog and Linear Electronic Circuits Laboratory
+SRM KTR,B.Tech,ECE,4,21CSC206T,Artificial Intelligence
+SRM KTR,B.Tech,ECE,4,21DCS201P,1 Design Thinking and Methodology
+SRM KTR,B.Tech,ECE,5,21MAB302T,Discrete Mathematics
+SRM KTR,B.Tech,ECE,4,21PDM202L,Critical and Creative Thinking Skills
+SRM KTR,B.Tech,ECE,5,21ECC301P,"Microprocessor, Microcontroller, and Interfacing Techniques"
+SRM KTR,B.Tech,ECE,5,21ECC303T,2 VLSI Design and Technology
+SRM KTR,B.Tech,ECE,5,21ECC311L,VLSI Design Laboratory
+SRM KTR,B.Tech,ECE,6,21CSS303T,Data Science
+SRM KTR,B.Tech,ECE,5,21GNP301L,Community Connect
+SRM KTR,B.Tech,ECE,6,21ECC302T,Analog and Digital Communication
+SRM KTR,B.Tech,ECE,5,21PDM301L,1 Analytical and logical Thinking Skills
+SRM KTR,B.Tech,ECE,6,21ECC304T,Microwave and Optical Communication
+SRM KTR,B.Tech,ECE,5,21LEM301T,1 Indian Art Form
+SRM KTR,B.Tech,ECE,6,21ECC322L,Communication Laboratory
+SRM KTR,B.Tech,ECE,6,21ECP302L,Project
+SRM KTR,B.Tech,ECE,6,21ECP303T,1 MOOC
+SRM KTR,B.Tech,ECE,6,21PDM302L,1 Employability Skill and Practices
+SRM KTR,B.Tech,ECE,7,21GNH401T,Behavioral Psychology
+SRM KTR,B.Tech,ECE,6,21LEM302T,1 Indian Traditional knowledge
+SRM KTR,B.Tech,ECE,7,21ECC401T,Computer Communication and Network Systems
+SRM KTR,B.Tech,ECE,7,21ECC402P,1 Computer Communication and Network
+SRM KTR,B.Tech,ECE,8,21ECP401L,Major Project
+SRM KTR,B.Tech,ECE,8,21ECP402L,Major Project
+SRM KTR,B.Tech,ECE,8,21ECP403L,Internship#
+SRM KTR,B.Tech,ECE,7,21ECP401L,Major Project
+SRM KTR,B.Tech,ECE,7,21ECP402L,Major Project
+SRM KTR,B.Tech,ECE,7,21ECP403L,Internship
+SRM NCR,B.Tech,CSE,3,21AS301,Engineering Mat
+SRM NCR,B.Tech,CSE,3,21CS2001,Data Structures
+SRM NCR,B.Tech,CSE,3,21CS2007,Computer Archite
+SRM NCR,B.Tech,CSE,3,21CS2113,Data Structures
+ANNA UNIV,B.E.,CSE/ECE/MECH,1,IP3151,Induction Progra
+ANNA UNIV,B.E.,CSE/ECE/MECH,1,HS3151,Professional English I
+ANNA UNIV,B.E.,CSE/ECE/MECH,1,MA3151,Matrices and Cal
+ANNA UNIV,B.E.,CSE/ECE/MECH,1,PH3151,Engineering Phy
+ANNA UNIV,B.E.,CSE/ECE/MECH,1,CY3151,Engineering Che
+ANNA UNIV,B.E.,CSE/ECE/MECH,1,GE3151,Problem Solving
+ANNA UNIV,B.E.,CSE/ECE/MECH,1,GE3171,Problem Solving and Python Programming Laboratory
+ANNA UNIV,B.E.,CSE/ECE/MECH,1,BS3171,Physics and Chemistry Laboratory
+ANNA UNIV,B.E.,CSE/ECE/MECH,1,GE3172,English Laboratory
+ANNA UNIV,B.E.,CSE,2,HS3252,Professional English II
+ANNA UNIV,B.E.,CSE/ECE/MECH,2,MA3251,Statistics and Nu
+ANNA UNIV,B.E.,CSE,2,PH3256,Physics for Infor
+ANNA UNIV,B.E.,CSE/MECH,2,BE3251,Basic Electrical and Electronics Engineering
+ANNA UNIV,B.E.,CSE/ECE/MECH,2,GE3251,Engineering Gra
+ANNA UNIV,B.E.,CSE,2,CS3251,Programming in
+ANNA UNIV,B.E.,CSE/ECE/MECH,2,GE3271,Engineering Prac
+ANNA UNIV,B.E.,CSE,3,MA3354,Discrete Mathematics
+ANNA UNIV,B.E.,CSE,3,CS3351,Digital Principles and Computer Organization
+ANNA UNIV,B.E.,CSE,3,CS3352,Foundations of Data Science
+ANNA UNIV,B.E.,CSE,3,CS3391,Object Oriented Programming
+ANNA UNIV,B.E.,CSE,3,CS3301,Data Structures
+ANNA UNIV,B.E.,CSE,3,CS3361,Data Science Laboratory
+ANNA UNIV,B.E.,CSE,5,CS3591,Computer Networks
+ANNA UNIV,B.E.,CSE,Not assigned in source (Sem TBD),CCS350,Knowledge Engi
+ANNA UNIV,B.E.,CSE,Not assigned in source (Sem TBD),CCS337,Cognitive Scienc
+ANNA UNIV,B.E.,CSE,Not assigned in source (Sem TBD),CCS356,Object Oriented
+ANNA UNIV,B.E.,ECE,2,PH3254,Physics for Electronics Engineering
+ANNA UNIV,B.E.,ECE,2,BE3254,Electrical and Instrumentation Engineering
+ANNA UNIV,B.E.,MECH,2,PH3251,Materials Science
+ANNA UNIV,B.E.,CIVIL,2,PH3201,Physics for Civil Engineering
+ANNA UNIV,B.E.,CIVIL,2,BE3252,"Basic Electrical, Electronics and Instrumentation Engineering"
+ANNA UNIV,B.E.,MECH,3,ME3351,Engineering Mechanics
+ANNA UNIV,B.E.,MECH,3,ME3391,Engineering Thermodynamics
+ANNA UNIV,B.E.,MECH,3,ME3392,Engineering Materials and Metallurgy
+ANNA UNIV,B.E.,MECH,3,ME3381,Computer Aided Machine Drawing
+ANNA UNIV,B.E.,MECH,4,ME3451,Thermal Engineering
+ANNA UNIV,B.E.,MECH,4,ME3461,Thermal Engineering Laboratory
+ANNA UNIV,B.E.,MECH,7,ME3792,Computer Integrated Manufacturing
+ANNA UNIV,B.E.,CIVIL,1,HS7151,Foundational English
+ANNA UNIV,B.E.,CIVIL,1,MA7151,Mathematics I
+ANNA UNIV,B.E.,CIVIL,1,PH7151,Engineering Physics
+ANNA UNIV,B.E.,CIVIL,1,CY7151,Engineering Chemistry
+ANNA UNIV,B.E.,CIVIL,1,EE7151,Basic Electrical and ES
+ANNA UNIV,B.E.,CIVIL,1,GE7152,Engineering Graphics
+ANNA UNIV,B.E.,CIVIL,1,BS7161,Basic Sciences BS
+ANNA UNIV,B.E.,CIVIL,2,HS7251,Technical English
+ANNA UNIV,B.E.,CIVIL,2,MA7251,Mathematics–II
+ANNA UNIV,B.E.,CIVIL,2,PH7254,Physics for Civil BS
+ANNA UNIV,B.E.,CIVIL,2,CY7253,Chemistry for Civil BS
+ANNA UNIV,B.E.,CIVIL,2,GE7151,Computing Techniques
+ANNA UNIV,B.E.,CIVIL,2,GE7153,Engineering Mechanics
+ANNA UNIV,B.E.,CIVIL,2,GE7161,Computer Practices ES
+ANNA UNIV,B.E.,CIVIL,2,GE7162,Engineering Practices ES
+ANNA UNIV,B.E.,CIVIL,3,AG7306,Engineering Geology
+ANNA UNIV,B.E.,CIVIL,3,CE7301,Construction Materials
+ANNA UNIV,B.E.,CIVIL,3,CE7302,Strength of Materials–I
+ANNA UNIV,B.E.,CIVIL,3,CE7351,Fluid Mechanics
+ANNA UNIV,B.E.,CIVIL,3,GE7251,Environmental Science HS
+ANNA UNIV,B.E.,CIVIL,3,MA7358,Transform Techniques and Partial Differential BS
+ANNA UNIV,B.E.,CIVIL,3,CE7261,Strength of Materials ES
+ANNA UNIV,B.E.,CIVIL,3,CE7311,Construction Materials PC
+ANNA UNIV,B.E.,CIVIL,4,CE7353,Plane and Geodetic PC
+ANNA UNIV,B.E.,CIVIL,4,CE7401,Applied Hydraulic PC
+ANNA UNIV,B.E.,CIVIL,4,CE7402,Construction Techniques PC
+ANNA UNIV,B.E.,CIVIL,4,CE7403,Soil Mechanics
+ANNA UNIV,B.E.,CIVIL,4,CE7404,Strength of Materials–II
+ANNA UNIV,B.E.,CIVIL,4,MA7354,Numerical Methods
+ANNA UNIV,B.E.,CIVIL,4,CE7362,Plane and Geodetic PC
+ANNA UNIV,B.E.,CIVIL,4,CE7411,Hydraulic Engineering PC
+ANNA UNIV,B.E.,CIVIL,4,CE7611,Computer Aided Building EEC
+ANNA UNIV,B.E.,CIVIL,5,CE7501,Design of Reinforced Cement Concrete PC
+ANNA UNIV,B.E.,CIVIL,5,CE7502,Highway Engineering
+ANNA UNIV,B.E.,CIVIL,5,CE7503,Structural Analysis – I
+ANNA UNIV,B.E.,CIVIL,5,CE7504,Water Supply Engineering
+ANNA UNIV,B.E.,CIVIL,5,CE7511,Highway Engineering PC
+ANNA UNIV,B.E.,CIVIL,5,CE7512,Soil Mechanics Laboratory
+ANNA UNIV,B.E.,CIVIL,6,CE7601,Design of Steel and Timber PC
+ANNA UNIV,B.E.,CIVIL,6,CE7602,Structural Analysis–II
+ANNA UNIV,B.E.,CIVIL,6,CE7603,Structural Design and PC
+ANNA UNIV,B.E.,CIVIL,6,CE7604,Wastewater Engineering
+ANNA UNIV,B.E.,CIVIL,6,CE7612,Water and Waste Water PC
+ANNA UNIV,B.E.,CIVIL,6,CE7613,Survey Camp (2 weeks – EEC
+ANNA UNIV,B.E.,CIVIL,7,CE7701,"Estimation, Costing and PC"
+ANNA UNIV,B.E.,CIVIL,7,CE7702,Foundation Engineering
+ANNA UNIV,B.E.,CIVIL,7,CE7703,Irrigation Engineering
+ANNA UNIV,B.E.,CIVIL,7,HS7551,Employability Skills
+ANNA UNIV,B.E.,CIVIL,7,CE7711,Creative and Innovative Project (Activity Based - EEC
+ANNA UNIV,B.E.,CIVIL,7,CE7712,Irrigation and Environmental PC
+ANNA UNIV,B.E.,CIVIL,7,CE7713,Industrial Training (4 weeks During VI Semester – EEC
+ANNA UNIV,B.E.,CIVIL,8,CE7811,Project Work#
+ANNA UNIV,B.E.,MECH,1,HS7151,Foundational English
+ANNA UNIV,B.E.,MECH,1,MA7151,Mathematics I
+ANNA UNIV,B.E.,MECH,1,PH7151,Engineering Physics
+ANNA UNIV,B.E.,MECH,1,CY7151,Engineering Chemistry
+ANNA UNIV,B.E.,MECH,1,GE7152,Engineering Graphics
+ANNA UNIV,B.E.,MECH,1,BS7161,Basic Sciences
+ANNA UNIV,B.E.,MECH,1,GE7162,Engineering Practices
+ANNA UNIV,B.E.,MECH,2,HS7251,Technical English
+ANNA UNIV,B.E.,MECH,2,MA7251,Mathematics II
+ANNA UNIV,B.E.,MECH,2,GE7151,Computing
+ANNA UNIV,B.E.,MECH,2,GE7153,Engineering
+ANNA UNIV,B.E.,MECH,2,ME7252,Manufacturing
+ANNA UNIV,B.E.,MECH,2,ME7261,Manufacturing
+ANNA UNIV,B.E.,MECH,2,GE7161,Computer Practices
+ANNA UNIV,B.E.,MECH,3,CE7251,Strength of Materials
+ANNA UNIV,B.E.,MECH,3,CE7352,Fluid Mechanics and
+ANNA UNIV,B.E.,MECH,3,EC7354,Electronics Engineering
+ANNA UNIV,B.E.,MECH,3,EE7251,Basic Electrical Engineering
+ANNA UNIV,B.E.,MECH,3,MA7302,Partial Differential Equations
+ANNA UNIV,B.E.,MECH,3,ME7301,Engineering Thermodynamics
+ANNA UNIV,B.E.,MECH,3,CE7312,Fluid Mechanics and Strength
+ANNA UNIV,B.E.,MECH,3,EE7261,Electrical and Electronics
+ANNA UNIV,B.E.,MECH,4,GE7251,Environmental Science and
+ANNA UNIV,B.E.,MECH,4,MA7354,Numerical Methods
+ANNA UNIV,B.E.,MECH,4,ME7352,Manufacturing Technology–II
+ANNA UNIV,B.E.,MECH,4,ME7401,Kinematics of Machines
+ANNA UNIV,B.E.,MECH,4,ME7402,Thermal Engineering–I
+ANNA UNIV,B.E.,MECH,4,ML7451,Engineering Materials and
+ANNA UNIV,B.E.,MECH,4,ME7361,Manufacturing Technology
+ANNA UNIV,B.E.,MECH,4,ME7411,Thermal Engineering
+ANNA UNIV,B.E.,MECH,5,ME7501,Dynamics of Machines
+ANNA UNIV,B.E.,MECH,5,ME7502,Metrology and
+ANNA UNIV,B.E.,MECH,5,ME7503,Thermal Engineering–II
+ANNA UNIV,B.E.,MECH,5,ME7552,Design of Machine
+ANNA UNIV,B.E.,MECH,5,ME7553,Hydraulics and
+ANNA UNIV,B.E.,MECH,5,ME7511,Metrology and Dynamics
+ANNA UNIV,B.E.,MECH,5,ME7561,Computer Aided Machine
+ANNA UNIV,B.E.,MECH,6,ME7354,Mechatronics
+ANNA UNIV,B.E.,MECH,6,ME7551,Computer Aided Design
+ANNA UNIV,B.E.,MECH,6,ME7601,Design of Transmission
+ANNA UNIV,B.E.,MECH,6,ME7602,Heat and Mass Transfer
+ANNA UNIV,B.E.,MECH,6,HS7561,Communication Skills and
+ANNA UNIV,B.E.,MECH,6,ME7611,Thermal Engineering
+ANNA UNIV,B.E.,MECH,7,ME7355,Power Plant Engineering
+ANNA UNIV,B.E.,MECH,7,ME7701,Computer Integrated
+ANNA UNIV,B.E.,MECH,7,ME7751,Finite Element Analysis
+ANNA UNIV,B.E.,MECH,7,ME7711,Creative and Innovative
+ANNA UNIV,B.E.,MECH,7,ME7712,Simulation and Analysis
+ANNA UNIV,B.E.,MECH,7,ME7761,Mechatronics Laboratory
+ANNA UNIV,B.E.,MECH,8,ME7811,Project Work
+ANNA UNIV,B.E.,AERO,1,HS7151,Foundational English
+ANNA UNIV,B.E.,AERO,1,MA7151,Mathematics-I
+ANNA UNIV,B.E.,AERO,1,PH7151,Engineering Physics
+ANNA UNIV,B.E.,AERO,1,CY7151,Engineering BS
+ANNA UNIV,B.E.,AERO,1,GE7152,Engineering Graphics
+ANNA UNIV,B.E.,AERO,1,BS7161,Basic Sciences BS
+ANNA UNIV,B.E.,AERO,1,GE7162,Engineering ES
+ANNA UNIV,B.E.,AERO,2,HS7251,Technical English
+ANNA UNIV,B.E.,AERO,2,MA7251,Mathematics-II
+ANNA UNIV,B.E.,AERO,2,PH7251,Materials Science
+ANNA UNIV,B.E.,AERO,2,GE7151,Computing ES
+ANNA UNIV,B.E.,AERO,2,PR7251,Production ES
+ANNA UNIV,B.E.,AERO,2,GE7153,Engineering ES
+ANNA UNIV,B.E.,AERO,2,PR7261,Production Processess ES
+ANNA UNIV,B.E.,AERO,2,GE7161,Computer Practices ES
+ANNA UNIV,B.E.,AERO,3,AE7301,Aero Engineering ES
+ANNA UNIV,B.E.,AERO,3,AE7302,Principles of Flight
+ANNA UNIV,B.E.,AERO,3,AE7351,Engineering Fluid Mechanics and ES
+ANNA UNIV,B.E.,AERO,3,AE7353,Solid Mechanics
+ANNA UNIV,B.E.,AERO,3,EE7151,Basic Electrical and ES
+ANNA UNIV,B.E.,AERO,3,MA7354,Numerical Methods
+ANNA UNIV,B.E.,AERO,3,EE7261,Electrical and Electronics Engineering ES
+ANNA UNIV,B.E.,AERO,3,ME7362,Mechanical Sciences ES
+ANNA UNIV,B.E.,AERO,4,AE7401,Aerodynamics - I
+ANNA UNIV,B.E.,AERO,4,AE7402,Aircraft Structures - I
+ANNA UNIV,B.E.,AERO,4,AE7403,Aircraft Systems and PC
+ANNA UNIV,B.E.,AERO,4,AE7404,Propulsion - I
+ANNA UNIV,B.E.,AERO,4,MA7358,Transform Techniques and Partial Differential BS
+ANNA UNIV,B.E.,AERO,4,PR7451,Kinematics and PC
+ANNA UNIV,B.E.,AERO,4,AE7411,Aerodynamics PC
+ANNA UNIV,B.E.,AERO,4,AE7412,Aircraft Component PC
+ANNA UNIV,B.E.,AERO,5,AE7501,Aerodynamics - II
+ANNA UNIV,B.E.,AERO,5,AE7502,Aircraft Structures-II
+ANNA UNIV,B.E.,AERO,5,AE7503,Flight Mechanics
+ANNA UNIV,B.E.,AERO,5,AE7504,Propulsion - II
+ANNA UNIV,B.E.,AERO,5,AE7511,Aircraft Structures PC
+ANNA UNIV,B.E.,AERO,5,AE7512,Propulsion Laboratory
+ANNA UNIV,B.E.,AERO,6,AE7601,Aircraft Stability and PC
+ANNA UNIV,B.E.,AERO,6,AE7602,Computational Fluid PC
+ANNA UNIV,B.E.,AERO,6,AE7603,Finite Element PC
+ANNA UNIV,B.E.,AERO,6,GE7251,Environmental Science and HS
+ANNA UNIV,B.E.,AERO,6,AE7611,Aeromodelling
+ANNA UNIV,B.E.,AERO,6,AE7612,Aircraft Design EEC
+ANNA UNIV,B.E.,AERO,7,AE7701,Composite Materials PC
+ANNA UNIV,B.E.,AERO,7,AE7702,Experimental PC
+ANNA UNIV,B.E.,AERO,7,AE7703,Heat Transfer
+ANNA UNIV,B.E.,AERO,7,AE7704,Rockets and Launch PC
+ANNA UNIV,B.E.,AERO,7,AE7711,Aircraft Design EEC
+ANNA UNIV,B.E.,AERO,7,HS7561,Communication Skills HS
+ANNA UNIV,B.E.,AERO,8,AE7811,Experiments in flight EEC
+ANNA UNIV,B.E.,AERO,8,AE7812,Project Work
+ANNA UNIV,B.E.,AUTO,1,HS7151,Foundational English
+ANNA UNIV,B.E.,AUTO,1,MA7151,Mathematics – I
+ANNA UNIV,B.E.,AUTO,1,PH7151,Engineering Physics
+ANNA UNIV,B.E.,AUTO,1,CY7151,Engineering Chemistry
+ANNA UNIV,B.E.,AUTO,1,GE7152,Engineering Graphics
+ANNA UNIV,B.E.,AUTO,1,BS7161,Basic Sciences
+ANNA UNIV,B.E.,AUTO,1,GE7162,Engineering Practices
+ANNA UNIV,B.E.,AUTO,2,HS7251,Technical English
+ANNA UNIV,B.E.,AUTO,2,MA7251,Mathematics - II
+ANNA UNIV,B.E.,AUTO,2,GE7151,Computing
+ANNA UNIV,B.E.,AUTO,2,PH7251,Materials Science
+ANNA UNIV,B.E.,AUTO,2,GE7153,Engineering
+ANNA UNIV,B.E.,AUTO,2,PR7251,Production Processes
+ANNA UNIV,B.E.,AUTO,2,GE7161,Computer Practices
+ANNA UNIV,B.E.,AUTO,2,PR7261,Production Processes
+ANNA UNIV,B.E.,AUTO,3,AE7352,Mechanics of Solids
+ANNA UNIV,B.E.,AUTO,3,AU7301,Automotive Petrol
+ANNA UNIV,B.E.,AUTO,3,AU7302,Thermodynamics and
+ANNA UNIV,B.E.,AUTO,3,EI7306,Electrical and
+ANNA UNIV,B.E.,AUTO,3,GE7251,Environmental Science
+ANNA UNIV,B.E.,AUTO,3,MA7354,Numerical Methods
+ANNA UNIV,B.E.,AUTO,3,AU7311,Mechanical Testing
+ANNA UNIV,B.E.,AUTO,3,EE7261,Electrical and
+ANNA UNIV,B.E.,AUTO,4,AE7351,Engineering Fluid
+ANNA UNIV,B.E.,AUTO,4,AU7401,Automotive Chassis
+ANNA UNIV,B.E.,AUTO,4,AU7402,Automotive Diesel
+ANNA UNIV,B.E.,AUTO,4,AU7403,Metrology and
+ANNA UNIV,B.E.,AUTO,4,AU7404,Theory of Fuels and
+ANNA UNIV,B.E.,AUTO,4,PR7451,Kinematics and
+ANNA UNIV,B.E.,AUTO,4,AU7411,Automotive Engine
+ANNA UNIV,B.E.,AUTO,4,AU7412,Fuels and Lubricants
+ANNA UNIV,B.E.,AUTO,5,AU7501,Automotive
+ANNA UNIV,B.E.,AUTO,5,AU7502,Automotive Electrical
+ANNA UNIV,B.E.,AUTO,5,AU7503,Automotive
+ANNA UNIV,B.E.,AUTO,5,AU7504,Electronic Engine
+ANNA UNIV,B.E.,AUTO,5,AU7511,Automotive Electrical
+ANNA UNIV,B.E.,AUTO,5,AU7512,Simulation of Engine
+ANNA UNIV,B.E.,AUTO,6,AU7601,Automotive Pollution and
+ANNA UNIV,B.E.,AUTO,6,AU7602,Hybrid and Electric
+ANNA UNIV,B.E.,AUTO,6,AU7603,Vehicle Body
+ANNA UNIV,B.E.,AUTO,6,AU7604,Vehicle Control System
+ANNA UNIV,B.E.,AUTO,6,AU7611,Creative and Innovative
+ANNA UNIV,B.E.,AUTO,6,AU7612,Engine Testing and
+ANNA UNIV,B.E.,AUTO,7,AU7701,Hydraulic and
+ANNA UNIV,B.E.,AUTO,7,AU7702,Vehicle Dynamics
+ANNA UNIV,B.E.,AUTO,7,GE7351,Engineering Ethics and
+ANNA UNIV,B.E.,AUTO,7,AU7711,Vehicle Testing
+ANNA UNIV,B.E.,AUTO,7,AU7712,Industrial Training and
+ANNA UNIV,B.E.,AUTO,8,AU7811,Project work
+ANNA UNIV,B.E.,EEE,1,HS7151,Foundational
+ANNA UNIV,B.E.,EEE,1,MA7151,Mathematics – I
+ANNA UNIV,B.E.,EEE,1,PH7151,Engineering
+ANNA UNIV,B.E.,EEE,1,CY7151,Engineering
+ANNA UNIV,B.E.,EEE,1,GE7151,Computing
+ANNA UNIV,B.E.,EEE,1,BS7161,Basic Sciences
+ANNA UNIV,B.E.,EEE,1,GE7161,Computer Practices
+ANNA UNIV,B.E.,EEE,2,MA7251,Mathematics – II
+ANNA UNIV,B.E.,EEE,2,GE7152,Engineering
+ANNA UNIV,B.E.,EEE,2,GE7153,Engineering
+ANNA UNIV,B.E.,EEE,2,EE7201,Electric Circuit
+ANNA UNIV,B.E.,EEE,2,EC7252,Electron Devices
+ANNA UNIV,B.E.,EEE,2,GE7162,Engineering
+ANNA UNIV,B.E.,EEE,2,EE7211,Electric Circuits
+ANNA UNIV,B.E.,EEE,3,MA7358,Transform
+ANNA UNIV,B.E.,EEE,3,EE7301,Digital Systems and
+ANNA UNIV,B.E.,EEE,3,EE7302,Electromagnetic
+ANNA UNIV,B.E.,EEE,3,EE7303,Network Analysis
+ANNA UNIV,B.E.,EEE,3,ME7355,Power Plant
+ANNA UNIV,B.E.,EEE,3,EC7312,Electronics
+ANNA UNIV,B.E.,EEE,3,EE7311,Electromagnetic
+ANNA UNIV,B.E.,EEE,4,MA7354,Numerical Methods
+ANNA UNIV,B.E.,EEE,4,EE7401,Control Systems
+ANNA UNIV,B.E.,EEE,4,EE7402,Electrical Machines I
+ANNA UNIV,B.E.,EEE,4,EE7403,Linear Integrated
+ANNA UNIV,B.E.,EEE,4,EE7404,Transmission and
+ANNA UNIV,B.E.,EEE,4,GE7251,Environmental
+ANNA UNIV,B.E.,EEE,4,EE7411,Electrical Machines
+ANNA UNIV,B.E.,EEE,4,EE7412,Integrated Circuits
+ANNA UNIV,B.E.,EEE,5,EE7501,Electrical
+ANNA UNIV,B.E.,EEE,5,EE7502,Electrical
+ANNA UNIV,B.E.,EEE,5,EE7503,Power Electronics
+ANNA UNIV,B.E.,EEE,5,EE7504,Power System
+ANNA UNIV,B.E.,EEE,5,HS7551,Employability Skills
+ANNA UNIV,B.E.,EEE,5,EE7511,Control and
+ANNA UNIV,B.E.,EEE,5,EE7512,Electrical Machines
+ANNA UNIV,B.E.,EEE,6,EE7601,High Voltage
+ANNA UNIV,B.E.,EEE,6,EE7602,Power System
+ANNA UNIV,B.E.,EEE,6,EE7603,Protection and
+ANNA UNIV,B.E.,EEE,6,MG7451,Principles of
+ANNA UNIV,B.E.,EEE,6,EE7611,High Voltage
+ANNA UNIV,B.E.,EEE,6,EE7612,Power Electronics
+ANNA UNIV,B.E.,EEE,6,EE7613,Technical Seminar #
+ANNA UNIV,B.E.,EEE,7,EE7701,Design of Electrical
+ANNA UNIV,B.E.,EEE,7,EE7711,Power System
+ANNA UNIV,B.E.,EEE,7,EE7712,Comprehension #
+ANNA UNIV,B.E.,EEE,7,EE7713,Mini Project /
+ANNA UNIV,B.E.,EEE,8,EE7811,Project work
+ANNA UNIV,B.E.,CSE,1,HS7151,Foundational English
+ANNA UNIV,B.E.,CSE,1,MA7151,Mathematics I
+ANNA UNIV,B.E.,CSE,1,PH7151,Engineering Physics
+ANNA UNIV,B.E.,CSE,1,CY7151,Engineering Chemistry
+ANNA UNIV,B.E.,CSE,1,GE7151,Computing Techniques
+ANNA UNIV,B.E.,CSE,1,BS7161,
+ANNA UNIV,B.E.,CSE,2,HS7251,Technical English
+ANNA UNIV,B.E.,CSE,2,MA7251,Mathematics II
+ANNA UNIV,B.E.,CSE,2,GE7251,
+ANNA UNIV,B.E.,CSE,2,GE7152,Engineering Graphics
+ANNA UNIV,B.E.,CSE,2,EC7253,Circuits for Computer
+ANNA UNIV,B.E.,CSE,2,CS7251,
+ANNA UNIV,B.E.,CSE,2,GE7162,
+ANNA UNIV,B.E.,CSE,2,CS7211,
+ANNA UNIV,B.E.,CSE,3,CS7302,
+ANNA UNIV,B.E.,CSE,3,CS7351,Software Engineering
+ANNA UNIV,B.E.,CSE,3,IT7351,
+ANNA UNIV,B.E.,CSE,3,MA7359,
+ANNA UNIV,B.E.,CSE,3,CS7311,Digital Laboratory
+ANNA UNIV,B.E.,CSE,3,CS7312,Data Structures
+ANNA UNIV,B.E.,CSE,4,CS7401,
+ANNA UNIV,B.E.,CSE,4,CS7402,
+ANNA UNIV,B.E.,CSE,4,CS7451,Computer Architecture
+ANNA UNIV,B.E.,CSE,4,MG7451,
+ANNA UNIV,B.E.,CSE,4,CS7411,Database Management PC
+ANNA UNIV,B.E.,CSE,4,CS7412,Operating Systems PC
+ANNA UNIV,B.E.,CSE,5,CS7501,and Computer
+ANNA UNIV,B.E.,CSE,5,CS7502,Design
+ANNA UNIV,B.E.,CSE,5,CS7503,
+ANNA UNIV,B.E.,CSE,5,CS7504,Theory of Computation
+ANNA UNIV,B.E.,CSE,5,CS7551,Processing
+ANNA UNIV,B.E.,CSE,5,CS7511,Case Tools Laboratory
+ANNA UNIV,B.E.,CSE,5,CS7512,
+ANNA UNIV,B.E.,CSE,6,CS7601,Compiler Design
+ANNA UNIV,B.E.,CSE,6,CS7602,
+ANNA UNIV,B.E.,CSE,6,CS7603,
+ANNA UNIV,B.E.,CSE,6,CS7604,Web Programming
+ANNA UNIV,B.E.,CSE,6,CS7611,Compiler Laboratory
+ANNA UNIV,B.E.,CSE,6,CS7612,
+ANNA UNIV,B.E.,CSE,7,CS7701,
+ANNA UNIV,B.E.,CSE,7,CS7702,Security in Computing
+ANNA UNIV,B.E.,CSE,7,CS7703,Wireless Networks
+ANNA UNIV,B.E.,CSE,7,CS7711,
+ANNA UNIV,B.E.,CSE,7,CS7712,Security Laboratory
+ANNA UNIV,B.E.,CSE,8,CS7811,Project Work
+ANNA UNIV,B.E.,ECE,1,HS7151,Foundational English
+ANNA UNIV,B.E.,ECE,1,MA7151,Mathematics - I
+ANNA UNIV,B.E.,ECE,1,PH7151,Engineering Physics
+ANNA UNIV,B.E.,ECE,1,CY7151,Engineering Chemistry
+ANNA UNIV,B.E.,ECE,1,GE7151,Computing Techniques ES
+ANNA UNIV,B.E.,ECE,1,BS7161,Basic Sciences BS
+ANNA UNIV,B.E.,ECE,1,GE7161,Computer Practices ES
+ANNA UNIV,B.E.,ECE,2,HS7251,Technical English
+ANNA UNIV,B.E.,ECE,2,MA7251,Mathematics - II
+ANNA UNIV,B.E.,ECE,2,PH7255,Physics for Electronics and Information BS
+ANNA UNIV,B.E.,ECE,2,EC7251,Circuit Theory
+ANNA UNIV,B.E.,ECE,2,EC7201,Electronic Devices
+ANNA UNIV,B.E.,ECE,2,GE7152,Engineering Graphics
+ANNA UNIV,B.E.,ECE,2,EC7211,Electron Devices and ES
+ANNA UNIV,B.E.,ECE,2,GE7162,Engineering Practices ES
+ANNA UNIV,B.E.,ECE,3,EC7301,Electronic Circuits – I
+ANNA UNIV,B.E.,ECE,3,EC7353,Digital Electronics and PC
+ANNA UNIV,B.E.,ECE,3,EC7355,Signals and Systems
+ANNA UNIV,B.E.,ECE,3,EE7252,Basics of Electrical ES
+ANNA UNIV,B.E.,ECE,3,EE7361,Electrical Engineering ES Laboratory TOTAL
+ANNA UNIV,B.E.,ECE,4,EC7351,Communication PC
+ANNA UNIV,B.E.,ECE,4,EC7401,Electromagnetic Fields ES
+ANNA UNIV,B.E.,ECE,4,EC7402,Electronic Circuits-II
+ANNA UNIV,B.E.,ECE,4,EC7451,Microprocessors and PC
+ANNA UNIV,B.E.,ECE,4,EC7452,Operational Amplifiers and Analog Integrated PC
+ANNA UNIV,B.E.,ECE,4,MA7353,Linear Algebra and BS
+ANNA UNIV,B.E.,ECE,4,EC7411,Electronic Circuits II PC
+ANNA UNIV,B.E.,ECE,4,EC7412,Interfacing Laboratory
+ANNA UNIV,B.E.,ECE,5,EC7501,Control Systems ES
+ANNA UNIV,B.E.,ECE,5,EC7502,Digital Communication PC
+ANNA UNIV,B.E.,ECE,5,EC7503,Transmission lines and PC
+ANNA UNIV,B.E.,ECE,5,EC7551,Computer Architecture PC
+ANNA UNIV,B.E.,ECE,5,EC7552,Discrete Time Signal PC
+ANNA UNIV,B.E.,ECE,5,EC7511,Communication Systems PC
+ANNA UNIV,B.E.,ECE,5,EC7512,Seminar #
+ANNA UNIV,B.E.,ECE,5,EC7561,Processing Laboratory TOTAL
+ANNA UNIV,B.E.,ECE,6,EC7601,Antennas and Wave PC
+ANNA UNIV,B.E.,ECE,6,EC7602,Communication PC
+ANNA UNIV,B.E.,ECE,6,EC7603,RF and Microwave PC
+ANNA UNIV,B.E.,ECE,6,EC7651,VLSI Design
+ANNA UNIV,B.E.,ECE,6,MG7451,Principles of HS
+ANNA UNIV,B.E.,ECE,6,EC7611,RF and Microwave PC
+ANNA UNIV,B.E.,ECE,6,EC7612,VLSI Laboratory PC
+ANNA UNIV,B.E.,ECE,6,EC7613,Comprehension #
+ANNA UNIV,B.E.,ECE,7,EC7701,Optical Communication
+ANNA UNIV,B.E.,ECE,7,EC7702,Wireless PC
+ANNA UNIV,B.E.,ECE,7,EC7751,Principles of Digital PC
+ANNA UNIV,B.E.,ECE,7,GE7251,Environmental Science HS
+ANNA UNIV,B.E.,ECE,7,EC7711,Optical Communication PC
+ANNA UNIV,B.E.,ECE,7,EC7712,Communication and
+ANNA UNIV,B.E.,ECE,7,EC7713,Mini Project / Industrial Training (6 weeks) # EEC
+ANNA UNIV,B.E.,ECE,8,EC7811,Project Work
+ANNA UNIV,B.E.,BME,1,HS7151,Foundational English
+ANNA UNIV,B.E.,BME,1,MA7151,Mathematics –I
+ANNA UNIV,B.E.,BME,1,PH7151,Engineering Physics
+ANNA UNIV,B.E.,BME,1,CY7151,EngineeringChemistry
+ANNA UNIV,B.E.,BME,1,GE7152,
+ANNA UNIV,B.E.,BME,1,BS7161,
+ANNA UNIV,B.E.,BME,1,GE7162,
+ANNA UNIV,B.E.,BME,2,MA7251,Mathematics –II
+ANNA UNIV,B.E.,BME,2,EC7261,Devices and Circuits ES
+ANNA UNIV,B.E.,BME,2,GE7161,Computer Practices ES
+ANNA UNIV,B.E.,BME,3,EC7355,3 Signals and Systems ES
+ANNA UNIV,B.E.,BME,3,EE7305,Electrical Engineering
+ANNA UNIV,B.E.,BME,3,GE7251,Science and
+ANNA UNIV,B.E.,BME,3,MA7358,Transform Techniquesand Partial Differential BS
+ANNA UNIV,B.E.,BME,3,BM7311,Biochemistry and Human Physiology Laboratory PC
+ANNA UNIV,B.E.,BME,3,BM7312,
+ANNA UNIV,B.E.,BME,4,BM7401,Analog and Digital ES
+ANNA UNIV,B.E.,BME,4,BM7402,Biomedical Instrumentation and PC
+ANNA UNIV,B.E.,BME,4,BM7403,Medical
+ANNA UNIV,B.E.,BME,4,EC7353,
+ANNA UNIV,B.E.,BME,4,EC7452,Operational Amplifiers and Analog Integrated PC
+ANNA UNIV,B.E.,BME,4,MA7356,Probability and Random BS
+ANNA UNIV,B.E.,BME,4,BM7411,Bio Medical Instrumentation PC
+ANNA UNIV,B.E.,BME,4,BM7412,Digital and Integrated Circuits PC
+ANNA UNIV,B.E.,BME,5,BM7501,Diagnostic and Therapeutic EquipmentI PC
+ANNA UNIV,B.E.,BME,5,BM7502,Hospital Management
+ANNA UNIV,B.E.,BME,5,EC7352,Data structures and Object Oriented ES
+ANNA UNIV,B.E.,BME,5,EC7451,Microprocessors and
+ANNA UNIV,B.E.,BME,5,BM7511,Microcontroller and PC
+ANNA UNIV,B.E.,BME,5,EC7561,Discrete Time Signal PC
+ANNA UNIV,B.E.,BME,6,BM7602,Diagnostic and Therapeutic Equipment PC
+ANNA UNIV,B.E.,BME,6,BM7603,Pathology and PC
+ANNA UNIV,B.E.,BME,6,BM7604,Radiological Equipment
+ANNA UNIV,B.E.,BME,6,BM7611,Diagnostic and Therapeutic Equipment PC
+ANNA UNIV,B.E.,BME,6,BM7612,Pathology and Microbiology PC
+ANNA UNIV,B.E.,BME,7,BM7701,Medical Informatics
+ANNA UNIV,B.E.,BME,7,BM7702,Pattern Recognitionand Neural PC
+ANNA UNIV,B.E.,BME,7,EC7751,Principles of DigitalImage PC
+ANNA UNIV,B.E.,BME,7,BM7711,Hospital Training #
+ANNA UNIV,B.E.,BME,7,BM7712,Medical Image Processing PC
+ANNA UNIV,B.E.,BME,7,BM7713,Mini Project #
+ANNA UNIV,B.E.,BME,8,BM7811,Project Work EEC
+ANNA UNIV,B.E.,IT,1,HS7151,Foundational English
+ANNA UNIV,B.E.,IT,1,MA7151,Mathematics I
+ANNA UNIV,B.E.,IT,1,PH7151,Engineering Physics
+ANNA UNIV,B.E.,IT,1,CY7151,Engineering Chemistry
+ANNA UNIV,B.E.,IT,1,GE7151,Computing Techniques
+ANNA UNIV,B.E.,IT,1,BS7161,Basic Sciences BS
+ANNA UNIV,B.E.,IT,1,GE7161,Computer Practices ES
+ANNA UNIV,B.E.,IT,2,HS7251,Technical English
+ANNA UNIV,B.E.,IT,2,PH7255,Physics for Electronics and Information BS
+ANNA UNIV,B.E.,IT,2,IT7201,Information Technology PC
+ANNA UNIV,B.E.,IT,2,IT7211,Essentials and Data
+ANNA UNIV,B.E.,IT,2,GE7162,Engineering Practices ES
+ANNA UNIV,B.E.,IT,3,GE7251,Environmental Science BS
+ANNA UNIV,B.E.,IT,3,IT7303,Object Oriented Programming and PC
+ANNA UNIV,B.E.,IT,3,MA7355,Probability and BS
+ANNA UNIV,B.E.,IT,3,IT7311,Digital and Database PC
+ANNA UNIV,B.E.,IT,3,IT7312,Object Oriented Programming and PC
+ANNA UNIV,B.E.,IT,4,IT7401,Algorithmics
+ANNA UNIV,B.E.,IT,4,IT7412,Web Technology PC
+ANNA UNIV,B.E.,IT,5,IT7511,Computer Networks PC
+ANNA UNIV,B.E.,IT,5,IT7512,Embedded Systems PC
+ANNA UNIV,B.E.,IT,5,IT7513,Socially Relevant EEC
+ANNA UNIV,B.E.,IT,6,IT7601,Information Security
+ANNA UNIV,B.E.,IT,6,IT7602,Integrated PC
+ANNA UNIV,B.E.,IT,6,IT7603,Mobile Computing
+ANNA UNIV,B.E.,IT,6,IT7604,Parallel and Distributed PC
+ANNA UNIV,B.E.,IT,6,IT7611,Creative and Innovative EEC
+ANNA UNIV,B.E.,IT,6,IT7612,Information Security and Mobile Computing PC
+ANNA UNIV,B.E.,IT,6,IT7613,Integrated Programming PC
+ANNA UNIV,B.E.,IT,7,IT7701,Computer Graphics and PC
+ANNA UNIV,B.E.,IT,7,IT7702,Data Analytics
+ANNA UNIV,B.E.,IT,7,IT7703,Knowledge Engineering PC
+ANNA UNIV,B.E.,IT,7,IT7704,Principles of Human PC
+ANNA UNIV,B.E.,IT,7,IT7711,Graphics and PC
+ANNA UNIV,B.E.,IT,7,IT7712,Mini Project
+ANNA UNIV,B.E.,FOOD,1,HS7151,Foundational English
+ANNA UNIV,B.E.,FOOD,1,MA7151,Mathematics – I
+ANNA UNIV,B.E.,FOOD,1,PH7151,Engineering Physics
+ANNA UNIV,B.E.,FOOD,1,CY7151,Engineering Chemistry
+ANNA UNIV,B.E.,FOOD,1,GE7151,Computing Techniques
+ANNA UNIV,B.E.,FOOD,1,GE7152,Engineering Graphics
+ANNA UNIV,B.E.,FOOD,1,BS7161,Basic Sciences
+ANNA UNIV,B.E.,FOOD,1,GE7162,Engineering Practices
+ANNA UNIV,B.E.,FOOD,2,HS7251,Technical English
+ANNA UNIV,B.E.,FOOD,2,MA7251,Mathematics - II
+ANNA UNIV,B.E.,FOOD,2,PH7257,Physics of Materials
+ANNA UNIV,B.E.,FOOD,2,IB7252,Microbiology
+ANNA UNIV,B.E.,FOOD,2,GE7153,Engineering Mechanics
+ANNA UNIV,B.E.,FOOD,2,IB7251,Biochemistry
+ANNA UNIV,B.E.,FOOD,2,IB7262,Microbiology Lab
+ANNA UNIV,B.E.,FOOD,2,IB7261,Biochemistry Lab
+ANNA UNIV,B.E.,FOOD,3,EE7151,Basic Electrical and ES
+ANNA UNIV,B.E.,FOOD,3,FT7302,Food Chemistry and BS
+ANNA UNIV,B.E.,FOOD,3,FT7303,Food Microbiology
+ANNA UNIV,B.E.,FOOD,3,FT7304,Food Process PC
+ANNA UNIV,B.E.,FOOD,3,MA7358,and Partial Differential
+ANNA UNIV,B.E.,FOOD,3,FT7311,Food Chemistry and BS
+ANNA UNIV,B.E.,FOOD,3,FT7312,Food Microbiology Lab
+ANNA UNIV,B.E.,FOOD,4,FT7401,Food Processing and PC Preservation Technology
+ANNA UNIV,B.E.,FOOD,4,FT7402,Introduction to Food PC Processing
+ANNA UNIV,B.E.,FOOD,4,FT7403,Refrigeration and Cold BS Chain Management
+ANNA UNIV,B.E.,FOOD,4,FT7404,Unit Operations for Food PC Industries
+ANNA UNIV,B.E.,FOOD,4,MA7357,Probability and Statistics
+ANNA UNIV,B.E.,FOOD,4,FT7411,Food Processing and PC Preservation lab
+ANNA UNIV,B.E.,FOOD,4,FT7412,Unit operations in Food PC Industries Lab
+ANNA UNIV,B.E.,FOOD,5,FT7501,Food Analysis
+ANNA UNIV,B.E.,FOOD,5,FT7503,Principles of Biochemical
+ANNA UNIV,B.E.,FOOD,5,FT7511,Biochemical Engineering ES Lab
+ANNA UNIV,B.E.,FOOD,5,FT7512,Food Analysis Lab
+ANNA UNIV,B.E.,FOOD,6,FT7602,Food Additives
+ANNA UNIV,B.E.,FOOD,6,HS7551,Employability Skills
+ANNA UNIV,B.E.,FOOD,6,FT7611,
+ANNA UNIV,B.E.,FOOD,7,FT7651,and New Food Product
+ANNA UNIV,B.E.,FOOD,7,FT7701,Confectionery
+ANNA UNIV,B.E.,FOOD,7,FT7702,
+ANNA UNIV,B.E.,FOOD,7,FT7703,
+ANNA UNIV,B.E.,FOOD,7,FT7711,Confectionery
+ANNA UNIV,B.E.,FOOD,7,FT7712,Design and
+ANNA UNIV,B.E.,FOOD,8,FT7811,Project Work
+ANNA UNIV,B.E.,PHARMA,1,HS7151,Foundational English
+ANNA UNIV,B.E.,PHARMA,1,MA7151,Mathematics – I
+ANNA UNIV,B.E.,PHARMA,1,PH7151,Engineering Physics
+ANNA UNIV,B.E.,PHARMA,1,CY7151,Engineering Chemistry
+ANNA UNIV,B.E.,PHARMA,1,GE7151,Computing Techniques
+ANNA UNIV,B.E.,PHARMA,1,GE7152,Engineering Graphics
+ANNA UNIV,B.E.,PHARMA,1,BS7161,Basic Sciences
+ANNA UNIV,B.E.,PHARMA,1,GE7162,Engineering Practices
+ANNA UNIV,B.E.,PHARMA,2,HS7251,Technical English
+ANNA UNIV,B.E.,PHARMA,2,MA7251,Mathematics - II
+ANNA UNIV,B.E.,PHARMA,2,PH7257,Physics of Materials
+ANNA UNIV,B.E.,PHARMA,2,IB7252,Microbiology
+ANNA UNIV,B.E.,PHARMA,2,GE7153,Engineering Mechanics
+ANNA UNIV,B.E.,PHARMA,2,IB7251,Biochemistry
+ANNA UNIV,B.E.,PHARMA,2,IB7262,Microbiology Lab
+ANNA UNIV,B.E.,PHARMA,2,IB7261,Biochemistry Lab
+ANNA UNIV,B.E.,PHARMA,3,MA7358,Transform Techniques and Partial Differential BS
+ANNA UNIV,B.E.,PHARMA,3,PM7301,Chemical Engineering Thermodynamics for PC
+ANNA UNIV,B.E.,PHARMA,3,PM7302,Human Physiology
+ANNA UNIV,B.E.,PHARMA,3,PM7304,Physical Pharmaceutics
+ANNA UNIV,B.E.,PHARMA,3,PM7305,Chemical Process
+ANNA UNIV,B.E.,PHARMA,3,PM7311,Physical Pharmaceutics ES
+ANNA UNIV,B.E.,PHARMA,3,PM7312,Physiology Laboratory PC
+ANNA UNIV,B.E.,PHARMA,4,MA7357,Probability and Statistics
+ANNA UNIV,B.E.,PHARMA,4,GE7251,Environmental Science HS
+ANNA UNIV,B.E.,PHARMA,4,PM7401,Fluid Flow Operations
+ANNA UNIV,B.E.,PHARMA,4,PM7402,and Mass Transfer in PC
+ANNA UNIV,B.E.,PHARMA,4,PM7403,Molecular Biology and PC
+ANNA UNIV,B.E.,PHARMA,4,PM7404,Pharmaceutical Analysis
+ANNA UNIV,B.E.,PHARMA,4,PM7411,Instrumentation
+ANNA UNIV,B.E.,PHARMA,4,PM7412,Genetic Engineering
+ANNA UNIV,B.E.,PHARMA,5,IB7552,Chemical Reaction PC
+ANNA UNIV,B.E.,PHARMA,5,PM7501,Medicinal Chemistry
+ANNA UNIV,B.E.,PHARMA,5,PM7503,Unit Operations in PC
+ANNA UNIV,B.E.,PHARMA,5,PM7511,Medicinal Chemistry and Pharmacology PC
+ANNA UNIV,B.E.,PHARMA,5,PM7512,Unit Operations in PC
+ANNA UNIV,B.E.,PHARMA,6,GE7652,Total Quality HS
+ANNA UNIV,B.E.,PHARMA,6,FT7651,and New Food Product
+ANNA UNIV,B.E.,PHARMA,6,IB7551,Bioprocess Engineering
+ANNA UNIV,B.E.,PHARMA,6,PM7601,Technology of Solid PC
+ANNA UNIV,B.E.,PHARMA,6,HS7551,Employability Skills
+ANNA UNIV,B.E.,PHARMA,6,PM7612,Technology of Dosage
+ANNA UNIV,B.E.,PHARMA,7,PM7701,Biopharmaceutics and PC
+ANNA UNIV,B.E.,PHARMA,7,PM7702,Pharmaceutical Industry
+ANNA UNIV,B.E.,PHARMA,7,PM7703,Technology of Semi Solid Dosage forms and PC
+ANNA UNIV,B.E.,PHARMA,7,PM7704,Technology of Sterile PC
+ANNA UNIV,B.E.,PHARMA,7,PM7711,Drug Delivery Systems PC
+ANNA UNIV,B.E.,PHARMA,7,PM7712,Internship Program
+ANNA UNIV,B.E.,PHARMA,7,PM7713,Medicinal Natural PC
+ANNA UNIV,B.E.,PHARMA,8,PM7811,Project Work
+ANNA UNIV,B.E.,TEXTILE,1,HS7151,Foundational English
+ANNA UNIV,B.E.,TEXTILE,1,MA7151,Mathematics – I
+ANNA UNIV,B.E.,TEXTILE,1,PH7151,Engineering Physics
+ANNA UNIV,B.E.,TEXTILE,1,CY7151,Engineering
+ANNA UNIV,B.E.,TEXTILE,1,GE7152,Engineering Graphics
+ANNA UNIV,B.E.,TEXTILE,1,BS7161,Basic Sciences
+ANNA UNIV,B.E.,TEXTILE,1,GE7162,Engineering Practices
+ANNA UNIV,B.E.,TEXTILE,2,MA7251,Mathematics – II
+ANNA UNIV,B.E.,TEXTILE,2,GE7153,Engineering Mechanics
+ANNA UNIV,B.E.,TEXTILE,2,HS7251,Technical English
+ANNA UNIV,B.E.,TEXTILE,2,PH7257,Physics of Materials
+ANNA UNIV,B.E.,TEXTILE,2,CY7255,Chemistry for
+ANNA UNIV,B.E.,TEXTILE,2,GE7151,Computing Techniques
+ANNA UNIV,B.E.,TEXTILE,2,CY7261,Applied Chemistry Lab
+ANNA UNIV,B.E.,TEXTILE,2,GE7161,Computer Practices
+ANNA UNIV,B.E.,TEXTILE,3,MA7357,Probability and Statistics
+ANNA UNIV,B.E.,TEXTILE,3,EE7254,
+ANNA UNIV,B.E.,TEXTILE,3,TT7301,
+ANNA UNIV,B.E.,TEXTILE,3,TT7302,
+ANNA UNIV,B.E.,TEXTILE,3,TT7303,
+ANNA UNIV,B.E.,TEXTILE,3,TT7351,
+ANNA UNIV,B.E.,TEXTILE,3,EE7261,
+ANNA UNIV,B.E.,TEXTILE,3,TT7311,
+ANNA UNIV,B.E.,TEXTILE,4,MA7354,Numerical Methods
+ANNA UNIV,B.E.,TEXTILE,4,CH7351,
+ANNA UNIV,B.E.,TEXTILE,4,TT7401,Manufactured Fibre
+ANNA UNIV,B.E.,TEXTILE,4,TT7402,
+ANNA UNIV,B.E.,TEXTILE,4,TT7403,
+ANNA UNIV,B.E.,TEXTILE,4,TT7451,Woven Fabric Structure
+ANNA UNIV,B.E.,TEXTILE,4,TT7411,Fibre Science Laboratory
+ANNA UNIV,B.E.,TEXTILE,4,TT7412,
+ANNA UNIV,B.E.,TEXTILE,4,TT7461,Fabric Analysis Laboratory
+ANNA UNIV,B.E.,TEXTILE,5,TT7501,
+ANNA UNIV,B.E.,TEXTILE,5,TT7502,Knitting Technology
+ANNA UNIV,B.E.,TEXTILE,5,TT7503,
+ANNA UNIV,B.E.,TEXTILE,5,TT7504,
+ANNA UNIV,B.E.,TEXTILE,5,TT7551,
+ANNA UNIV,B.E.,TEXTILE,5,GE7251,
+ANNA UNIV,B.E.,TEXTILE,5,TT7511,
+ANNA UNIV,B.E.,TEXTILE,5,TT7512,
+ANNA UNIV,B.E.,TEXTILE,6,TT7601,
+ANNA UNIV,B.E.,TEXTILE,6,TT7602,
+ANNA UNIV,B.E.,TEXTILE,6,TT7603,
+ANNA UNIV,B.E.,TEXTILE,6,TT7651,
+ANNA UNIV,B.E.,TEXTILE,6,HS7551,Employability Skills
+ANNA UNIV,B.E.,TEXTILE,6,TT7561,
+ANNA UNIV,B.E.,TEXTILE,6,TT7661,
+ANNA UNIV,B.E.,TEXTILE,7,TT7701,
+ANNA UNIV,B.E.,TEXTILE,7,TT7652,for Textile and Apparel
+ANNA UNIV,B.E.,TEXTILE,7,TT7711,Industrial Training*
+ANNA UNIV,B.E.,TEXTILE,7,TT7712,Technical Seminar
+ANNA UNIV,B.E.,TEXTILE,8,TT7811,Project work
+ANNA UNIV,B.Tech (PT),LEATHER,1,PTMA7151,Applied Mathematics
+ANNA UNIV,B.Tech (PT),LEATHER,1,PTPH7151,Engineering Physics
+ANNA UNIV,B.Tech (PT),LEATHER,1,PTCY7151,Engineering Chemistry
+ANNA UNIV,B.Tech (PT),LEATHER,1,PTGE7151,Computing Techniques
+ANNA UNIV,B.Tech (PT),LEATHER,1,PTGE7154,Engineering Graphics
+ANNA UNIV,B.Tech (PT),LEATHER,2,PTLT7201,Chemistry for Leather Technologists
+ANNA UNIV,B.Tech (PT),LEATHER,2,PTLT7202,
+ANNA UNIV,B.Tech (PT),LEATHER,2,PTLT7203,Introduction to Leather Manufacture
+ANNA UNIV,B.Tech (PT),LEATHER,2,PTLT7204,Principles of Electrical and Electronics Engineering
+ANNA UNIV,B.Tech (PT),LEATHER,3,PTLT7301,Bovine Leather Manufacturing Technologies
+ANNA UNIV,B.Tech (PT),LEATHER,3,PTLT7304,Theory of Material Testing of Leathers
+ANNA UNIV,B.Tech (PT),LEATHER,3,PTLT7305,Theory of Organic and Inorganic Tannages
+ANNA UNIV,B.Tech (PT),LEATHER,4,PTLT7402,Leather Machineries
+ANNA UNIV,B.Tech (PT),LEATHER,4,PTLT7404,Theory and Practice of Post Tanning Processes
+ANNA UNIV,B.Tech (PT),LEATHER,5,PTLT7501,Eco-benign Options for Leather Processing
+ANNA UNIV,B.Tech (PT),LEATHER,5,PTLT7502,Leather Goods and Garments Technology
+ANNA UNIV,B.Tech (PT),LEATHER,5,PTLT7503,Theory and Practice of Leather Finishing
+ANNA UNIV,B.Tech (PT),LEATHER,6,PTLT7601,Footwear Technology
+ANNA UNIV,B.Tech (PT),LEATHER,6,PTLT7602,
+ANNA UNIV,B.Tech (PT),LEATHER,6,PTLT7603,Science and Technology of Leather Auxiliaries
+ANNA UNIV,B.Tech (PT),LEATHER,7,PTLT7701,Entrepreneurship for Leather Sector
+ANNA UNIV,B.Tech (PT),LEATHER,7,PTGE7074,Total Quality Management
+ANNA UNIV,B.Tech (PT),LEATHER,7,PTLT7711,Project
+ANNA UNIV,B.Tech (PT),ECE,1,PTMA7151,Applied Mathematics
+ANNA UNIV,B.Tech (PT),ECE,1,PTEC7101,Circuit Theory
+ANNA UNIV,B.Tech (PT),ECE,1,PTEC7102,Electronic Devices
+ANNA UNIV,B.Tech (PT),ECE,2,PTMA7252,Transform and Partial Differential Equations
+ANNA UNIV,B.Tech (PT),ECE,2,PTEC7201,Digital Electronics and System Design
+ANNA UNIV,B.Tech (PT),ECE,2,PTEC7202,Electronic Circuits – I
+ANNA UNIV,B.Tech (PT),ECE,2,PTEC7203,Signals and Systems
+ANNA UNIV,B.Tech (PT),ECE,2,PTEC7211,Digital and Electronic Circuit Laboratory
+ANNA UNIV,B.Tech (PT),ECE,3,PTEC7301,Communication Theory
+ANNA UNIV,B.Tech (PT),ECE,3,PTEC7302,Electromagnetic Fields and Waves
+ANNA UNIV,B.Tech (PT),ECE,3,PTEC7303,Electronic Circuits – II
+ANNA UNIV,B.Tech (PT),ECE,3,PTEC7304,
+ANNA UNIV,B.Tech (PT),ECE,3,PTEC7311,Discrete and Integrated Circuits Laboratory
+ANNA UNIV,B.Tech (PT),ECE,4,PTEC7401,Digital Communication Techniques
+ANNA UNIV,B.Tech (PT),ECE,4,PTEC7402,Discrete Time Signal Processing
+ANNA UNIV,B.Tech (PT),ECE,4,PTEC7403,Microprocessors and Microcontrollers
+ANNA UNIV,B.Tech (PT),ECE,4,PTEC7404,Transmission Lines and Wave Guides
+ANNA UNIV,B.Tech (PT),ECE,4,PTEC7411,Communication Systems Laboratory
+ANNA UNIV,B.Tech (PT),ECE,5,PTEC7501,Antennas and Wave Propagation
+ANNA UNIV,B.Tech (PT),ECE,5,PTEC7502,VLSI Design
+ANNA UNIV,B.Tech (PT),ECE,5,PTEC7503,Wireless Communication
+ANNA UNIV,B.Tech (PT),ECE,5,PTEC7511,VLSI Design Laboratory
+ANNA UNIV,B.Tech (PT),ECE,6,PTGE7153,Environmental Science and Engineering
+ANNA UNIV,B.Tech (PT),ECE,6,PTEC7601,Optical Communication
+ANNA UNIV,B.Tech (PT),ECE,6,PTEC7611,High Frequency Communication Laboratory
+ANNA UNIV,B.Tech (PT),ECE,7,PTMG7751,Principles of Management
+ANNA UNIV,B.Tech (PT),ECE,7,PTEC7711,Project Work
+ANNA UNIV,B.Tech (PT),EEE,1,PTMA7151,Applied Mathematics
+ANNA UNIV,B.Tech (PT),EEE,1,PTGE7153,Environmental Science and
+ANNA UNIV,B.Tech (PT),EEE,1,PTEE7101,Electric Circuit Analysis
+ANNA UNIV,B.Tech (PT),EEE,1,PTEC7104,Electron Devices and Circuits
+ANNA UNIV,B.Tech (PT),EEE,1,PTGE7111,Computer Practices Laboratory
+ANNA UNIV,B.Tech (PT),EEE,2,PTEE7201,Digital Systems and Microcontrollers
+ANNA UNIV,B.Tech (PT),EEE,2,PTEE7202,Electromagnetic Theory
+ANNA UNIV,B.Tech (PT),EEE,2,PTEE7203,Network Analysis and Synthesis
+ANNA UNIV,B.Tech (PT),EEE,2,PTME7751,Power Plant Engineering
+ANNA UNIV,B.Tech (PT),EEE,2,PTEE7211,Integrated circuits and Microcontrollers
+ANNA UNIV,B.Tech (PT),EEE,3,PTEE7301,Control Systems
+ANNA UNIV,B.Tech (PT),EEE,3,PTEE7302,Electrical Machines I
+ANNA UNIV,B.Tech (PT),EEE,3,PTEE7303,Linear Integrated Circuits
+ANNA UNIV,B.Tech (PT),EEE,3,PTEE7304,Transmission and Distribution
+ANNA UNIV,B.Tech (PT),EEE,3,PTEE7311,Control and instrumentation Laboratory
+ANNA UNIV,B.Tech (PT),EEE,4,PTEE7401,Electrical Machines II
+ANNA UNIV,B.Tech (PT),EEE,4,PTEE7402,Power Electronics
+ANNA UNIV,B.Tech (PT),EEE,4,PTEE7403,Power System Analysis
+ANNA UNIV,B.Tech (PT),EEE,4,PTEE7411,Electrical Machines Laboratory
+ANNA UNIV,B.Tech (PT),EEE,5,PTEE7501,High Voltage Engineering
+ANNA UNIV,B.Tech (PT),EEE,5,PTEE7502,Power System Operation and Control
+ANNA UNIV,B.Tech (PT),EEE,5,PTEE7503,Protection and Switch gear
+ANNA UNIV,B.Tech (PT),EEE,5,PTEE7511,Power Electronics and Drives
+ANNA UNIV,B.Tech (PT),EEE,6,PTEE7601,Design of Electrical Apparatus
+ANNA UNIV,B.Tech (PT),EEE,6,PTEE7602,Solid State Drives
+ANNA UNIV,B.Tech (PT),EEE,6,PTEE7611,Power system simulation Laboratory
+ANNA UNIV,B.Tech (PT),EEE,7,PTEE7711,Project work
+ANNA UNIV,B.Tech (PT),AUTO,1,PTMA7151,Applied Mathematics
+ANNA UNIV,B.Tech (PT),AUTO,1,PTGE7151,Computing Techniques
+ANNA UNIV,B.Tech (PT),AUTO,1,PTGE7152,Engineering Mechanics
+ANNA UNIV,B.Tech (PT),AUTO,1,PTPH7152,Materials Science
+ANNA UNIV,B.Tech (PT),AUTO,1,PTPR7101,Production Processes
+ANNA UNIV,B.Tech (PT),AUTO,2,PTAU7201,Automotive Petrol Engines
+ANNA UNIV,B.Tech (PT),AUTO,2,PTEI7205,Electrical and Electronics Engineering
+ANNA UNIV,B.Tech (PT),AUTO,2,PTAE7201,Mechanics of Solids
+ANNA UNIV,B.Tech (PT),AUTO,2,PTMA7251,Numerical Methods
+ANNA UNIV,B.Tech (PT),AUTO,2,PTAU7202,Thermodynamics and Thermal Engineering
+ANNA UNIV,B.Tech (PT),AUTO,3,PTAU7301,Automotive Chassis
+ANNA UNIV,B.Tech (PT),AUTO,3,PTAU7302,Automotive Diesel Engines
+ANNA UNIV,B.Tech (PT),AUTO,3,PTAE7301,Engineering Fluid Mechanics and Machinery
+ANNA UNIV,B.Tech (PT),AUTO,3,PTPR7301,Kinematics and Dynamics of Machines
+ANNA UNIV,B.Tech (PT),AUTO,3,PTAU7311,
+ANNA UNIV,B.Tech (PT),AUTO,4,PTAU7401,Automotive Electrical and Electronics Systems
+ANNA UNIV,B.Tech (PT),AUTO,4,PTAU7402,Automotive Transmission
+ANNA UNIV,B.Tech (PT),AUTO,4,PTAU7403,Theory of Fuels and Lubricants
+ANNA UNIV,B.Tech (PT),AUTO,4,PTAU7411,
+ANNA UNIV,B.Tech (PT),AUTO,5,PTAU7501,Automotive Components Design
+ANNA UNIV,B.Tech (PT),AUTO,5,PTAU7502,Automotive Pollution and Control
+ANNA UNIV,B.Tech (PT),AUTO,5,PTAU7503,Vehicle Body Engineering
+ANNA UNIV,B.Tech (PT),AUTO,5,PTAU7511,
+ANNA UNIV,B.Tech (PT),AUTO,6,PTAU7601,Advanced Vehicle Technology
+ANNA UNIV,B.Tech (PT),AUTO,6,PTAU7602,Electronic Engine Management System
+ANNA UNIV,B.Tech (PT),AUTO,6,PTAU7611,Vehicle Testing Laboratory
+ANNA UNIV,B.Tech (PT),AUTO,7,PTAU7701,Vehicle Dynamics
+ANNA UNIV,B.Tech (PT),AUTO,7,PTAU7711,Project Work
+ANNA UNIV,B.Tech (PT),CIVIL,1,PTMA7151,Applied Mathematics
+ANNA UNIV,B.Tech (PT),CIVIL,1,PTPH7101,Physics for Civil Engineering
+ANNA UNIV,B.Tech (PT),CIVIL,1,PTCY7101,Chemistry for Civil Engineering
+ANNA UNIV,B.Tech (PT),CIVIL,1,PTGE7151,ComputingTechniques
+ANNA UNIV,B.Tech (PT),CIVIL,1,PTCE7101,Strength of Materials I
+ANNA UNIV,B.Tech (PT),CIVIL,2,PTAG7201,Engineering Geology
+ANNA UNIV,B.Tech (PT),CIVIL,2,PTCE7201,Fluid Mechanics
+ANNA UNIV,B.Tech (PT),CIVIL,2,PTCE7202,Plane and Geodetic Surveying
+ANNA UNIV,B.Tech (PT),CIVIL,2,PTCE7203,Strength of Materials II
+ANNA UNIV,B.Tech (PT),CIVIL,3,PTGE7153,Environmental Science and Engineering
+ANNA UNIV,B.Tech (PT),CIVIL,3,PTCE7301,Highway Engineering
+ANNA UNIV,B.Tech (PT),CIVIL,3,PTCE7302,Soil Mechanics
+ANNA UNIV,B.Tech (PT),CIVIL,3,PTCE7303,Structural Analysis I
+ANNA UNIV,B.Tech (PT),CIVIL,3,PTCE7311,Plane and Geodetic Surveying Laboratory
+ANNA UNIV,B.Tech (PT),CIVIL,4,PTCE7401,Applied Hydraulic Engineering
+ANNA UNIV,B.Tech (PT),CIVIL,4,PTCE7404,Structural Analysis II
+ANNA UNIV,B.Tech (PT),CIVIL,4,PTCE7405,Water Supply Engineering
+ANNA UNIV,B.Tech (PT),CIVIL,5,PTCE7501,Design of Steel and Timber Structures
+ANNA UNIV,B.Tech (PT),CIVIL,5,PTCE7502,Foundation Engineering
+ANNA UNIV,B.Tech (PT),CIVIL,5,PTCE7503,Irrigation Engineering
+ANNA UNIV,B.Tech (PT),CIVIL,5,PTCE7504,Wastewater Engineering
+ANNA UNIV,B.Tech (PT),CIVIL,6,PTCE7602,Ground Improvement Techniques
+ANNA UNIV,B.Tech (PT),CIVIL,6,PTCE7603,Structural Design and Drawing
+ANNA UNIV,B.Tech (PT),CIVIL,7,PTMG7751,Principles of Management
+ANNA UNIV,B.Tech (PT),CIVIL,7,PTCE7711,Project Work
+ANNA UNIV,B.Tech (PT),MECH,1,PTMA7151,Applied Mathematics
+ANNA UNIV,B.Tech (PT),MECH,1,PTGE7151,Computing Techniques
+ANNA UNIV,B.Tech (PT),MECH,1,PTCY7151,Engineering Chemistry
+ANNA UNIV,B.Tech (PT),MECH,1,PTGE7152,Engineering Mechanics
+ANNA UNIV,B.Tech (PT),MECH,1,PTPH7151,Engineering Physics
+ANNA UNIV,B.Tech (PT),MECH,2,PTEE7204,Basic Electrical Engineering and Measurements
+ANNA UNIV,B.Tech (PT),MECH,2,PTEC7204,Electronics Engineering
+ANNA UNIV,B.Tech (PT),MECH,2,PTME7201,Engineering Thermodynamics
+ANNA UNIV,B.Tech (PT),MECH,2,PTCE7204,Fluid Mechanics and Machinery
+ANNA UNIV,B.Tech (PT),MECH,2,PTMA7251,Numerical Methods
+ANNA UNIV,B.Tech (PT),MECH,3,PTGE7153,Environmental Science and Engineering
+ANNA UNIV,B.Tech (PT),MECH,3,PTME7301,Kinematics of Machines
+ANNA UNIV,B.Tech (PT),MECH,3,PTME7302,Manufacturing Technology – I
+ANNA UNIV,B.Tech (PT),MECH,3,PTCE7304,Strength of Materials
+ANNA UNIV,B.Tech (PT),MECH,3,PTME7303,Thermal Engineering – I
+ANNA UNIV,B.Tech (PT),MECH,4,PTME7401,Dynamics of Machines
+ANNA UNIV,B.Tech (PT),MECH,4,PTML7401,Engineering Materials and Metallurgy
+ANNA UNIV,B.Tech (PT),MECH,4,PTME7402,Manufacturing Technology–II
+ANNA UNIV,B.Tech (PT),MECH,4,PTME7403,Thermal Engineering–II
+ANNA UNIV,B.Tech (PT),MECH,4,PTME7411,Thermal Engineering Laboratory
+ANNA UNIV,B.Tech (PT),MECH,5,PTME7501,Computer Aided Design
+ANNA UNIV,B.Tech (PT),MECH,5,PTME7502,Computer Integrated Manufacturing
+ANNA UNIV,B.Tech (PT),MECH,5,PTME7503,Design of Machine Elements
+ANNA UNIV,B.Tech (PT),MECH,5,PTME7504,Finite Element Analysis
+ANNA UNIV,B.Tech (PT),MECH,5,PTME7505,Hydraulics and Pneumatics
+ANNA UNIV,B.Tech (PT),MECH,6,PTME7601,Design of Transmission Systems
+ANNA UNIV,B.Tech (PT),MECH,6,PTME7602,Heat and Mass Transfer
+ANNA UNIV,B.Tech (PT),MECH,6,PTME7603,Metrology and Measurements
+ANNA UNIV,B.Tech (PT),MECH,6,PTME7611,Simulation and Analysis Laboratory
+ANNA UNIV,B.Tech (PT),MECH,7,PTME7701,Mechatronics
+ANNA UNIV,B.Tech (PT),MECH,7,PTME7751,Power Plant Engineering
+ANNA UNIV,B.Tech (PT),MECH,7,PTME7711,Project Work
+NIT TRICHY,B.Tech,PROD,5,MA303,APPLIED STATISTICS
+NIT TRICHY,B.Tech,PROD,5,PR301,MECHANICAL MEASUREMENTS AND METROLOGY
+NIT TRICHY,B.Tech,PROD,5,PR303,DESIGN OF MACHINE ELEMENTS
+NIT TRICHY,B.Tech,PROD,5,PR305,ADVANCED MANUFACTURING PROCESSES
+NIT TRICHY,B.Tech,PROD,5,ME321,THEORY OF MACHINES-2
+NIT TRICHY,B.Tech,PROD,5,ME325,THERMAL ENGINEERING
+NIT TRICHY,B.Tech,PROD,5,ME331,THERMAL ENGINEERING LAB/METROLOGY LAB
+NIT TRICHY,B.Tech,PROD,5,PR311,COMPUTER AIDED DRAFTING OF MACHINE ELEMENTS
+NIT TRICHY,B.Tech,META,4,MA202,Numerical Techniques
+NIT TRICHY,B.Tech,META,4,EE220,Electrical Technology
+NIT TRICHY,B.Tech,META,4,IC218,Instrumentation & Control
+NIT TRICHY,B.Tech,META,4,MT208,Transport Phenomena
+NIT TRICHY,B.Tech,META,4,MT210,Phase Transformation and Heat treatment
+NIT TRICHY,B.Tech,META,4,ME291,Mechanical Technology
+NIT TRICHY,B.Tech,META,4,IC220,Instrumentation & Control Laboratory
+NIT TRICHY,B.Tech,META,4,MT216,Ferrous Metallography Laboratory
+NIT TRICHY,B.Tech,CHE,1,HSIR11,English for Communication (Theory and Laboratory)
+NIT TRICHY,B.Tech,CHE,1,MAIR11,Matrices and Calculus
+NIT TRICHY,B.Tech,CHE,1,CHIR11,Chemistry
+NIT TRICHY,B.Tech,CHE,1,CLIR15,Introduction to Chemical Engineering (Branch Specific
+NIT TRICHY,B.Tech,CHE,1,EEIR11,Basics of Electrical and Electronics Engineering
+NIT TRICHY,B.Tech,CHE,1,MEIR12,Engineering Graphics
+NIT TRICHY,B.Tech,CHE,1,CHIR12,Chemistry Laboratory
+NIT TRICHY,B.Tech,CHE,2,MAIR21,Complex Analysis and Differential Equations
+NIT TRICHY,B.Tech,CHE,2,PHIR11,Physics
+NIT TRICHY,B.Tech,CHE,2,CSIR12,Introduction to Computer Programming (Theory and
+NIT TRICHY,B.Tech,CHE,2,CEIR11,Basics of Civil Engineering
+NIT TRICHY,B.Tech,CHE,2,ENIR11,Energy and Environmental Engineering
+NIT TRICHY,B.Tech,CHE,2,PRIR11,Engineering Practice
+NIT TRICHY,B.Tech,CHE,2,CLPC11,Programme Core – 1 / Process Calculations
+NIT TRICHY,B.Tech,CHE,2,PHIR12,Physics Laboratory
+NIT TRICHY,B.Tech,CHE,2,SWIR11,NSS / NCC / NSO
+NIT TRICHY,B.Tech,CHE,3,HSIR13,Industrial Economics
+NIT TRICHY,B.Tech,CHE,3,CLPC12,Programme Core – 2 / Heat Transfer
+NIT TRICHY,B.Tech,CHE,3,CLPC13,Programme Core – 3 / Momentum transfer
+NIT TRICHY,B.Tech,CHE,3,CLPC14,Programme Core – 4 / Chemical Engineering
+NIT TRICHY,B.Tech,CHE,3,CLPC15,Programme Core – 5 / Chemical Technology
+NIT TRICHY,B.Tech,CHE,3,CLLR11,ELR – 1 / Momentum Transfer Laboratory
+NIT TRICHY,B.Tech,CHE,3,CLLR12,ELR – 2 / Heat Transfer Laboratory
+NIT TRICHY,B.Tech,CHE,4,MAIR41,Fourier Series and Numerical Methods
+NIT TRICHY,B.Tech,CHE,4,CLPC16,Programme Core – 6 / Particulate Science and
+NIT TRICHY,B.Tech,CHE,4,CLPC17,Programme Core – 7 / Chemical Reaction Engineering
+NIT TRICHY,B.Tech,CHE,4,CLPC18,Programme Core – 8 / Mass Transfer - I
+NIT TRICHY,B.Tech,CHE,4,CLLR13,ELR – 3 / Particulate Science and Technology
+NIT TRICHY,B.Tech,CHE,4,CLLR14,ELR – 4 / Chemical Reaction Engineering Laboratory
+NIT TRICHY,B.Tech,CHE,5,CLPC19,Programme Core – 9 / Transport Phenomena
+NIT TRICHY,B.Tech,CHE,5,CLPC20,Programme Core – 10 / Mass Transfer - II
+NIT TRICHY,B.Tech,CHE,5,CLPC21,Programme Core – 11 / Chemical Process
+NIT TRICHY,B.Tech,CHE,5,CLPC22,Programme Core – 12 / Safety in Chemical Process
+NIT TRICHY,B.Tech,CHE,5,CLIR14,Professional Ethics
+NIT TRICHY,B.Tech,CHE,5,CLLR15,ELR – 5 / Mass Transfer Laboratory
+NIT TRICHY,B.Tech,CHE,5,CLLR16,ELR – 6 / Technical Analysis and Thermodynamics
+NIT TRICHY,B.Tech,CHE,6,CLPC23,Programme Core – 13 / Process Modelling and
+NIT TRICHY,B.Tech,CHE,6,CLPC24,Programme Core – 14 / Process Dynamics and
+NIT TRICHY,B.Tech,CHE,6,CLPC25,Programme Core – 15 / Project Engineering and
+NIT TRICHY,B.Tech,CHE,6,CLIR19,Industrial Lecture
+NIT TRICHY,B.Tech,CHE,6,CLLR17,ELR – 7 / Process Dynamics and Control Laboratory
+NIT TRICHY,B.Tech,CHE,6,CLLR18,ELR – 8 / Process Modelling and Simulation
+NIT TRICHY,B.Tech,CHE,6,CLIR17,Project Work
+NIT TRICHY,B.Tech,CHE,6,CLIR16,Winter Internship
+NIT TRICHY,B.Tech,CHE,7,CLIR16,Summer Internship / Industrial Training / Academic
+NIT TRICHY,B.Tech,CHE,7,CLIR18,Comprehensive Viva Voce
+NIT TRICHY,B.Tech,CHE,7,CLPC19,Programme Core – 11 / Transport Phenomena
+NIT TRICHY,B.Tech,CHE,7,CLPC22,Programme Core – 12 / Safety in Chemical Process
+NIT TRICHY,B.Tech,CHE,8,CLIR17,Project Work
+NIT TRICHY,B.Tech,CHE,8,CLPC23,Programme Core – 13 / Process Modelling and Simulation
+NIT TRICHY,B.Tech,CHE,8,CLPC24,Programme Core – 14 / Process Dynamics and Control
+NIT TRICHY,B.Tech,CHE,8,CLPC25,Programme Core – 15 / Project Engineering and
+NIT TRICHY,B.Tech,CHE,8,CLIR18,Comprehensive Viva Voce
+NIT TRICHY,B.Tech,CIVIL,1,HSIR11,English for Communication (Theory and Laboratory)
+NIT TRICHY,B.Tech,CIVIL,1,MAIR11,Matrices and Calculus
+NIT TRICHY,B.Tech,CIVIL,1,CHIR11,Chemistry
+NIT TRICHY,B.Tech,CIVIL,1,CEIR15,Introduction to Civil Engineering (Branch Specific
+NIT TRICHY,B.Tech,CIVIL,1,EEIR11,Basics of Electrical and Electronics Engineering
+NIT TRICHY,B.Tech,CIVIL,1,MEIR11,Basics of Mechanical Engineering
+NIT TRICHY,B.Tech,CIVIL,1,MEIR12,Engineering Graphics
+NIT TRICHY,B.Tech,CIVIL,1,CHIR12,Chemistry Laboratory
+NIT TRICHY,B.Tech,CIVIL,2,MAIR21,Complex Analysis and Differential Equations
+NIT TRICHY,B.Tech,CIVIL,2,PHIR11,Physics
+NIT TRICHY,B.Tech,CIVIL,2,CSIR12,Introduction to Computer Programming (Theory and
+NIT TRICHY,B.Tech,CIVIL,2,ENIR11,Energy and Environmental Engineering
+NIT TRICHY,B.Tech,CIVIL,2,PRIR11,Engineering Practice
+NIT TRICHY,B.Tech,CIVIL,2,PHIR12,Physics Laboratory
+NIT TRICHY,B.Tech,CIVIL,2,SWIR11,NSS / NCC / NSO
+NIT TRICHY,B.Tech,CIVIL,2,CEPC10,Programme Core – 1 / Engineering Mechanics
+NIT TRICHY,B.Tech,CIVIL,3,CEPC11,Programme Core – 2 / Concrete Technology and
+NIT TRICHY,B.Tech,CIVIL,3,CEPC12,Programme Core – 3 / Hydraulics and Fluid Machinery
+NIT TRICHY,B.Tech,CIVIL,3,CEPC13,Programme Core – 4 / Surveying
+NIT TRICHY,B.Tech,CIVIL,3,CEPC14,Programme Core – 5 / Mechanics of Solids
+NIT TRICHY,B.Tech,CIVIL,3,CELR10,ELR – 1 / Building Planning and Drawing
+NIT TRICHY,B.Tech,CIVIL,3,CELR11,ELR – 2 / Survey Laboratory
+NIT TRICHY,B.Tech,CIVIL,4,MAIR42,Probability and Numerical Techniques
+NIT TRICHY,B.Tech,CIVIL,4,CEPC15,Programme Core – 6 / Analysis of Indeterminate
+NIT TRICHY,B.Tech,CIVIL,4,CEPC16,Programme Core – 7 / Soil Mechanics
+NIT TRICHY,B.Tech,CIVIL,4,CEPC17,Programme Core – 8 / Water Supply Engineering
+NIT TRICHY,B.Tech,CIVIL,4,CELR12,ELR – 3 / Fluid Mechanics Laboratory
+NIT TRICHY,B.Tech,CIVIL,4,CELR13,ELR – 4 / Strength of materials and concrete
+NIT TRICHY,B.Tech,CIVIL,5,CEIR14,Professional Ethics
+NIT TRICHY,B.Tech,CIVIL,5,CEPC18,Programme Core – 9 / Design of Reinforced
+NIT TRICHY,B.Tech,CIVIL,5,CEPC19,Programme Core – 10 / Highway and Pavement
+NIT TRICHY,B.Tech,CIVIL,5,CEPC20,Programme Core – 11 / Foundation Engineering
+NIT TRICHY,B.Tech,CIVIL,5,CEPC21,Programme Core – 12 / Environmental Pollution and
+NIT TRICHY,B.Tech,CIVIL,5,CELR14,ELR – 5 / Geotechnical Engineering Laboratory
+NIT TRICHY,B.Tech,CIVIL,5,CELR15,ELR – 6 / Environmental Engineering Laboratory
+NIT TRICHY,B.Tech,CIVIL,6,CEIR19,Industrial Lecture
+NIT TRICHY,B.Tech,CIVIL,6,HSIR13,Industrial Economics
+NIT TRICHY,B.Tech,CIVIL,6,CEPC22,Programme Core – 13 / Irrigation Engineering and
+NIT TRICHY,B.Tech,CIVIL,6,CEPC23,"Programme Core – 14 / Railway, Airport and"
+NIT TRICHY,B.Tech,CIVIL,6,CEPC24,Programme Core – 15 / Design of Steel Structural
+NIT TRICHY,B.Tech,CIVIL,6,CELR16,ELR – 7 / Transportation Engineering Laboratory
+NIT TRICHY,B.Tech,CIVIL,6,CELR17,ELR – 8 / Computational Laboratory
+NIT TRICHY,B.Tech,CIVIL,6,CEIR17,Project Work
+NIT TRICHY,B.Tech,CIVIL,6,CEIR16,Winter Internship
+NIT TRICHY,B.Tech,CIVIL,7,CEIR16,Summer Internship / Industrial Training /
+NIT TRICHY,B.Tech,CIVIL,7,CEIR18,Comprehensive Viva Voce
+NIT TRICHY,B.Tech,CIVIL,7,CEPC20,Programme Core – 11 / Foundation Engineering
+NIT TRICHY,B.Tech,CIVIL,7,CEPC21,Programme Core – 12 / Environmental Pollution
+NIT TRICHY,B.Tech,CIVIL,7,CEPC22,Programme Core – 13 / Irrigation Engineering
+NIT TRICHY,B.Tech,CIVIL,8,CEIR17,Project Work
+NIT TRICHY,B.Tech,CIVIL,8,CEIR18,Comprehensive Viva Voce
+NIT TRICHY,B.Tech,CIVIL,8,CEPC23,"Programme Core – 14 / Railway, Airport and"
+NIT TRICHY,B.Tech,CIVIL,8,CEPC24,Programme Core – 15 / Basic Steel Structural
+NIT TRICHY,B.Tech,CSE,1,MAIR12,Linear Algebra and Calculus
+NIT TRICHY,B.Tech,CSE,1,PHIR11,Physics
+NIT TRICHY,B.Tech,CSE,1,ENIR11,Energy and Environmental Engineering
+NIT TRICHY,B.Tech,CSE,1,CSIR11,Introduction to Computer Programming (Theory and
+NIT TRICHY,B.Tech,CSE,1,CEIR11,Basics of Civil Engineering
+NIT TRICHY,B.Tech,CSE,1,MEIR11,Basics of Mechanical Engineering
+NIT TRICHY,B.Tech,CSE,1,PRIR11,Engineering Practice
+NIT TRICHY,B.Tech,CSE,1,PHIR12,Physics Laboratory
+NIT TRICHY,B.Tech,CSE,2,HSIR11,English for Communication (Theory and Laboratory)
+NIT TRICHY,B.Tech,CSE,2,MAIR21,Complex Analysis and Differential Equations
+NIT TRICHY,B.Tech,CSE,2,CHIR11,Chemistry
+NIT TRICHY,B.Tech,CSE,2,CSIR21,Branch Specific Course
+NIT TRICHY,B.Tech,CSE,2,MEIR12,Engineering Graphics
+NIT TRICHY,B.Tech,CSE,2,CHIR12,Chemistry Laboratory
+NIT TRICHY,B.Tech,CSE,2,SWIR11,NSS / NCC / NSO
+NIT TRICHY,B.Tech,CSE,2,CSPC11,Programme Core – 1 / Discrete Structures
+NIT TRICHY,B.Tech,CSE,3,MAIR31,Probability and Operations Research
+NIT TRICHY,B.Tech,CSE,3,CSPC31,Programme Core - 2 / Principles of Programming Languages
+NIT TRICHY,B.Tech,CSE,3,CSPC32,Programme Core – 3 / Data Structures
+NIT TRICHY,B.Tech,CSE,3,CSPC33,Programme Core – 4 / Digital Systems Design
+NIT TRICHY,B.Tech,CSE,3,CSPC34,Programme Core – 5 / Computer Organization
+NIT TRICHY,B.Tech,CSE,3,CSLR31,ELR – 1 / Data structures Laboratory
+NIT TRICHY,B.Tech,CSE,3,CSLR32,ELR – 2 / Digital Laboratory
+NIT TRICHY,B.Tech,CSE,4,CSIR14,Professional Ethics
+NIT TRICHY,B.Tech,CSE,4,CSPC41,Programme Core – 6 / Formal Languages and Automata
+NIT TRICHY,B.Tech,CSE,4,CSPC42,Programme Core – 7 / Design and Analysis of Algorithms
+NIT TRICHY,B.Tech,CSE,4,CSPC43,Programme Core – 8 / Operating Systems
+NIT TRICHY,B.Tech,CSE,4,CSLR41,ELR – 3 / Algorithms Laboratory
+NIT TRICHY,B.Tech,CSE,4,CSLR42,ELR – 4 / Operating Systems Laboratory
+NIT TRICHY,B.Tech,CSE,5,HSIR13,Industrial Economics
+NIT TRICHY,B.Tech,CSE,5,CSPC51,Programme Core - 9 / Computer Architecture
+NIT TRICHY,B.Tech,CSE,5,CSPC52,Programme Core - 10 / Database Management Systems
+NIT TRICHY,B.Tech,CSE,5,CSPC53,Programme Core – 11 / Computer Networks
+NIT TRICHY,B.Tech,CSE,5,CSLR51,ELR – 5 / Database Management Systems Laboratory
+NIT TRICHY,B.Tech,CSE,5,CSLR52,ELR – 6 / Networks Laboratory
+NIT TRICHY,B.Tech,CSE,6,CSIR19,Industrial Lecture
+NIT TRICHY,B.Tech,CSE,6,CSPC61,Programme Core - 13 / Embedded Systems Architectures
+NIT TRICHY,B.Tech,CSE,6,CSPC62,Programme Core - 14 / Compiler Design
+NIT TRICHY,B.Tech,CSE,6,CSPC63,Programme Core – 15 / Principles of Cryptography
+NIT TRICHY,B.Tech,CSE,6,CSLR61,ELR – 7 / Embedded Systems Laboratory
+NIT TRICHY,B.Tech,CSE,6,CSLR62,ELR – 8 / App Development Laboratory
+NIT TRICHY,B.Tech,CSE,7,CSIR16,Summer Internship / Industrial Training / Academic
+NIT TRICHY,B.Tech,CSE,7,CSIR18,Comprehensive Viva Voce
+NIT TRICHY,B.Tech,CSE,8,CSIR17,Project Work
+NIT TRICHY,B.Tech,CSE,6,CSIR17,Project Work
+NIT TRICHY,B.Tech,CSE,6,CSIR16,Winter Internship
+NIT TRICHY,B.Tech,CSE,7,CSPC54,Programme Core – 12 / Introduction to Artificial Intelligence
+NIT TRICHY,B.Tech,CSE,7,CSPC51,Programme Core – 13 / Computer Architecture
+NIT TRICHY,B.Tech,CSE,8,CSPC62,Programme Core – 14 / Compiler Design
+NIT TRICHY,B.Tech,CSE,8,CSPC63,Programme Core – 15 / Principles of Cryptography
+NIT TRICHY,B.Tech,EEE,1,MAIR12,Linear Algebra and Calculus
+NIT TRICHY,B.Tech,EEE,1,PHIR11,Physics
+NIT TRICHY,B.Tech,EEE,1,ENIR11,Energy and Environmental Engineering
+NIT TRICHY,B.Tech,EEE,1,CSIR11,Introduction to Computer Programming (Theory and
+NIT TRICHY,B.Tech,EEE,1,CEIR11,Basics of Civil Engineering
+NIT TRICHY,B.Tech,EEE,1,MEIR11,Basics of Mechanical Engineering
+NIT TRICHY,B.Tech,EEE,1,PRIR11,Engineering Practice
+NIT TRICHY,B.Tech,EEE,1,PHIR12,Physics Laboratory
+NIT TRICHY,B.Tech,EEE,2,HSIR11,English for Communication (Theory and Laboratory)
+NIT TRICHY,B.Tech,EEE,2,MAIR21,Complex Analysis and Differential Equations
+NIT TRICHY,B.Tech,EEE,2,CHIR11,Chemistry
+NIT TRICHY,B.Tech,EEE,2,EEIR15,Introduction to Electrical and Electronics Engineering
+NIT TRICHY,B.Tech,EEE,2,MEIR12,Engineering Graphics
+NIT TRICHY,B.Tech,EEE,2,CHIR12,Chemistry Laboratory
+NIT TRICHY,B.Tech,EEE,2,SWIR11,NSS / NCC / NSO
+NIT TRICHY,B.Tech,EEE,2,EEPC10,Programme Core – 1 / Circuit Theory
+NIT TRICHY,B.Tech,EEE,3,MAIR32,Fourier Analysis and Numerical Techniques
+NIT TRICHY,B.Tech,EEE,3,EEPC11,Programme Core – 2 / Signals and Systems
+NIT TRICHY,B.Tech,EEE,3,EEPC12,Programme Core – 3 / DC Machines and Transformers
+NIT TRICHY,B.Tech,EEE,3,EEPC13,Programme Core – 4 / Electron Devices
+NIT TRICHY,B.Tech,EEE,3,EEPC14,Programme Core – 5 / Digital Electronics
+NIT TRICHY,B.Tech,EEE,3,EELR10,ELR – 1 / Circuits and Digital Laboratory
+NIT TRICHY,B.Tech,EEE,3,EELR11,ELR – 2 / DC Machines and Transformers Laboratory
+NIT TRICHY,B.Tech,EEE,4,EEPC15,Programme Core – 6 / AC Machines
+NIT TRICHY,B.Tech,EEE,4,EEPC16,Programme Core – 7 / Analog Electronic Circuits
+NIT TRICHY,B.Tech,EEE,4,EEPC17,Programme Core – 8 / Transmission and Distribution of
+NIT TRICHY,B.Tech,EEE,4,EELR12,ELR – 3 / Electronics Circuits Laboratory
+NIT TRICHY,B.Tech,EEE,4,EELR13,ELR – 4 / Synchronous and Induction Machines
+NIT TRICHY,B.Tech,EEE,5,HSIR13,Industrial Economics
+NIT TRICHY,B.Tech,EEE,5,EEPC18,Programme Core – 9 / Power System Analysis
+NIT TRICHY,B.Tech,EEE,5,EEPC19,Programme Core – 10 / Power Electronics
+NIT TRICHY,B.Tech,EEE,5,EEPC20,Programme Core – 11 / Control Systems
+NIT TRICHY,B.Tech,EEE,5,EEPC21,Programme Core – 12 / Linear Integrated Circuits
+NIT TRICHY,B.Tech,EEE,5,EELR14,ELR – 5 / Integrated Circuits Laboratory
+NIT TRICHY,B.Tech,EEE,5,EELR15,ELR – 6 / Power Electronics Laboratory
+NIT TRICHY,B.Tech,EEE,6,EEIR19,Industrial Lecture
+NIT TRICHY,B.Tech,EEE,6,EEIR14,Professional Ethics
+NIT TRICHY,B.Tech,EEE,6,EEPC24,Programme Core – 13 / Power System Protection and
+NIT TRICHY,B.Tech,EEE,6,EEPC22,Programme Core – 14 / Microprocessors and
+NIT TRICHY,B.Tech,EEE,6,EEPC23,Programme Core – 15 / Measurements and
+NIT TRICHY,B.Tech,EEE,6,EELR16,Microcomputing Laboratory
+NIT TRICHY,B.Tech,EEE,6,EELR17,ELR – 8 / Power Systems Laboratory
+NIT TRICHY,B.Tech,EEE,6,EEIR16,Winter Internship
+NIT TRICHY,B.Tech,EEE,6,EEIR17,Project Work
+NIT TRICHY,B.Tech,EEE,7,EEIR16,Summer Internship / Industrial Training / Academic
+NIT TRICHY,B.Tech,EEE,7,EEIR18,Comprehensive Viva Voce
+NIT TRICHY,B.Tech,EEE,7,EEPC20,Programme Core – 11 / Control Systems
+NIT TRICHY,B.Tech,EEE,7,EEPC21,Programme Core – 12 / Linear Integrated Circuits
+NIT TRICHY,B.Tech,EEE,7,EEPC23,Programme Core – 15 / Measurements and
+NIT TRICHY,B.Tech,EEE,8,EEIR17,Project Work
+NIT TRICHY,B.Tech,EEE,8,EEPC24,Programme Core – 14 / Power System Protection and
+NIT TRICHY,B.Tech,EEE,8,EEPC22,Programme Core – 15 / Microprocessors and
+NIT TRICHY,B.Tech,EEE,8,EEIR18,Comprehensive Viva Voce
+NIT TRICHY,B.Tech,ECE,1,ENIR11,Energy and Environmental Engineering
+NIT TRICHY,B.Tech,ECE,1,MAIR12,Linear Algebra and Calculus
+NIT TRICHY,B.Tech,ECE,1,PHIR11,Physics (Circuit)
+NIT TRICHY,B.Tech,ECE,1,PHIR12,Physics Laboratory (Circuit)
+NIT TRICHY,B.Tech,ECE,1,CSIR11,Introduction to Computer Programming (Theory and Laboratory)
+NIT TRICHY,B.Tech,ECE,1,MEIR11,"Basics of Mechanical Engineering (For CE, EE, EC, IC and CS)"
+NIT TRICHY,B.Tech,ECE,1,PRIR11,Engineering Practice
+NIT TRICHY,B.Tech,ECE,1,CEIR11,"Basics of Civil Engineering (For EE, EC, IC and CS)"
+NIT TRICHY,B.Tech,ECE,2,HSIR11,English for Communication (Theory and Laboratory)
+NIT TRICHY,B.Tech,ECE,2,MAIR21,Complex Analysis and Differential Equations
+NIT TRICHY,B.Tech,ECE,2,CHIR11,Chemistry (Circuit)
+NIT TRICHY,B.Tech,ECE,2,CHIR12,Chemistry Laboratory (Circuit)
+NIT TRICHY,B.Tech,ECE,2,ECIR15,Introduction to Electronics and communication
+NIT TRICHY,B.Tech,ECE,2,MEIR12,Engineering Graphics
+NIT TRICHY,B.Tech,ECE,2,ECPC11,Network Analysis and Synthesis
+NIT TRICHY,B.Tech,ECE,2,SWIR11,NSS / NCC / NSO
+NIT TRICHY,B.Tech,ECE,3,MAIR33,Real Analysis and Probability Theory
+NIT TRICHY,B.Tech,ECE,3,ECPC10,Signals and Systems
+NIT TRICHY,B.Tech,ECE,3,ECPC13,Semiconductor Physics and Devices
+NIT TRICHY,B.Tech,ECE,3,ECPC12,Electrodynamics and Electromagnetic Waves
+NIT TRICHY,B.Tech,ECE,3,ECPC14,Digital Circuits and Systems
+NIT TRICHY,B.Tech,ECE,3,ECLR10,Devices and Networks Laboratory
+NIT TRICHY,B.Tech,ECE,3,ECLR11,Digital Electronics Laboratory
+NIT TRICHY,B.Tech,ECE,4,HSIR13,Industrial Economics
+NIT TRICHY,B.Tech,ECE,4,ECPC15,Digital Signal Processing
+NIT TRICHY,B.Tech,ECE,4,ECPC16,Transmission Lines and Waveguides
+NIT TRICHY,B.Tech,ECE,4,ECPC17,Electronic Circuits
+NIT TRICHY,B.Tech,ECE,4,ECLR12,Electronic Circuits Laboratory
+NIT TRICHY,B.Tech,ECE,4,ECLR13,Microprocessor and Microcontroller Laboratory
+NIT TRICHY,B.Tech,ECE,5,ECPC18,Analog Communication
+NIT TRICHY,B.Tech,ECE,5,ECPC19,Digital Communication
+NIT TRICHY,B.Tech,ECE,5,ECPC20,Antennas and Propagation
+NIT TRICHY,B.Tech,ECE,5,ECPC21,Analog Integrated Circuits
+NIT TRICHY,B.Tech,ECE,5,ECLR14,Analog VLSI and Embedded System Design Laboratory
+NIT TRICHY,B.Tech,ECE,5,ECLR15,Digital Signal Processing Laboratory
+NIT TRICHY,B.Tech,ECE,6,ECIR19,Industrial Lecture
+NIT TRICHY,B.Tech,ECE,6,ECPC22,Wireless Communication
+NIT TRICHY,B.Tech,ECE,6,ECPC23,VLSI Systems
+NIT TRICHY,B.Tech,ECE,6,ECPC24,RF and Microwave Engineering
+NIT TRICHY,B.Tech,ECE,6,ECLR16,Communication Engineering Laboratory
+NIT TRICHY,B.Tech,ECE,6,ECLR17,Microwave and Fiber Optic Laboratory
+NIT TRICHY,B.Tech,ECE,6,ECIR14,Professional Ethics (Circuit)
+NIT TRICHY,B.Tech,ECE,6,ECIR17,Project Work
+NIT TRICHY,B.Tech,ECE,6,ECIR16,Winter Internship*
+NIT TRICHY,B.Tech,ECE,7,ECIR16,Summer Internship / Industrial Training / Academic
+NIT TRICHY,B.Tech,ECE,7,ECIR18,Comprehensive Viva Voce
+NIT TRICHY,B.Tech,ECE,7,ECPC18,Analog Communication
+NIT TRICHY,B.Tech,ECE,7,ECPC20,Antennas and Propagation
+NIT TRICHY,B.Tech,ECE,8,ECIR17,Project Work$/ Equivalent no. of Electives 6
+NIT TRICHY,B.Tech,ECE,8,ECIR18,Comprehensive Viva Voce
+NIT TRICHY,B.Tech,ECE,8,ECPC22,Wireless Communication
+NIT TRICHY,B.Tech,ECE,8,ECPC23,VLSI Systems
+NIT TRICHY,B.Tech,ECE,8,ECPC24,RF and Microwave Engineering
+NIT TRICHY,B.Tech,I&C,1,MAIR12,Linear Algebra and Calculus
+NIT TRICHY,B.Tech,I&C,1,PHIR11,Physics
+NIT TRICHY,B.Tech,I&C,1,ENIR11,Energy and Environmental Engineering
+NIT TRICHY,B.Tech,I&C,1,CSIR11,Introduction to Computer Programming (Theory and
+NIT TRICHY,B.Tech,I&C,1,CEIR11,Basics of Civil Engineering
+NIT TRICHY,B.Tech,I&C,1,MEIR11,Basics of Mechanical Engineering
+NIT TRICHY,B.Tech,I&C,1,PRIR11,Engineering Practice
+NIT TRICHY,B.Tech,I&C,1,PHIR12,Physics Laboratory
+NIT TRICHY,B.Tech,I&C,2,HSIR11,English for Communication (Theory and Laboratory)
+NIT TRICHY,B.Tech,I&C,2,MAIR21,Complex Analysis and Differential Equations
+NIT TRICHY,B.Tech,I&C,2,CHIR11,Chemistry
+NIT TRICHY,B.Tech,I&C,2,ICIR15,Introduction to Instrumentation and Control Systems
+NIT TRICHY,B.Tech,I&C,2,MEIR12,Engineering Graphics
+NIT TRICHY,B.Tech,I&C,2,CHIR12,Chemistry Laboratory
+NIT TRICHY,B.Tech,I&C,2,SWIR11,NSS / NCC / NSO
+NIT TRICHY,B.Tech,I&C,2,ICPC11,Programme Core – 1 / Circuit Theory
+NIT TRICHY,B.Tech,I&C,3,MAIR34,Probability and Distribution Theory
+NIT TRICHY,B.Tech,I&C,3,ICPC12,Programme Core – 2 / Electronic Circuits
+NIT TRICHY,B.Tech,I&C,3,ICPC13,Programme Core – 3 / Signals and Systems
+NIT TRICHY,B.Tech,I&C,3,ICPC14,Programme Core – 4 / Sensors and Transducers
+NIT TRICHY,B.Tech,I&C,3,ICPC15,Programme Core – 5 / Digital Electronics
+NIT TRICHY,B.Tech,I&C,3,ICPEXX,Programme Elective – 1
+NIT TRICHY,B.Tech,I&C,3,ICLR11,ELR – 1 / Electric Circuits Laboratory
+NIT TRICHY,B.Tech,I&C,3,ICLR12,ELR – 2 / Electronic Circuits Laboratory
+NIT TRICHY,B.Tech,I&C,4,ICPC16,Programme Core – 6 / Microprocessors and
+NIT TRICHY,B.Tech,I&C,4,ICPC17,Programme Core – 7 / Industrial Instrumentation
+NIT TRICHY,B.Tech,I&C,4,ICPC18,Programme Core – 8 / Control Systems - I
+NIT TRICHY,B.Tech,I&C,4,ICPEXX,Programme Elective – 2
+NIT TRICHY,B.Tech,I&C,4,ICLR13,ELR – 3 / Sensors and Transducers Laboratory
+NIT TRICHY,B.Tech,I&C,4,ICLR14,ELR – 4 / Microprocessors and Microcontrollers Laboratory
+NIT TRICHY,B.Tech,I&C,5,HSIR13,Industrial Economics
+NIT TRICHY,B.Tech,I&C,5,ICPC20,Programme Core – 10 / Analog Signal Processing
+NIT TRICHY,B.Tech,I&C,5,ICPC21,Programme Core – 11 / Process Control
+NIT TRICHY,B.Tech,I&C,5,ICPC22,Programme Core – 12 / Control Systems - II
+NIT TRICHY,B.Tech,I&C,5,ICPEXX,Programme Elective – 5
+NIT TRICHY,B.Tech,I&C,5,ICLR15,ELR – 5 / Control Engineering Laboratory
+NIT TRICHY,B.Tech,I&C,5,ICLR16,ELR – 6 / Analog Signal Processing Laboratory
+NIT TRICHY,B.Tech,I&C,6,ICIR19,Industrial Lecture
+NIT TRICHY,B.Tech,I&C,6,ICIR14,Professional Ethics
+NIT TRICHY,B.Tech,I&C,6,ICPC23,Programme Core – 13 / Electrical and Electronic
+NIT TRICHY,B.Tech,I&C,6,ICPC24,Programme Core – 14 / Digital Signal Processing
+NIT TRICHY,B.Tech,I&C,6,ICPC25,Programme Core – 15 / Logic and Distributed Control
+NIT TRICHY,B.Tech,I&C,6,ICPCXX,Programme Elective – 6
+NIT TRICHY,B.Tech,I&C,6,ICLR17,ELR – 7 / Instrumentation Laboratory
+NIT TRICHY,B.Tech,I&C,6,ICLR18,ELR – 8 / Industrial Automation and Process Control
+NIT TRICHY,B.Tech,I&C,7,ICIR16,Summer Internship / Industrial Training / Academic
+NIT TRICHY,B.Tech,I&C,7,ICIR18,Comprehensive Viva Voce
+NIT TRICHY,B.Tech,I&C,7,ICPEXX,Programme Elective – 8
+NIT TRICHY,B.Tech,I&C,8,ICIR17,Project Work
+NIT TRICHY,B.Tech,I&C,8,ICPEXX,Programme Elective – 12 / Open Elective – 6
+NIT TRICHY,B.Tech,I&C,6,ICIR16,Internship (Winter)
+NIT TRICHY,B.Tech,I&C,6,ICIR17,Project Work*
+NIT TRICHY,B.Tech,I&C,7,ICPC22,Programme Core – 12 / Control Systems - II
+NIT TRICHY,B.Tech,I&C,8,ICIR18,Comprehensive Viva Voce
+NIT TRICHY,B.Tech,I&C,8,ICPC23,Programme Core – 13 / Electrical and Electronic
+NIT TRICHY,B.Tech,I&C,8,ICPC24,Programme Core – 14 / Digital Signal Processing
+NIT TRICHY,B.Tech,I&C,8,ICPC25,Programme Core – 15 / Logic and Distributed Control
+NIT TRICHY,B.Tech,MECH,1,HSIR11,English for Communication (Theory and Laboratory)
+NIT TRICHY,B.Tech,MECH,1,MAIR11,Matrices and Calculus
+NIT TRICHY,B.Tech,MECH,1,CHIR11,Chemistry
+NIT TRICHY,B.Tech,MECH,1,MEIR15,Introduction to Mechanical Engineering (Branch Specific
+NIT TRICHY,B.Tech,MECH,1,EEIR11,Basics of Electrical and Electronics Engineering
+NIT TRICHY,B.Tech,MECH,1,MEIR12,Engineering Graphics
+NIT TRICHY,B.Tech,MECH,1,CHIR12,Chemistry Laboratory
+NIT TRICHY,B.Tech,MECH,2,MAIR21,Complex Analysis and Differential Equations
+NIT TRICHY,B.Tech,MECH,2,PHIR11,Physics
+NIT TRICHY,B.Tech,MECH,2,CSIR12,Introduction to Computer Programming (Theory and
+NIT TRICHY,B.Tech,MECH,2,CEIR11,Basics of Civil Engineering
+NIT TRICHY,B.Tech,MECH,2,ENIR11,Energy and Environmental Engineering
+NIT TRICHY,B.Tech,MECH,2,PRIR11,Engineering Practice
+NIT TRICHY,B.Tech,MECH,2,PHIR12,Physics Laboratory
+NIT TRICHY,B.Tech,MECH,2,SWIR11,NSS / NCC / NSO
+NIT TRICHY,B.Tech,MECH,2,MEPC10,Engineering Mechanics
+NIT TRICHY,B.Tech,MECH,3,MEPC11,Engineering Thermodynamics
+NIT TRICHY,B.Tech,MECH,3,MEPC12,Applied Electrical and Electronics Engineering
+NIT TRICHY,B.Tech,MECH,3,MEPC13,Manufacturing Technology
+NIT TRICHY,B.Tech,MECH,3,MEPC14,Mechanics of Solids
+NIT TRICHY,B.Tech,MECH,3,MELR11,Manufacturing Technology Laboratory
+NIT TRICHY,B.Tech,MECH,3,MELR12,Computer Aided Machine Drawing
+NIT TRICHY,B.Tech,MECH,4,MAIR43,Fourier Transforms and Numerical techniques
+NIT TRICHY,B.Tech,MECH,4,MEPC15,Fluids Mechanics and Machinery
+NIT TRICHY,B.Tech,MECH,4,MEPC16,Thermal Engineering
+NIT TRICHY,B.Tech,MECH,4,MEPC17,Mechanics of Machines – I
+NIT TRICHY,B.Tech,MECH,4,MELR13,Thermal Engineering Laboratory
+NIT TRICHY,B.Tech,MECH,4,MELR14,Strength of Materials and Fluid Mechanics Laboratory
+NIT TRICHY,B.Tech,MECH,5,MEIR14,Professional Ethics
+NIT TRICHY,B.Tech,MECH,5,MEPC18,Engineering Materials
+NIT TRICHY,B.Tech,MECH,5,MEPC19,Heat and Mass Transfer
+NIT TRICHY,B.Tech,MECH,5,MEPC20,Mechanics of Machines – II
+NIT TRICHY,B.Tech,MECH,5,MEPC21,Metrology and Measurements
+NIT TRICHY,B.Tech,MECH,5,MELR15,Heat transfer and Refrigeration and Air-Conditioning
+NIT TRICHY,B.Tech,MECH,5,MELR16,Metrology and Measurements Laboratory
+NIT TRICHY,B.Tech,MECH,6,MEIR19,Industrial Lecture
+NIT TRICHY,B.Tech,MECH,6,HSIR13,Industrial Economics
+NIT TRICHY,B.Tech,MECH,6,MEPC22,Design of Machine Elements
+NIT TRICHY,B.Tech,MECH,6,MEPC23,Automobile Engineering
+NIT TRICHY,B.Tech,MECH,6,MEPC24,Energy Conversion systems
+NIT TRICHY,B.Tech,MECH,6,MELR17,Dynamics Laboratory
+NIT TRICHY,B.Tech,MECH,6,MELR18,Automobile Engineering Laboratory
+NIT TRICHY,B.Tech,MECH,6,MEIR17,Project Work
+NIT TRICHY,B.Tech,MECH,6,MEIR16,Winter Internship
+NIT TRICHY,B.Tech,MECH,7,MEIR16,Summer Internship / Industrial Training / Academic
+NIT TRICHY,B.Tech,MECH,7,MEIR18,Comprehensive Viva Voce
+NIT TRICHY,B.Tech,MECH,7,MEPC20,Mechanics of Machines – II
+NIT TRICHY,B.Tech,MECH,7,MEPC21,Metrology and Measurements
+NIT TRICHY,B.Tech,MECH,7,MEPC22,Design of Machine Elements
+NIT TRICHY,B.Tech,MECH,8,MEIR17,Project Work
+NIT TRICHY,B.Tech,MECH,8,MEIR18,Comprehensive Viva Voce
+NIT TRICHY,B.Tech,MECH,8,MEPC23,Automobile Engineering
+NIT TRICHY,B.Tech,MECH,8,MEPC24,Energy Conversion systems
+NIT TRICHY,B.Tech,META,1,HSIR11,English for Communication (Theory and Laboratory)
+NIT TRICHY,B.Tech,META,1,MAIR11,Matrices and Calculus
+NIT TRICHY,B.Tech,META,1,CHIR11,Chemistry
+NIT TRICHY,B.Tech,META,1,MTIR15,Introduction to Metallurgical and Materials Engineering
+NIT TRICHY,B.Tech,META,1,EEIR11,Basics of Electrical and Electronics Engineering
+NIT TRICHY,B.Tech,META,1,MEIR12,Engineering Graphics
+NIT TRICHY,B.Tech,META,1,CHIR12,Chemistry Laboratory
+NIT TRICHY,B.Tech,META,2,MAIR21,Complex Analysis and Differential Equations
+NIT TRICHY,B.Tech,META,2,PHIR11,Physics (Non-circuit)
+NIT TRICHY,B.Tech,META,2,CSIR12,Introduction to Computer Programming (Theory and
+NIT TRICHY,B.Tech,META,2,CEIR11,"Basics of Civil Engineering (for CL, ME, MT, PR)"
+NIT TRICHY,B.Tech,META,2,ENIR11,Energy and Environmental Engineering
+NIT TRICHY,B.Tech,META,2,PRIR11,Engineering Practice
+NIT TRICHY,B.Tech,META,2,PHIR12,Physics Laboratory (Non-circuit)
+NIT TRICHY,B.Tech,META,2,SWIR11,NSS / NCC / NSO
+NIT TRICHY,B.Tech,META,2,MTPC11,Programme Core – 1 / Metallurgical Thermodynamics and
+NIT TRICHY,B.Tech,META,3,MAIR41,Fourier Series and Numerical Methods
+NIT TRICHY,B.Tech,META,3,MTPC12,Programme Core – 2 / Physical Metallurgy
+NIT TRICHY,B.Tech,META,3,MTPC14,Programme Core – 3 / Transport Phenomena
+NIT TRICHY,B.Tech,META,3,MTPC16,"Programme Core – 4 / Polymers, Composites and"
+NIT TRICHY,B.Tech,META,3,MTPC13,Programme Core – 5 / Engg. Mechanics and Strength of
+NIT TRICHY,B.Tech,META,3,MTLR30,Process Metallurgy Laboratory
+NIT TRICHY,B.Tech,META,3,MTLR31,"Polymers, Composites and Ceramics Laboratory"
+NIT TRICHY,B.Tech,META,4,MTPC15,Programme Core – 8 / Mechanical Behavior and Testing of
+NIT TRICHY,B.Tech,META,4,MTPC17,Programme Core – 6 / Iron Making and Steel Making
+NIT TRICHY,B.Tech,META,4,MTPC18,Programme Core – 7 / Phase Transformation and Heat
+NIT TRICHY,B.Tech,META,4,MTLR32,Metallography and Heat Treatment Laboratory
+NIT TRICHY,B.Tech,META,4,MTLR33,Materials Testing and Inspection Laboratory
+NIT TRICHY,B.Tech,META,5,HSIR13,Industrial Economics
+NIT TRICHY,B.Tech,META,5,MTPC19,Programme Core – 11 / Materials Characterization
+NIT TRICHY,B.Tech,META,5,MTPC20,Programme Core – 9 / Metal Casting Technology
+NIT TRICHY,B.Tech,META,5,MTPC22,Programme Core – 10 / Metal Forming Technology
+NIT TRICHY,B.Tech,META,5,MTPC21,Programme Core – 12 / Materials Joining Technology
+NIT TRICHY,B.Tech,META,5,MTLR34,Foundry and Welding Laboratory
+NIT TRICHY,B.Tech,META,5,MTLR35,Metal Forming and Particulate Processing Laboratory
+NIT TRICHY,B.Tech,META,6,MTIR19,Industrial Lecture
+NIT TRICHY,B.Tech,META,6,MTIR14,Professional Ethics
+NIT TRICHY,B.Tech,META,6,MTPC25,Programme Core – 13 / Corrosion and Surface
+NIT TRICHY,B.Tech,META,6,MTPC23,Programme Core – 14 / Non-ferrous Physical Metallurgy
+NIT TRICHY,B.Tech,META,6,MTPC24,"Programme Core – 15 / Electrical, Electronic and Magnetic"
+NIT TRICHY,B.Tech,META,6,MTLR36,Non-ferrous Metallography and Characterization
+NIT TRICHY,B.Tech,META,6,MTLR37,Corrosion and Surface Engineering Laboratory
+NIT TRICHY,B.Tech,META,6,MTIR16,Summer Internship / Industrial Training / Academic
+NIT TRICHY,B.Tech,META,6,MTIR17,Project Work
+NIT TRICHY,B.Tech,META,7,MTIR16,Summer Internship / Industrial Training / Academic
+NIT TRICHY,B.Tech,META,7,MTIR18,Comprehensive Viva Voce
+NIT TRICHY,B.Tech,META,7,MTPC20,Programme Core – 11 / Metal Casting Technology
+NIT TRICHY,B.Tech,META,7,MTPC21,Programme Core – 12 / Materials Joining Technology
+NIT TRICHY,B.Tech,META,7,MTPC23,Programme Core – 13 / Non-ferrous Physical
+NIT TRICHY,B.Tech,META,8,MTIR17,Project Work / Equivalent no. of Electives
+NIT TRICHY,B.Tech,META,8,MTIR18,Comprehensive Viva Voce
+NIT TRICHY,B.Tech,META,8,MTPC25,Programme Core – 14 / Corrosion and Surface
+NIT TRICHY,B.Tech,META,8,MTPC24,"Programme Core – 15 / Electrical, Electronic and"
+NIT TRICHY,B.Tech,META,8,MTMC13,Introduction to Intellectual Property Rights 1 PRODUCTION ENGINEERING CURRICULUM FRAME WORK / FLEXIBLE CURRICULUM / NEP 2020 / NCrF / B.Tech. Course Credit Course Credit Course Credit Course Credit Credits Distribution I 7 19 - - - - - -
+NIT TRICHY,B.Tech,PROD,1,HSIR11,English for Communication (Theory and Laboratory)
+NIT TRICHY,B.Tech,PROD,1,MAIR11,Matrices and Calculus
+NIT TRICHY,B.Tech,PROD,1,CHIR11,Chemistry
+NIT TRICHY,B.Tech,PROD,1,PRIR15,Introduction to Production Engineering
+NIT TRICHY,B.Tech,PROD,1,EEIR11,Basics of Electrical and Electronics Engineering
+NIT TRICHY,B.Tech,PROD,1,MEIR12,Engineering Graphics
+NIT TRICHY,B.Tech,PROD,1,CHIR12,Chemistry Laboratory
+NIT TRICHY,B.Tech,PROD,2,MAIR21,Complex Analysis and Differential Equations
+NIT TRICHY,B.Tech,PROD,2,PHIR11,Physics
+NIT TRICHY,B.Tech,PROD,2,CSIR12,Introduction to Computer Programming (Theory and
+NIT TRICHY,B.Tech,PROD,2,CEIR11,Basics of Civil Engineering
+NIT TRICHY,B.Tech,PROD,2,ENIR11,Energy and Environmental Engineering
+NIT TRICHY,B.Tech,PROD,2,PRIR11,Engineering Practice
+NIT TRICHY,B.Tech,PROD,2,PHIR12,Physics Laboratory
+NIT TRICHY,B.Tech,PROD,2,SWIR11,NSS / NCC / NSO
+NIT TRICHY,B.Tech,PROD,2,PRPC10,Applied Mechanics
+NIT TRICHY,B.Tech,PROD,3,PRPC11,Casting and Welding Technology
+NIT TRICHY,B.Tech,PROD,3,PRPC12,Metallurgy and Materials Engineering
+NIT TRICHY,B.Tech,PROD,3,PRPC13,Fluid Mechanics and Thermal Engineering
+NIT TRICHY,B.Tech,PROD,3,PRPC14,Forming and Machining Technology
+NIT TRICHY,B.Tech,PROD,3,PRPEXX,Programme Elective – 1
+NIT TRICHY,B.Tech,PROD,3,PRLR10,Manufacturing Processes Laboratory
+NIT TRICHY,B.Tech,PROD,3,PRLR11,"Weldability, Foundry and Formability Laboratory"
+NIT TRICHY,B.Tech,PROD,4,MAIR44,Probability and Statistics
+NIT TRICHY,B.Tech,PROD,4,PRPC15,Kinematics and Dynamics of Machines
+NIT TRICHY,B.Tech,PROD,4,PRPC16,"Metrology, Quality and Safety"
+NIT TRICHY,B.Tech,PROD,4,PRPC17,Computer Numerical Control (CNC) Systems
+NIT TRICHY,B.Tech,PROD,4,PRPEXX,Programme Elective – 3
+NIT TRICHY,B.Tech,PROD,4,PRXXXX,Programme Elective – 4 / Open Elective – 1
+NIT TRICHY,B.Tech,PROD,4,PRLR12,Metrology and Computer Numerical Control Machines
+NIT TRICHY,B.Tech,PROD,4,PRLR13,Machine Drawing (CAD) and Cost Estimation
+NIT TRICHY,B.Tech,PROD,5,PRIR14,Professional Ethics
+NIT TRICHY,B.Tech,PROD,5,PRPC18,Industrial Automation and Mechatronics
+NIT TRICHY,B.Tech,PROD,5,PRPC19,Design of Machine Elements
+NIT TRICHY,B.Tech,PROD,5,PRPC20,Manufacturing System Simulation
+NIT TRICHY,B.Tech,PROD,5,PRPC21,Manufacturing Tooling and Automated Inspection
+NIT TRICHY,B.Tech,PROD,5,PRXXXX,Programme Elective – 5 / Open Elective – 2
+NIT TRICHY,B.Tech,PROD,5,PRLR14,Manufacturing System Simulation Laboratory
+NIT TRICHY,B.Tech,PROD,5,PRLR15,Industrial Automation and Mechatronics Laboratory
+NIT TRICHY,B.Tech,PROD,5,PRPEXX,Programme Elective – 5
+NIT TRICHY,B.Tech,PROD,6,PRIR19,Industrial Lecture
+NIT TRICHY,B.Tech,PROD,6,HSIR13,Industrial Economics
+NIT TRICHY,B.Tech,PROD,6,PRPC22,Operations Research
+NIT TRICHY,B.Tech,PROD,6,PRPC23,Analysis of Production Systems
+NIT TRICHY,B.Tech,PROD,6,PRPC24,Computer Aided Design and Rapid Prototyping
+NIT TRICHY,B.Tech,PROD,6,PRPEXX,Programme Elective – 6
+NIT TRICHY,B.Tech,PROD,6,PRXXXX,Programme Elective – 7 / Open Elective – 3
+NIT TRICHY,B.Tech,PROD,6,PRLR16,Advanced Manufacturing Laboratory
+NIT TRICHY,B.Tech,PROD,6,PRLR17,Industrial Engineering Laboratory
+NIT TRICHY,B.Tech,PROD,6,PRIR17,Project Work
+NIT TRICHY,B.Tech,PROD,6,PRIR16,Winter Internship
+NIT TRICHY,B.Tech,PROD,7,PRIR16,Summer Internship / Industrial Training / Academic
+NIT TRICHY,B.Tech,PROD,7,PRIR18,Comprehensive Viva Voce
+NIT TRICHY,B.Tech,PROD,7,PRPEXX,Programme Elective – 8
+NIT TRICHY,B.Tech,PROD,7,PRXXXX,Programme Elective – 10 / Open Elective – 4
+NIT TRICHY,B.Tech,PROD,7,PRPC20,Manufacturing System Simulation
+NIT TRICHY,B.Tech,PROD,7,PRPC21,Manufacturing Tooling and Automated Inspection
+NIT TRICHY,B.Tech,PROD,7,PRPC22,Operations Research
+NIT TRICHY,B.Tech,PROD,8,PRXXXX,Programme Elective – 12 / Open Elective – 4
+NIT TRICHY,B.Tech,PROD,8,PRIR17,Project Work
+NIT TRICHY,B.Tech,PROD,8,PRIR18,Comprehensive Viva Voce
+NIT TRICHY,B.Tech,PROD,8,PRPC23,Analysis of Production Systems
+NIT TRICHY,B.Tech,PROD,8,PRPC24,Computer Aided Design and Rapid Prototyping
+NIT TRICHY,B.Tech,PROD,8,PRPEXX,Programme Elective – 10
+SRM KTR,B.Tech,CSE,1,21LEH102T,Chinese
+SRM KTR,B.Tech,CSE,1,21LEH103T,French
+SRM KTR,B.Tech,CSE,1,21LEH104T,German
 SRM KTR,B.Tech,CSE,1,21MAB101T,Calculus and Linear Algebra
 SRM KTR,B.Tech,CSE,1,21CSS101J,Programming for Problem Solving
 SRM KTR,B.Tech,CSE,2,21LEH101T,Communicative English

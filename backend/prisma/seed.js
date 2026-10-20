@@ -21,7 +21,24 @@ async function main() {
     crlfDelay: Infinity
   });
 
-  let isFirstLine = true;
+  function parseCSVLine(text) {
+    const result = [];
+    let cur = '';
+    let inQuotes = false;
+    for (let i = 0; i < text.length; i++) {
+      const c = text[i];
+      if (c === '"') {
+        inQuotes = !inQuotes;
+      } else if (c === ',' && !inQuotes) {
+        result.push(cur.trim());
+        cur = '';
+      } else {
+        cur += c;
+      }
+    }
+    result.push(cur.trim());
+    return result;
+  }
 
   for await (const line of rl) {
     // Skip the header row
@@ -30,8 +47,11 @@ async function main() {
       continue;
     }
 
-    // Split CSV by commas
-    const [universityName, programme, branch, semesterStr, subjectCode, subjectName] = line.split(',');
+    if (!line.trim()) continue;
+
+    // Split CSV respecting quotes
+    const [universityName, programme, branch, semesterStr, subjectCode, rawSubjectName] = parseCSVLine(line);
+    const subjectName = (rawSubjectName || '').replace(/^"|"$/g, '').trim();
 
     if (!universityName || !subjectCode) continue;
 
