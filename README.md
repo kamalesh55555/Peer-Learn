@@ -5,7 +5,7 @@
 > A full-stack, curriculum-mapped learning platform designed for university students to collaborate, exchange quality notes and previous year question papers (PYQs), and host peer study sessions.
 
 ---
-Live Deployment - <https://peerlearn-study.vercel.app/>
+Live Deployment - <https://peerlearn-study.vercel.app/>[click here]
 ### 🚀 Key Features
 - **Curriculum Hierarchy:** Navigate seamlessly: `University ➔ Course ➔ Semester ➔ Subject`.
 - **Resource Hub:** Upload, download, upvote, and report notes/PYQs (PDF/PPT).
