@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "PeerLearn PostgreSQL Database Schema",
+    "output": "diagram/database-schema.html",
+    "visual_preset": "blueprint",
+    "quality_profile": "showcase"
+  },
+  "components": [
+    { "id": "university", "type": "database", "label": "University", "sublabel": "name (unique)", "pos": [40, 140], "size": [140, 68], "tag": "PK: id" },
+    { "id": "course", "type": "database", "label": "Course", "sublabel": "name, universityId", "pos": [280, 140], "size": [150, 68], "tag": "FK: universityId" },
+    { "id": "subject", "type": "database", "label": "Subject", "sublabel": "code, semester, courseId", "pos": [530, 140], "size": [160, 68], "tag": "FK: courseId" },
+    { "id": "resource", "type": "database", "label": "Resource", "sublabel": "title, fileUrl, hidden", "pos": [790, 140], "size": [160, 68], "tag": "FK: subjectId, uploaderId" },
+    { "id": "rating", "type": "database", "label": "ResourceRating", "sublabel": "isHelpful (upvote/downvote)", "pos": [1050, 90], "size": [170, 68], "tag": "UK: [resourceId, userId]" },
+    { "id": "report", "type": "security", "label": "Report", "sublabel": "reason, moderation", "pos": [1050, 220], "size": [170, 68], "tag": "UK: [resourceId, userId]" },
+    { "id": "user", "type": "security", "label": "User", "sublabel": "email, name, password, googleId", "pos": [790, 360], "size": [160, 68], "tag": "PK: id | email" },
+    { "id": "session", "type": "external", "label": "LiveSession", "sublabel": "topic, date, time, meetLink", "pos": [530, 360], "size": [160, 68], "tag": "FK: subjectId, hostId" }
+  ],
+  "boundaries": [
+    { "kind": "region", "label": "Academic Curriculum Structure", "wraps": ["university", "course", "subject"], "pad": 16 },
+    { "kind": "security-group", "label": "Study Resources & Moderation Engine", "wraps": ["resource", "rating", "report"], "pad": 16 },
+    { "kind": "region", "label": "User Accounts & Peer Tutoring", "wraps": ["user", "session"], "pad": 16 }
+  ],
+  "connections": [
+    { "id": "univ-to-course", "from": "university", "to": "course", "label": "1:N (Cascade)", "variant": "emphasis" },
+    { "id": "course-to-subject", "from": "course", "to": "subject", "label": "1:N (Cascade)", "variant": "emphasis" },
+    { "id": "subject-to-resource", "from": "subject", "to": "resource", "label": "1:N (Cascade)", "variant": "emphasis" },
+    { "id": "resource-to-rating", "from": "resource", "to": "rating", "label": "1:N ratings", "fromSide": "right", "toSide": "left" },
+    { "id": "resource-to-report", "from": "resource", "to": "report", "label": "1:N reports", "variant": "security", "fromSide": "right", "toSide": "left" },
+    { "id": "user-to-resource", "from": "user", "to": "resource", "label": "uploads (1:N)", "variant": "emphasis", "fromSide": "top", "toSide": "bottom" },
+    { "id": "subject-to-session", "from": "subject", "to": "session", "label": "sessions (1:N)", "fromSide": "bottom", "toSide": "top" },
+    { "id": "user-to-session", "from": "user", "to": "session", "label": "hosts (1:N)", "variant": "emphasis", "fromSide": "left", "toSide": "right" }
+  ],
+  "cards": [
+    { "dot": "cyan", "title": "Academic Relational Hierarchy", "items": ["University models distinct institutions (SRM, NIT Trichy, Anna Univ)", "Course maps degree programmes and branches with compound unique key", "Subject organizes 2,400+ modules grouped dynamically by semester"] },
+    { "dot": "rose", "title": "Crowd Moderation & Voting", "items": ["Resource stores uploaded study notes, syllabus materials, and PYQs", "ResourceRating enforces one vote per user per resource (composite unique constraint)", "Report system auto-flags spam; reaching 3 reports automatically hides the resource"] },
+    { "dot": "emerald", "title": "Authentication & Mentoring", "items": ["User supports hybrid auth (local bcrypt hashing + Google OAuth sub ID)", "LiveSession connects students to peer hosts with schedule and Google Meet integration", "All child records configure onDelete: Cascade for automated referential integrity"] }
+  ]
+}

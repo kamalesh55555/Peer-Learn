@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "receiptId": "cbc8e839-f3ae-45bc-8a0f-77153b79a86f",
+  "status": "current",
+  "command": "deliver",
+  "type": "architecture",
+  "input": "C:\\Users\\KAMALMONE\\OneDrive\\Desktop\\FSD-PR\\diagram\\database-schema.candidate.json",
+  "output": "C:\\Users\\KAMALMONE\\OneDrive\\Desktop\\FSD-PR\\diagram\\database-schema.html",
+  "specification": {
+    "sha256": "7327a0643169deafee22e8af7d24c49db1a973d7c70ef83e0969f42769a08b2c",
+    "bytes": 4095
+  },
+  "artifact": {
+    "sha256": "e2f44e71f9052159ed1058706cc9226345f6d0d59e3f2a59b1094171e6806846",
+    "bytes": 763315
+  }
+}
